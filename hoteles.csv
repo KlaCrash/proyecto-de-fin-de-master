@@ -1,0 +1,768 @@
+hotel_id;ciudad;tipo;nombre;estrellas
+1;Madrid;hotel;Hotel Atlántico;4
+2;Madrid;hotel;Catalonia Plaza España Hotel & Spa;4
+3;Madrid;hotel;Soho Boutique Opera;4
+4;Madrid;hotel;Hotel Miau;3
+5;Madrid;hotel;Hotel Cortezo;3
+6;Madrid;hotel;Soho Boutique Congreso;4
+7;Madrid;hotel;NH Collection Madrid Suecia;5
+8;Madrid;hotel;Novotel Madrid Center;4
+9;Madrid;hotel;Grupotel Mayorazgo;4
+10;Madrid;hotel;Preciados;4
+11;Madrid;hotel;Catalonia Gran Vía Madrid;4
+12;Madrid;hotel;NH Madrid Nacional;4
+13;Madrid;hotel;Intelier Palacio San Martin;4
+14;Madrid;hotel;Ikonik Gran Vía;4
+15;Madrid;hotel;Eurostars Central;4
+16;Madrid;hotel;Gran View Apartments;4
+17;Madrid;hotel;H10 Puerta de Alcalá;4
+18;Madrid;hotel;Catalonia Puerta del Sol;4
+19;Madrid;hotel;madrid central gran via Suites;4
+20;Madrid;hotel;Emperador;4
+21;Madrid;hotel;Gran Central Suites;3
+22;Madrid;hotel;Espahotel Gran Vía;3
+23;Madrid;hotel;Leonardo Hotel Madrid City Center;3
+24;Madrid;hotel;limehome Madrid Calle Ave María - estancia temporal;3
+25;Madrid;hotel;Petit Palace Alcalá;4
+26;Madrid;hostal;Hostal Aresol;2
+27;Madrid;hostal;Hs Madrid Centro Atocha;2
+28;Madrid;hostal;EMBA ROOM;3
+29;Madrid;hostal;Hostal Santo Domingo;3
+30;Madrid;hostal;The Match Madrid;3
+31;Madrid;hostal;Madrid First Stop- Lope de Vega's Dream Coliving;0
+32;Madrid;hostal;Le Petit Palü-Fuencarral;3
+33;Madrid;hostal;Hostal Retiro;3
+34;Madrid;hostal;Hostal Moncloa;3
+35;Madrid;hostal;Queens Bernabéu - Alquiler Corta Duración;3
+36;Madrid;hostal;Ibis Budget Madrid Calle Alcalá;3
+37;Madrid;hostal;Golden Alcala;3
+38;Madrid;hostal;Hostal Las Torres;1
+39;Madrid;hostal;Hostal La Zona;3
+40;Madrid;hostal;Fuencarral Rooms;3
+41;Madrid;hostal;Casa de Huéspedes Galaica;3
+42;Madrid;hostal;Rincón de Gran Vía;3
+43;Madrid;hostal;Hostal Rivera - Atocha;2
+44;Madrid;hostal;Hostal Los Alpes;1
+45;Madrid;hostal;8Rooms Madrid;3
+46;Madrid;hostal;Palacete de la Almudayna;3
+47;Madrid;hostal;Hostal Conde De Alba;0
+48;Madrid;hostal;Alojamiento pleno centro Fuencarral;3
+49;Madrid;hostal;Hostal Santa Isabel;0
+50;Madrid;hostal;Atocha28;3
+51;Madrid;albergue;Hostal Carmen-Gran Vía;0
+52;Madrid;albergue;Hostal Charlotte-Gran Vía;0
+53;Madrid;albergue;Hostal Josefina-Gran Vía;3
+54;Madrid;albergue;LUTHIA Puerta del Sol;0
+55;Madrid;albergue;Madrid Private Rooms - Ferrer;0
+56;Madrid;albergue;Hostal Juliette-Gran Vía;0
+57;Madrid;albergue;H-A San Mateo Suites;0
+58;Madrid;albergue;Ok Hostel Madrid;0
+59;Madrid;albergue;Hostal Gran Via 44;2
+60;Madrid;albergue;UNPLAN Hostel;0
+61;Madrid;albergue;RESIDENCIA ABAY;0
+62;Madrid;albergue;Ronda9 central suites;0
+63;Madrid;albergue;room00 Gran Vía Hostel;0
+64;Madrid;albergue;Hostal La Rúa-Montera;0
+65;Madrid;albergue;Petit Hostel La Latina;0
+66;Madrid;albergue;THC Tirso Molina Hostel;0
+67;Madrid;albergue;Petit Hostel Palacio Real;0
+68;Madrid;albergue;Madrid Rooms - Callao CH;0
+69;Madrid;albergue;room00 Chueca Hostel;0
+70;Madrid;albergue;Far Home Gran Vía;0
+71;Madrid;albergue;AP Leganitos -No Ascensor-;0
+72;Madrid;albergue;Far Home Atocha;0
+73;Madrid;albergue;Far Home Bernabeu;0
+74;Madrid;albergue;Ideal Hostel Madrid;0
+75;Sevilla;hotel;Triana Suite Apartament;0
+76;Sevilla;hotel;Vibe Stay Sevilla La Cartuja;0
+77;Sevilla;hotel;Hotel Alcázar;3
+78;Sevilla;hotel;Silken Al-Andalus Palace;4
+79;Sevilla;hotel;Hotel Murillo Reinoso;2
+80;Sevilla;hotel;Hotel Patio de las Cruces;1
+81;Sevilla;hotel;Zaida Boutique Hotel;1
+82;Sevilla;hotel;Exe Sevilla Macarena;4
+83;Sevilla;hotel;Welldone Antiquarium;2
+84;Sevilla;hotel;Reyes Católicos;3
+85;Sevilla;hotel;Hotel América Sevilla;4
+86;Sevilla;hotel;Casona de San Andrés Boutique Hotel;3
+87;Sevilla;hotel;Hotel Cervantes;4
+88;Sevilla;hotel;Casa Palacio Don Pedro;1
+89;Sevilla;hotel;Hotel Doña Blanca;2
+90;Sevilla;hotel;Hotel Murillo;2
+91;Sevilla;hotel;Letoh Letoh Sevilla;0
+92;Sevilla;hotel;ISA Sevilla Suites;0
+93;Sevilla;hotel;Cool Sevilla Hotel;2
+94;Sevilla;hotel;Catalonia Giralda;4
+95;Sevilla;hotel;Exe Sevilla Palmera;4
+96;Sevilla;hotel;U-Sense Sevilla Centro;3
+97;Sevilla;hotel;Welldone Sierpes Boutique;1
+98;Sevilla;hotel;Hotel Bécquer;4
+99;Sevilla;hotel;Apartamentos Magna Sevilla;3
+100;Sevilla;hostal;The Clover;3
+101;Sevilla;hostal;Lukanda Arenal;3
+102;Sevilla;hostal;nüa alameda;3
+103;Sevilla;hostal;Hostal San Vicente II;3
+104;Sevilla;hostal;Hemd Hotels Puerta Real Boutique;4
+105;Sevilla;hostal;Le Petit Palü Sevilla;3
+106;Sevilla;hostal;nüa cicerone;2
+107;Sevilla;hostal;room Select Tetuán;3
+108;Sevilla;hostal;Hostal La Muralla;1
+109;Sevilla;hostal;Lukanda Mariana;3
+110;Sevilla;hostal;nüa santa cruz;3
+111;Sevilla;hostal;Hostal Callejon del Agua;3
+112;Sevilla;hostal;Welldone Metropol;1
+113;Sevilla;hostal;Pension Doña Trinidad;3
+114;Sevilla;hostal;Hostal Hom Museo;1
+115;Sevilla;hostal;Hostal Sierpes;1
+116;Sevilla;hostal;Casa Boutique La Pila del Pato;1
+117;Sevilla;hostal;HOSTAL NERVION;3
+118;Sevilla;hostal;Pensión Córdoba;3
+119;Sevilla;hostal;Hostal San Francisco;1
+120;Sevilla;hostal;nüa santiago15;3
+121;Sevilla;hostal;Hostal Santa Catalina;1
+122;Sevilla;hostal;Center Suites San Eloy;1
+123;Sevilla;hostal;Hostal Trajano;1
+124;Sevilla;hostal;Lukanda Hospec;3
+125;Sevilla;albergue;Triana Riverside;0
+126;Sevilla;albergue;Rio Hostel;0
+127;Sevilla;albergue;room00 Salvador Hostel;0
+128;Sevilla;albergue;Albergue Inturjoven Sevilla;2
+129;Sevilla;albergue;Sweet Sevilla Hostel;0
+130;Sevilla;albergue;The Nomad Hostel&Pension;0
+131;Sevilla;albergue;Black Swan Hostel Sevilla;0
+132;Sevilla;albergue;SevillaDream;0
+133;Sevilla;albergue;U-Sense For You Hostel Sevilla;0
+134;Sevilla;albergue;Onefam Centro;0
+135;Sevilla;albergue;Toc Hostel Sevilla;0
+136;Sevilla;albergue;New Samay Hostel;0
+137;Sevilla;albergue;Hostel Triana Backpackers;0
+138;Sevilla;albergue;La Flamenka Hostel;0
+139;Sevilla;albergue;San Isidoro Hostel Sevilla;0
+140;Sevilla;albergue;Hub Hostel Seville;0
+141;Sevilla;albergue;JOY Plaza de Armas;0
+142;Sevilla;albergue;LIAM STUDIO IN SEVILLA CENTRIC;0
+143;Sevilla;albergue;Hostel Ikigai;0
+144;Sevilla;albergue;Hostel A2C;0
+145;Sevilla;albergue;SEVILLE YOUR WAY;0
+146;Sevilla;albergue;Hostel Ibarra by Bossh! Hotels;0
+147;Sevilla;albergue;Onefam Catedral;0
+148;Sevilla;albergue;JOY Setas Coworking;0
+149;Granada;hotel;Hotel Sacromonte;3
+150;Granada;hotel;Hotel Inglaterra;3
+151;Granada;hotel;Turia Granada;4
+152;Granada;hotel;Hotel Plaza Nueva;3
+153;Granada;hotel;Hotel Cortijo Landete;4
+154;Granada;hotel;DWO Urban Granada;4
+155;Granada;hotel;Hotel Carlos V;1
+156;Granada;hotel;Hotel Granada Center;4
+157;Granada;hotel;Don Juan;3
+158;Granada;hotel;Casa Palacio Pilar del Toro;3
+159;Granada;hotel;Soho Boutique Granada;4
+160;Granada;hotel;Abadía Hotel;2
+161;Granada;hotel;Eurostars San Antón;4
+162;Granada;hotel;Barceló Granada Congress;5
+163;Granada;hotel;Hotel Maciá Granada Five Senses Rooms & Suites;3
+164;Granada;hotel;Hotel Granada by Pierre & Vacances;4
+165;Granada;hotel;Hotel Monasterio Granada - Adults Only;2
+166;Granada;hotel;Khu Hotel;3
+167;Granada;hotel;Hotel Macià Cóndor;4
+168;Granada;hotel;Exe Triunfo Granada;4
+169;Granada;hotel;Sercotel Palacio de los Gamboa;4
+170;Granada;hotel;SUITES CASA DE LAS COLUMNAS;3
+171;Granada;hotel;Ibis Granada;1
+172;Granada;hostal;Granada Suites by Olala Homes;3
+173;Granada;hostal;Atenas Granada;2
+174;Granada;hostal;La Perla Granada Suites;3
+175;Granada;hostal;Nest Style Granada;1
+176;Granada;hostal;Casa de Federico Boutique;3
+177;Granada;hostal;Veronica Centro;2
+178;Granada;hostal;Hostal Rodri;2
+179;Granada;hostal;Casa Vestali;3
+180;Granada;hostal;Itinere Rooms;3
+181;Granada;hostal;Hostal la Ninfa;1
+182;Granada;hostal;Hostal Sonia Granada;3
+183;Granada;hostal;Pensión Recogidas;1
+184;Granada;hostal;San José Guest House;3
+185;Granada;hostal;Arteaga Hostal & Baños Arabes Elvira;3
+186;Granada;hostal;Pensión Matilde;0
+187;Granada;hostal;AMC Granada;3
+188;Granada;hostal;Pensión Eurosol;2
+189;Granada;hostal;Pension Mesones;0
+190;Granada;hostal;Pension Boutique Gomerez Gallegos;0
+191;Granada;hostal;Hotelito Suecia;2
+192;Granada;hostal;Pensión Ciudad Navarro Ramos;0
+193;Granada;hostal;Pensión Moni Albayzin;1
+194;Granada;hostal;Sueños de Lorca Guest House;0
+195;Granada;hostal;Pensión Veracruz 2;0
+196;Granada;hostal;Pensión ANA BELÉN;3
+197;Granada;albergue;Resa Emperador Carlos V;0
+198;Granada;albergue;Toc Hostel Granada;0
+199;Granada;albergue;4U Hostel;0
+200;Granada;albergue;Futurotel Granada;0
+201;Granada;albergue;ECO Hostel;0
+202;Granada;albergue;Hostel Carlota Braun;0
+203;Granada;albergue;Granada Old Town Hostel;0
+204;Granada;albergue;Oripando Hostel;0
+205;Granada;albergue;Oh! My Hostel;0
+206;Granada;albergue;El Granado Hostel;0
+207;Granada;albergue;Albergue Inturjoven Granada;2
+208;Granada;albergue;Oasis Backpackers' Hostel Granada;0
+209;Granada;albergue;Amaka House;0
+210;Granada;albergue;Broz Hostel;0
+211;Granada;albergue;Hostel Nüt;0
+212;Granada;albergue;Alojamiento Nevada;0
+213;Granada;albergue;Sierra Nevada Hostel;0
+214;Córdoba;hotel;NH Collection Amistad Córdoba;4
+215;Córdoba;hotel;H10 Palacio Colomera;4
+216;Córdoba;hotel;Eurostars Conquistador;4
+217;Córdoba;hotel;Eurostars Palace;5
+218;Córdoba;hotel;Hotel Riviera;2
+219;Córdoba;hotel;Eurostars Patios de Cordoba;4
+220;Córdoba;hotel;NH Córdoba Califa;4
+221;Córdoba;hotel;Hesperia Córdoba;4
+222;Córdoba;hotel;Las Casas de la Judería de Córdoba;4
+223;Córdoba;hotel;Hospedería Baños Arabes de Córdoba Dos;2
+224;Córdoba;hotel;Hotel Macià Alfaros;4
+225;Córdoba;hotel;Soho Boutique Córdoba;4
+226;Córdoba;hotel;Eurostars Azahar;4
+227;Córdoba;hotel;Sercotel Córdoba Medina Azahara;3
+228;Córdoba;hotel;Hotel Cetina Casa de Aguilar;2
+229;Córdoba;hotel;Hospes Palacio del Bailio, a Member of Design Hotels;5
+230;Córdoba;hotel;Hotel Cordoba Center;4
+231;Córdoba;hotel;Eurostars Maimonides;3
+232;Córdoba;hotel;Hotel Posada de Vallina by MiRa;3
+233;Córdoba;hotel;Hotel Boutique Suite Generis;2
+234;Córdoba;hotel;Hotel Oasis;0
+235;Córdoba;hotel;Puerta de la Ribera Suites;4
+236;Córdoba;hotel;Hotel Marisa;2
+237;Córdoba;hotel;Arcos de Medina - Apartamentos premium;4
+238;Córdoba;hotel;Apartamentos Ribera 19;4
+239;Córdoba;hostal;Hospederia Baños Arabes De Cordoba;4
+240;Córdoba;hostal;Soho Boutique Atalia;3
+241;Córdoba;hostal;Patios del Orfebre;1
+242;Córdoba;hostal;Hostal Maestre;1
+243;Córdoba;hostal;Hostal Palacio del Corregidor;3
+244;Córdoba;hostal;Hostal la Fuente;1
+245;Córdoba;hostal;La Despensa de la Corredera Hostal;1
+246;Córdoba;hostal;Los patios “ El Carmen”;3
+247;Córdoba;hostal;Hospedería Luis de Góngora;1
+248;Córdoba;hostal;Pension Internacional;0
+249;Córdoba;hostal;Hospedería Los Angeles;3
+250;Córdoba;hostal;HOTEL BOUTIQUE ALMA ANDALUSí;1
+251;Córdoba;hostal;Apartamento El Duque - Plaza de las Tendillas;0
+252;Córdoba;hostal;Pension el Portillo;3
+253;Córdoba;hostal;Hostal Almanzor;1
+254;Córdoba;hostal;Puerta de la Luna;0
+255;Córdoba;hostal;Casa longa;3
+256;Córdoba;hostal;Hostal Ronda;3
+257;Córdoba;hostal;Hostal Alcazar I;2
+258;Córdoba;hostal;La Piquera Hostal;3
+259;Córdoba;hostal;Safestay Cordoba Mezquita Catedral;2
+260;Córdoba;hostal;Vivienda Turística Templo Romano;3
+261;Córdoba;hostal;Pensión Los Arcos;0
+262;Córdoba;hostal;The Dreamers&Co;3
+263;Córdoba;albergue;Arc House Ribera Only Adults;0
+264;Córdoba;albergue;Hostel Mayflowers;0
+265;Córdoba;albergue;Líbere Córdoba Patio Santa Marta;0
+266;Córdoba;albergue;Panorámicas Córdoba Centro;0
+267;Córdoba;albergue;Albergue Inturjoven Córdoba;0
+268;Córdoba;albergue;Albergue Multiaventura Active Andalucia;0
+269;Málaga;hotel;H10 Croma Málaga;4
+270;Málaga;hotel;Soho Boutique Colón;4
+271;Málaga;hotel;Mi Andalusia Hotel Experience;0
+272;Málaga;hotel;Soho Boutique Equitativa;4
+273;Málaga;hotel;Hotel Larios Málaga;4
+274;Málaga;hotel;Hotel Guadalmedina;4
+275;Málaga;hotel;Hotel Don Curro;3
+276;Málaga;hotel;AC Hotel Málaga Palacio by Marriott;4
+277;Málaga;hotel;NH Málaga;4
+278;Málaga;hotel;Soho Boutique Urban;3
+279;Málaga;hotel;Soho Boutique Malaga;3
+280;Málaga;hotel;Hotel MS Maestranza Málaga;4
+281;Málaga;hotel;Vincci Selección Posada del Patio;5
+282;Málaga;hotel;Molina Lario;4
+283;Málaga;hotel;Eurostars Astoria;3
+284;Málaga;hotel;Salles Hotel Málaga Centro;4
+285;Málaga;hotel;Ilunion Málaga;4
+286;Málaga;hotel;Room Mate Collection Valeria, Málaga;4
+287;Málaga;hotel;Soho Boutique Bahía Málaga;4
+288;Málaga;hotel;Madeinterranea Suites;0
+289;Málaga;hotel;Novotel Suites Malaga Centro;4
+290;Málaga;hotel;Vincci Larios Diez;4
+291;Málaga;hotel;ICON Malabar;4
+292;Málaga;hotel;Soho Boutique Las Vegas;3
+293;Málaga;hotel;Málaga Premium Hotel;3
+294;Málaga;hostal;CASA MIRAFLORES;4
+295;Málaga;hostal;Ola Málaga;3
+296;Málaga;hostal;Pinar Malaga Rooms;3
+297;Málaga;hostal;easyHotel Malaga City Centre;1
+298;Málaga;hostal;Rafaela Guest House;0
+299;Málaga;hostal;Fan Rooms Gálvez;3
+300;Málaga;hostal;Fan Rooms Duquesa;3
+301;Málaga;hostal;Shanti’s Andalusian Rooms;3
+302;Málaga;hostal;Casa Cervantes Malaga;0
+303;Málaga;hostal;Pension Terminal;3
+304;Málaga;hostal;Vas Málaga Ciudad;3
+305;Málaga;hostal;Petit Malaga Congress;3
+306;Málaga;hostal;Urban Rooms B&R;3
+307;Málaga;hostal;Hostal Romerito;3
+308;Málaga;hostal;Alojamiento del Sol;0
+309;Málaga;hostal;Art House;0
+310;Málaga;hostal;Casita Lucero;0
+311;Málaga;hostal;Cream Boutique Málaga;3
+312;Málaga;hostal;El Nogal Home;3
+313;Málaga;hostal;Villa Alicia Guest House;0
+314;Málaga;hostal;Live It Malaga;0
+315;Málaga;hostal;Casa del Patio Andaluz;0
+316;Málaga;hostal;Apartamentos Turisticos Mastil 16;3
+317;Málaga;hostal;Hostal Larios;0
+318;Málaga;albergue;Hostal Vidamia;0
+319;Málaga;albergue;"Nordik Rooms Urban - Trinidad ""Copenhague""";0
+320;Málaga;albergue;Livensa Living Studios Málaga Feria;1
+321;Málaga;albergue;Suites Larios;0
+322;Málaga;albergue;Residencia Universitaria Resa Campus Málaga;0
+323;Málaga;albergue;"Nordik Rooms Urban - Centro ""Helsinki""";0
+324;Málaga;albergue;Residencia Universitaria Resa Málaga Centro;0
+325;Málaga;albergue;"Nordik Rooms Urban - Centro ""Estocolmo""";0
+326;Málaga;albergue;Albergue Inturjoven Malaga;2
+327;Málaga;albergue;"Nordik Rooms Urban - Trinidad ""Mariehamn""";0
+328;Málaga;albergue;Málaga Centro Hostel;0
+329;Málaga;albergue;"Nordik Rooms Urban - Segalerva ""Geiranger""";0
+330;Málaga;albergue;Feel Hostels City Center;0
+331;Málaga;albergue;La Merced Centro Rooms;0
+332;Málaga;albergue;Coeo Pod Hostel Beatas;0
+333;Málaga;albergue;Feel Hostels Soho Malaga;0
+334;Málaga;albergue;La Moraga de Poniente Malaga Hostel;0
+335;Málaga;albergue;Coeo Hernan Ruiz Rooftop Pool Hostel;0
+336;Málaga;albergue;Malaga Stop Hostel AB;0
+337;Málaga;albergue;The Lights Hostel;0
+338;Málaga;albergue;Hostel Sorolla Playa;0
+339;Málaga;albergue;The Urban Jungle Hostel;0
+340;Málaga;albergue;Historic Malaga Centro Rooms;0
+341;Málaga;albergue;Terraza del Limonar;0
+342;Barcelona;hotel;Hotel Annex - Rey Don Jaime I;1
+343;Barcelona;hotel;Hotel Lincoln Lounge;3
+344;Barcelona;hotel;Hotel Paseo de Gracia;1
+345;Barcelona;hotel;Sunotel Aston;3
+346;Barcelona;hotel;Hotel Lleó;3
+347;Barcelona;hotel;Wilson Boutique Hotel;4
+348;Barcelona;hotel;Chi;3
+349;Barcelona;hotel;Hotel Balmoral;4
+350;Barcelona;hotel;SM Hotel Teatre Auditori;3
+351;Barcelona;hotel;La Ciudadela;1
+352;Barcelona;hotel;Travelodge Barcelona Poblenou;1
+353;Barcelona;hotel;Ronda House;3
+354;Barcelona;hotel;Hotel Peninsular;1
+355;Barcelona;hotel;H La Paloma Boutique;2
+356;Barcelona;hotel;Hotel SB Diagonal Zero 4 Sup;4
+357;Barcelona;hotel;Sunotel Club Central;4
+358;Barcelona;hotel;Casual Colours Barcelona;2
+359;Barcelona;hotel;Hotel Market;3
+360;Barcelona;hotel;Hotel SB Glow 4 Sup;4
+361;Barcelona;hotel;NH Barcelona Eixample;3
+362;Barcelona;hotel;Aparthotel Mariano Cubi Barcelona;4
+363;Barcelona;hotel;Hotel Travessera;2
+364;Barcelona;hotel;Acta CITY47;4
+365;Barcelona;hotel;Hotel Everest;1
+366;Barcelona;hotel;Paral·lel;2
+367;Barcelona;hostal;Hostal Orleans;2
+368;Barcelona;hostal;Hostal Sans;2
+369;Barcelona;hostal;Hostalin Barcelona Diputacion;2
+370;Barcelona;hostal;Hostal BESTPRICE Barcelona Stadium;1
+371;Barcelona;hostal;Hostal Portugal;1
+372;Barcelona;hostal;Hostal Central Barcelona;2
+373;Barcelona;hostal;Ola Living Hostal Diagonal;3
+374;Barcelona;hostal;Hostalin Barcelona Gran Via;3
+375;Barcelona;hostal;Amra Barcelona Caspe;2
+376;Barcelona;hostal;Hostal Benidorm;2
+377;Barcelona;hostal;BruStar Gotic-Centric;2
+378;Barcelona;hostal;Hostal Bejar;1
+379;Barcelona;hostal;Hostal Baler;2
+380;Barcelona;hostal;Hostal Boutique Khronos;2
+381;Barcelona;hostal;Hostal Nuevo Colon;0
+382;Barcelona;hostal;Cami Gallery Barcelona;3
+383;Barcelona;hostal;Blanc Guest House;0
+384;Barcelona;hostal;H Regas Adults Only;2
+385;Barcelona;hostal;Bailén Green House;3
+386;Barcelona;hostal;Ecozentric;3
+387;Barcelona;hostal;Hostal la Palmera;2
+388;Barcelona;hostal;Hostal Excellence;1
+389;Barcelona;hostal;Hostal Balkonis;2
+390;Barcelona;hostal;Hostal Barcelona Travel;3
+391;Barcelona;hostal;Hostal Nitzs Bcn;1
+392;Barcelona;albergue;AMISTAT City Hostel Barcelona;0
+393;Barcelona;albergue;Alani Montjuic;0
+394;Barcelona;albergue;Blue Barcelona;0
+395;Barcelona;albergue;Weflating Boutique Hostel;0
+396;Barcelona;albergue;Live & Dream;0
+397;Barcelona;albergue;Casa Gracia;0
+398;Barcelona;albergue;Alberg Pere Tarrés;0
+399;Barcelona;albergue;Des Artistes;0
+400;Barcelona;albergue;Arc House Gracia;0
+401;Barcelona;albergue;Hostal Granvia 628;0
+402;Barcelona;albergue;Alberg Barcelona Xanascat;0
+403;Barcelona;albergue;Easy Sants by Bossh!;0
+404;Barcelona;albergue;Arc House Barcelona;0
+405;Barcelona;albergue;Room018BCN;0
+406;Barcelona;albergue;Diagonal House Hostel;1
+407;Barcelona;albergue;Buba House;0
+408;Barcelona;albergue;BcnSportHostels;0
+409;Barcelona;albergue;Meeting Point Hostels;0
+410;Barcelona;albergue;Generator Barcelona;1
+411;Barcelona;albergue;Primavera Hostel;0
+412;Barcelona;albergue;Bird House;0
+413;Barcelona;albergue;Paraiso Hostel;0
+414;Barcelona;albergue;Bed & Art Barcelona;0
+415;Barcelona;albergue;Studio Hostel;0
+416;Barcelona;albergue;Wow Hostel Barcelona;0
+417;Valencia;hotel;Hotel Villacarlos;3
+418;Valencia;hotel;Sweet Hotel Continental;2
+419;Valencia;hotel;Sweet Hotel Renasa;3
+420;Valencia;hotel;Hotel Mediterraneo Valencia;3
+421;Valencia;hotel;NH Valencia Las Ciencias;3
+422;Valencia;hotel;NH Ciudad de Valencia;3
+423;Valencia;hotel;Hotel Nido Malvarrosa;0
+424;Valencia;hotel;Livensa Living Studios Valencia Marina Real Hotel-Apartamento;0
+425;Valencia;hotel;Hografic Hotel;2
+426;Valencia;hotel;Vincci Lys;4
+427;Valencia;hotel;Casual Vintage Valencia;2
+428;Valencia;hotel;B&B HOTEL Valencia Ciudad de las Ciencias;3
+429;Valencia;hotel;Resa Patacona;2
+430;Valencia;hotel;Port Feria Valencia;4
+431;Valencia;hotel;Venecia Plaza Centro;2
+432;Valencia;hotel;Arena Zone Hotel;3
+433;Valencia;hotel;Exe Rey Don Jaime;4
+434;Valencia;hotel;Sol Playa;2
+435;Valencia;hotel;Vincci Palace;4
+436;Valencia;hotel;Apartahotel Espai Verd Benimaclet;3
+437;Valencia;hotel;Hotel RH Sorolla Centro;3
+438;Valencia;hotel;Dorm4You Arena;3
+439;Valencia;hotel;Hotel Valencia de la Música;2
+440;Valencia;hotel;Holiday Inn Express Ciudad de las Ciencias by IHG;3
+441;Valencia;hotel;Hotel Conqueridor;4
+442;Valencia;hostal;Hostal On Dormire Valencia;3
+443;Valencia;hostal;Pensión Alicante by Moontels;0
+444;Valencia;hostal;Dormavalencia Hostel Regne;1
+445;Valencia;hostal;Concept Rooms;0
+446;Valencia;hostal;Rotaret;0
+447;Valencia;hostal;Hospederia del Pilar;3
+448;Valencia;hostal;Dormavalencia Hostel;1
+449;Valencia;hostal;Hostal Blayet;3
+450;Valencia;hostal;FLORIT FLATS - The Serreria Rooms;3
+451;Valencia;hostal;Blanq Comedias;4
+452;Valencia;hostal;Kasa Katia Guest House;0
+453;Valencia;hostal;BET Apartments - Canovas rooms;3
+454;Valencia;hostal;Hostal RR Feria by Beleret;3
+455;Valencia;hostal;STAR Plaza España;0
+456;Valencia;hostal;Flats Friends Plaza de la Reina;3
+457;Valencia;hostal;Habitaciones Barra89;0
+458;Valencia;hostal;Pension Waksman;1
+459;Valencia;hostal;BYPILLOW Sinfonía;3
+460;Valencia;hostal;Yard Patraix by Concept Flats;4
+461;Valencia;hostal;Original Domino House;3
+462;Valencia;hostal;Blue House Valencia;3
+463;Valencia;hostal;Hostal Antigua Morellana;1
+464;Valencia;hostal;Nommadas Jero - Only Adults;4
+465;Valencia;hostal;Suites Rooms Valencia;0
+466;Valencia;hostal;COOL LOFTS center valencia;3
+467;Valencia;albergue;SingularStays Botanico 29 Rooms;0
+468;Valencia;albergue;Colegio Mayor Resa La Concepción;0
+469;Valencia;albergue;Quart Youth Hostel & Apartments;0
+470;Valencia;albergue;River Hostel;0
+471;Valencia;albergue;Russafa Youth Hostel;0
+472;Valencia;albergue;The Venue Hostel Boutique;0
+473;Valencia;albergue;The POD Suite Hostel Blasco;0
+474;Valencia;albergue;Urban Youth Hostel;0
+475;Valencia;albergue;Purple Nest Hostel;0
+476;Valencia;albergue;PLAZA HOME ResEst;0
+477;Valencia;albergue;SOM Hostel By The Venue;0
+478;Valencia;albergue;room00 Valencia Hostel;0
+479;Valencia;albergue;Beach & Arts Hostel Valencia;0
+480;Valencia;albergue;Home Youth Hostel by Feetup Hostels;0
+481;Valencia;albergue;Optimus Comfort;0
+482;Valencia;albergue;Colo Colo Hostel Valencia;0
+483;Valencia;albergue;Red Nest Hostel;0
+484;Valencia;albergue;The POD Suite Hostel Village;0
+485;Valencia;albergue;UP Hostel Valencia;0
+486;Valencia;albergue;Feetup Home Backpackers Valencia;0
+487;Valencia;albergue;HotSpot Valencia;0
+488;Valencia;albergue;Aiora Hostel;0
+489;Valencia;albergue;Cantagua Hostel;0
+490;Valencia;albergue;Habitaciones doble;0
+491;Toledo;hotel;Hotel Santa Isabel;2
+492;Toledo;hotel;Abad Toledo;3
+493;Toledo;hotel;Hotel Hacienda del Cardenal;4
+494;Toledo;hotel;Hotel Los Cigarrales;2
+495;Toledo;hotel;Hotel Martin;2
+496;Toledo;hotel;Beatriz Toledo Auditorium & Spa;4
+497;Toledo;hotel;Princesa Galiana;3
+498;Toledo;hotel;Sercotel Toledo Renacimiento;4
+499;Toledo;hotel;Hotel Carlos V;3
+500;Toledo;hotel;Hotel Sercotel Alfonso VI;4
+501;Toledo;hotel;Hotel Casona de la Reyna;3
+502;Toledo;hotel;Cigarral de Caravantes;3
+503;Toledo;hotel;Abacería;3
+504;Toledo;hotel;Hotel Zentral Mayoral;3
+505;Toledo;hotel;Grecorooms;0
+506;Toledo;hotel;Hotel Domus Plaza Zocodover;2
+507;Toledo;hotel;Hotel San Juan de los Reyes;4
+508;Toledo;hotel;Eurostars Toledo;4
+509;Toledo;hotel;Dobo Azacanes Hostal;2
+510;Toledo;hotel;Sercotel Toledo Imperial;3
+511;Toledo;hotel;Alda Hospedería De Los Reyes;2
+512;Toledo;hotel;Eurico;3
+513;Toledo;hotel;YIT Conquista de Toledo;3
+514;Toledo;hotel;Parador de Toledo;4
+515;Toledo;hostal;YIT Puerta Bisagra;2
+516;Toledo;hostal;Siete LLaves by Toledo AP;3
+517;Toledo;hostal;Hostal El Bosque Encantado Toledo;3
+518;Toledo;hostal;Hostal Madrid;2
+519;Toledo;hostal;Hostal La Campana;2
+520;Toledo;hostal;Hostal Santo Tomé;2
+521;Toledo;hostal;Barrio Rey;3
+522;Toledo;hostal;Hostal Alfonso XII by Toledo AP;2
+523;Toledo;hostal;Hospederia Casa de Cisneros;2
+524;Toledo;hostal;Hostal Toledo;2
+525;Toledo;hostal;Casa Palacio Rincón de la Catedral;4
+526;Toledo;hostal;La Posada de Manolo;2
+527;Toledo;hostal;Trípolis Toledo;2
+528;Toledo;hostal;Double Room in ToledoRooms VistaPark;3
+529;Toledo;hostal;Toledo Plaza;3
+530;Toledo;hostal;Hostal Sol;3
+531;Toledo;hostal;Hostal la posada de Zocodover;1
+532;Toledo;hostal;Hostal Centro;2
+533;Toledo;hostal;Gavilanes 2 TOLEDO;2
+534;Toledo;hostal;Posada de Peregrinos;0
+535;Toledo;hostal;Antidoto Rooms San Agustín - Recomendado para adultos;3
+536;Toledo;hostal;Júbilus Rooms;3
+537;Toledo;hostal;ToledoRooms Palacios;3
+538;Toledo;hostal;Hostal Infantes;2
+539;Toledo;hostal;Antídoto Rooms Zocodover Check-in on line;3
+540;Toledo;albergue;Wonder Hostel;2
+541;Toledo;albergue;Oasis Backpackers' Toledo;0
+542;Toledo;albergue;ThE MATADOR;2
+543;Salamanca;hotel;Gran Hotel Corona Sol;4
+544;Salamanca;hotel;Hotel Gran Vía by gaiarooms;0
+545;Salamanca;hotel;Hotel San Polo;3
+546;Salamanca;hotel;Ibis Salamanca;2
+547;Salamanca;hotel;Emperatriz I;3
+548;Salamanca;hotel;Silken Rona Dalba;3
+549;Salamanca;hotel;Hostal Concejo;2
+550;Salamanca;hotel;Hotel Alameda Palace;5
+551;Salamanca;hotel;Inés Luna Suites;3
+552;Salamanca;hotel;Hotel Microtel Placentinos;2
+553;Salamanca;hotel;Hotel Condal;2
+554;Salamanca;hotel;REMANAL Residencia;0
+555;Salamanca;hotel;Salamanca Suites Libertad;3
+556;Salamanca;hotel;Salamanca Suite Studios;4
+557;Salamanca;hotel;Hotel Bardo Recoletos Coco;4
+558;Salamanca;hotel;Hotel Aragón;1
+559;Salamanca;hotel;Hotel Matilde by gaiarooms;2
+560;Salamanca;hotel;Sercotel Puerta de la Catedral;4
+561;Salamanca;hotel;Exe Salamanca;4
+562;Salamanca;hotel;Hotel Melibea by gaiarooms;4
+563;Salamanca;hotel;Itaca Salamanca by Soho Boutique;4
+564;Salamanca;hotel;Ikonik Plaza Mercado;3
+565;Salamanca;hotel;Catalonia Plaza Mayor Salamanca;4
+566;Salamanca;hotel;Hotel Mercado by gaiarooms;2
+567;Salamanca;hotel;Hotel Reyes Catolicos;1
+568;Salamanca;hostal;Pension Salamanca;0
+569;Salamanca;hostal;Hostal Barcelona;3
+570;Salamanca;hostal;Hostal Mindanao;2
+571;Salamanca;hostal;Hospedium Plaza Mayor Salamanca;2
+572;Salamanca;hostal;Salamanca Luxury Plaza;4
+573;Salamanca;hostal;Apartamentos El Mirador del Poeta;3
+574;Salamanca;hostal;Hosteria Casa Vallejo;2
+575;Salamanca;hostal;Hostal I Dream Salamanca;3
+576;Salamanca;hostal;Albergue Revolutum Hostel;2
+577;Salamanca;hostal;Alevia;3
+578;Salamanca;hostal;Hostal Gud Salamanca;2
+579;Salamanca;hostal;Sweet Home Salamanca;3
+580;Salamanca;hostal;Hostal Goya Suites;2
+581;Salamanca;hostal;Hostal Cuzco;3
+582;Salamanca;hostal;Hostal Granada;2
+583;Salamanca;hostal;Roomin Hostel;0
+584;Salamanca;hostal;Hostal Carmen by gaiarooms;2
+585;Salamanca;hostal;Pensión Isabel by Vivere Stays;0
+586;Salamanca;hostal;Hostal Albero by gaiarooms;2
+587;Salamanca;hostal;MoneoHeritage;0
+588;Salamanca;hostal;Los Angeles Plaza;0
+589;Salamanca;hostal;Hostal Lucia by gaiarooms;3
+590;Salamanca;hostal;Hostal Gonzala by gaiarooms;2
+591;Salamanca;hostal;Hostal Hispanico II;2
+592;Salamanca;hostal;Hosteria Sara by gaiarooms;2
+593;Salamanca;albergue;Hostal Erasmus by gaiarooms;0
+594;Bilbao;hotel;Ibis Bilbao Centro;1
+595;Bilbao;hotel;Hotel Silken Indautxu;4
+596;Bilbao;hotel;Ibis Budget Bilbao City;1
+597;Bilbao;hotel;Spirit Hotel Gran Bilbao;4
+598;Bilbao;hotel;Hotel Carlton;5
+599;Bilbao;hotel;BYPILLOW Irala;2
+600;Bilbao;hotel;Hotel Ilunion Bilbao;3
+601;Bilbao;hotel;Hotel Bilbao Plaza;2
+602;Bilbao;hotel;Hotel Bed4U Bilbao;3
+603;Bilbao;hotel;NYX Hotel Bilbao by Leonardo Hotels;4
+604;Bilbao;hotel;Hotel Conde Duque Bilbao;3
+605;Bilbao;hotel;Axel Hotel Bilbao - Adults Only;4
+606;Bilbao;hotel;Sercotel Coliseo;4
+607;Bilbao;hotel;Barceló Bilbao Nervión;4
+608;Bilbao;hotel;NH Bilbao Deusto;3
+609;Bilbao;hotel;Letoh Letoh Bilbao;0
+610;Bilbao;hotel;Hesperia Bilbao;4
+611;Bilbao;hotel;room Select Bilbao;2
+612;Bilbao;hotel;Hotel Ilunion San Mamés;4
+613;Bilbao;hotel;Occidental Bilbao;4
+614;Bilbao;hotel;NH Collection Villa de Bilbao;4
+615;Bilbao;hotel;Hotel Bilbi;2
+616;Bilbao;hotel;Hotel Ercilla de Bilbao, Autograph Collection;4
+617;Bilbao;hotel;Bilder Boutique Hotel;2
+618;Bilbao;hotel;Sercotel Ayala;4
+619;Bilbao;hostal;Arenal Suites Bilbao;0
+620;Bilbao;hostal;Pensión Boutique Caravan Cinema;3
+621;Bilbao;hostal;Casual Fuentes;3
+622;Bilbao;hostal;Bilbao City Rooms;2
+623;Bilbao;hostal;Victorooms;2
+624;Bilbao;hostal;BYPILLOW San Mamés;3
+625;Bilbao;hostal;Casual Mardones;3
+626;Bilbao;hostal;BYPILLOW Bilbo;3
+627;Bilbao;hostal;Casual Gurea;2
+628;Bilbao;hostal;Pensión H30 Bilbao;3
+629;Bilbao;hostal;Pensión Lo Bilbao;3
+630;Bilbao;hostal;Pension Ama Bilbao;3
+631;Bilbao;hostal;Pension H30 SALCES Licencia HBI01292;3
+632;Bilbao;hostal;Casual Blue;2
+633;Bilbao;hostal;Bilbao Place;3
+634;Bilbao;hostal;Zubia Urban Rooms;1
+635;Bilbao;hostal;Rock&Rooms;3
+636;Bilbao;hostal;Pensión La Salve;2
+637;Bilbao;hostal;Pensión Begoña - centro ciudad;2
+638;Bilbao;hostal;Bilbao Art Lodge Staynnapartments;3
+639;Bilbao;hostal;Casual Serantes;3
+640;Bilbao;hostal;Iturriaga Ostatua Self check in;3
+641;Bilbao;hostal;Pensión Bilbao;2
+642;Bilbao;hostal;Pensión B4R Self check in;3
+643;Bilbao;albergue;Urban Garden Bilbao;0
+644;Bilbao;albergue;LATROUPE La Granja;0
+645;Bilbao;albergue;All Iron Hostel;0
+646;Bilbao;albergue;Optimi Rooms Bilbao;0
+647;Bilbao;albergue;Bilbao Hostel;0
+648;Bilbao;albergue;Poshtel Bilbao - Premium Hostel;0
+649;Bilbao;albergue;Ganbara Hostel - Self Check In;0
+650;Bilbao;albergue;Ekoos Hostel, Bilbao Eko Hostel;0
+651;Bilbao;albergue;Bilbao Central Rooms;0
+652;Bilbao;albergue;Quartier Bilbao Hostel Casco Viejo;0
+653;Bilbao;albergue;Bilbao Akelarre Hostel;0
+654;Bilbao;albergue;Moon Hostel Bio;0
+655;Bilbao;albergue;Bilbao Metropolitan Hostel by Bossh Hotels;0
+656;Bilbao;albergue;Lamia BBK Women Hostel-Solo mujeres;0
+657;Bilbao;albergue;Albergue Bide-Ona;0
+658;Bilbao;albergue;Moana Eco Surf House;0
+659;Bilbao;albergue;Albergue Areitz Soroa;0
+660;Bilbao;albergue;Albergue de Peregrinos Gerekiz;0
+661;Zaragoza;hotel;Hotel Inca;3
+662;Zaragoza;hotel;VTZ Hotel El Príncipe;3
+663;Zaragoza;hotel;Hesperia Zaragoza Centro;3
+664;Zaragoza;hotel;Exe Boston;4
+665;Zaragoza;hotel;Hotel Sauce;2
+666;Zaragoza;hotel;Hotel Gran Via;3
+667;Zaragoza;hotel;Hotel Delicias;2
+668;Zaragoza;hotel;VTZ Orús Factory Hotel - Parking Muy Económico;2
+669;Zaragoza;hotel;Hotel Pilar Plaza;3
+670;Zaragoza;hotel;Hotel Hispania;2
+671;Zaragoza;hotel;Ibis Styles Zaragoza Ramiro I;3
+672;Zaragoza;hotel;Hotel Alda Zaragoza Independencia;2
+673;Zaragoza;hotel;Catalonia El Pilar;4
+674;Zaragoza;hotel;Hotel Don Jaime 54;3
+675;Zaragoza;hotel;Hotel YIT Ciudad De Zaragoza;3
+676;Zaragoza;hotel;VTZ Hotel San Valero;2
+677;Zaragoza;hotel;Hotel Oriente;3
+678;Zaragoza;hotel;NH Ciudad de Zaragoza;4
+679;Zaragoza;hotel;Silken Reino de Aragón;4
+680;Zaragoza;hotel;B&B HOTEL Zaragoza Plaza Mozart;0
+681;Zaragoza;hotel;Eurostars Zaragoza;4
+682;Zaragoza;hotel;Zenit Don Yo;4
+683;Zaragoza;hotel;Exe Zaragoza WTC;3
+684;Zaragoza;hotel;Exe Plaza Delicias;3
+685;Zaragoza;hotel;Cesaraugusta;3
+686;Zaragoza;hostal;Hostal Puente de Piedra;3
+687;Zaragoza;hostal;Hostal Arenal;3
+688;Zaragoza;hostal;Hostal San Jorge;1
+689;Zaragoza;hostal;Hostal Plaza Boutique - Solo adultos;3
+690;Zaragoza;hostal;Pensión La Estrella;0
+691;Zaragoza;hostal;Hostal Zaragoza Centro;3
+692;Zaragoza;hostal;Hostal El Carmen;2
+693;Zaragoza;hostal;Hostal Milmarcos;2
+694;Zaragoza;hostal;Pensión Fortea;0
+695;Zaragoza;hostal;Pensión Lacasta;0
+696;Zaragoza;hostal;Hostel Central Zaragoza;0
+697;Zaragoza;hostal;Pensión Corona;0
+698;Zaragoza;hostal;Pensión Iglesias;1
+699;Zaragoza;hostal;Hostal Aisa Ochoa;3
+700;Zaragoza;hostal;Hostal Castilla;0
+701;Zaragoza;hostal;Pensión La Ferroviaria - Sin Ascensor;0
+702;Zaragoza;hostal;Hostal Cataluña;3
+703;Zaragoza;hostal;Habitación Familiar Con Balcón y Baño Privado LF - 2ª Planta Sin Ascensor;3
+704;Zaragoza;hostal;Hostal Vaticano;0
+705;Zaragoza;hostal;Pensión Discoves;0
+706;Zaragoza;hostal;Casa Rural Alicia;3
+707;Zaragoza;hostal;Hostal Texas 2;3
+708;Zaragoza;hostal;Hostal Pueblo Viejo;3
+709;Zaragoza;albergue;Hostal Cumbre;0
+710;Zaragoza;albergue;VTZ The Botanic Hostel;0
+711;Zaragoza;albergue;Albergue Zaragoza Camping;0
+712;Zaragoza;albergue;PENSION MIRAFLORES;0
+713;Zaragoza;albergue;Be Zaragoza Hostel;0
+714;Benidorm;hotel;Hotel Flats Friends Mar Blau;2
+715;Benidorm;hotel;Hotel Marconi;3
+716;Benidorm;hotel;FLEMING PLAYA PONIENTE;3
+717;Benidorm;hotel;Port Benidorm Hotel & Spa 4* Sup;4
+718;Benidorm;hotel;Estrella De Mar - Boutique ApartHotel;3
+719;Benidorm;hotel;La Estación;4
+720;Benidorm;hotel;Hotel Castillo Benidorm;1
+721;Benidorm;hotel;KAKTUS Hotel Benikaktus;3
+722;Benidorm;hotel;Hotel Montesol Benidorm;3
+723;Benidorm;hotel;Hotel BH Los Ángeles;2
+724;Benidorm;hotel;Casual Pop Art Benidorm;3
+725;Benidorm;hotel;Hotel BCL Levante Club & Spa 4 Sup - Only Adults Recomended;4
+726;Benidorm;hotel;Hotel Clopy Rocamar;3
+727;Benidorm;hotel;Mercure Benidorm;4
+728;Benidorm;hotel;Hotel Brisa;4
+729;Benidorm;hotel;Hotel Primavera;2
+730;Benidorm;hotel;Hotel Oasis Plaza;3
+731;Benidorm;hotel;Port Fiesta Park;3
+732;Benidorm;hotel;Medplaya Hotel Rio Park;4
+733;Benidorm;hotel;Hotel Colón;3
+734;Benidorm;hotel;Gran Hotel Bali & Spa;4
+735;Benidorm;hotel;Hotel Tanit;3
+736;Benidorm;hotel;Barceló Benidorm Beach - Adults Recommended;4
+737;Benidorm;hostal;Irati;3
+738;Benidorm;hostal;Casa Don Juan;3
+739;Benidorm;hostal;Pensión Pardo;3
+740;Benidorm;hostal;Pensión La Orozca Benidorm;3
+741;Benidorm;hostal;Hostal Anna Benidorm;3
+742;Benidorm;hostal;Hostal El Jardín;3
+743;Benidorm;hostal;Solo alquiler por temporada No VT;0
+744;Benidorm;hostal;Villa Benucia family guest house;0
+745;Benidorm;hostal;Habitaciones La MAR;3
+746;Benidorm;hostal;Hostal Altea House;4
+747;Benidorm;hostal;Hostal Fornet Altea;1
+748;Benidorm;hostal;Casa Figueretes;3
+749;Benidorm;hostal;Hostal Sunami;3
+750;Benidorm;hostal;"Apartments 4 you - ""Plaza Mayor"" - La Nucia";3
+751;Benidorm;hostal;Blue Sardine Hostal Boutique Altea;4
+752;Benidorm;hostal;Hostal Perla Blanca Altea;4
+753;Benidorm;hostal;Hostal Boutique Casa del Mar Altea;4
+754;Benidorm;hostal;La casa de Irina;3
+755;Benidorm;hostal;Hostal Kaizen;3
+756;Benidorm;hostal;Hostal Altea Karma;3
+757;Benidorm;hostal;Hostal El Mercat;3
+758;Benidorm;hostal;Torre de Arriba Casa Rural;3
+759;Benidorm;hostal;Hostal del vino LA COSTERA;4
+760;Benidorm;hostal;Hostal El Trovador;2
+761;Benidorm;hostal;HOSTAL LUXURY NIT I DIA;4
+762;Benidorm;albergue;Spanglish Hostel Benidorm;0
+763;Benidorm;albergue;Hostel Welcome Benidorm;0
+764;Benidorm;albergue;El Artista;1
+765;Benidorm;albergue;Loft Valentia Ifach Calpe;0
+766;Benidorm;albergue;casa malferit;0
+767;Benidorm;albergue;Safestay Calpe Seafront;0

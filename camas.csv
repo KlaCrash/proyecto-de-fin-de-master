@@ -1,0 +1,4557 @@
+hotel_id;opcion_habitacion;camas
+1;1;2 camas individuales, 1 cama doble
+1;2;2 camas individuales, 1 cama doble, 1 cama doble grande
+1;3;1 cama individual
+1;4;1 cama doble, 2 camas individuales
+2;1;1 cama doble, 2 camas individuales
+2;2;2 camas individuales, 1 cama doble
+2;3;1 cama doble, 2 camas individuales
+2;4;1 cama doble, 2 camas individuales
+2;5;1 cama doble
+2;6;1 cama individual, 1 cama doble, 3 camas individuales
+2;7;1 cama doble extragrande, 1 litera, 1 sofá cama
+2;8;1 cama doble extragrande, 1 sofá cama
+2;9;1 cama doble extragrande
+3;1;1 cama doble extragrande, 2 camas individuales
+3;2;1 cama individual, 1 cama doble extragrande
+3;3;1 cama doble extragrande, 2 camas individuales
+4;1;1 cama doble
+4;2;3 camas individuales
+4;3;2 camas individuales, 1 cama doble
+5;1;2 camas individuales, 1 cama doble
+5;2;3 camas individuales
+5;3;4 camas individuales, 1 cama doble, 1 sofá cama
+6;1;2 camas individuales, 1 cama doble extragrande
+6;2;1 cama individual, 1 cama doble extragrande
+6;3;1 cama doble
+7;1;1 cama doble
+7;2;1 cama doble, 2 camas individuales
+7;3;1 cama doble, 2 camas individuales
+7;4;1 cama doble
+7;5;1 cama doble grande
+7;6;1 cama doble grande, 2 camas individuales
+7;7;1 cama doble grande, 2 camas individuales
+7;8;1 cama individual, 1 cama doble grande
+7;9;1 cama individual, 1 cama doble grande
+8;1;1 cama doble grande
+8;2;1 cama doble grande
+8;3;2 camas individuales, 1 sofá cama
+8;4;1 sofá cama, 1 cama doble grande
+8;5;2 camas individuales
+8;6;1 sofá cama, 1 cama doble grande
+8;7;1 sofá cama, 1 cama doble grande
+8;8;1 sofá cama, 1 cama doble grande
+8;9;2 camas individuales
+9;1;1 cama individual
+9;2;2 camas individuales, 1 cama doble
+9;3;3 camas individuales, 2 camas individuales, 1 litera
+9;4;2 camas individuales, 1 litera
+9;5;2 camas individuales, 1 cama doble
+9;6;2 camas individuales
+9;7;2 camas individuales, 1 cama doble
+9;8;2 camas individuales, 1 cama doble
+9;9;2 camas individuales, 1 cama doble
+9;10;2 camas individuales, 1 cama doble
+9;11;1 cama doble extragrande
+10;1;1 cama doble extragrande
+10;2;1 cama doble extragrande, 1 sofá cama
+10;3;1 cama doble extragrande, 2 camas individuales
+10;4;1 cama individual
+10;5;1 cama doble extragrande, 1 sofá cama
+10;6;1 cama doble extragrande
+10;7;1 cama doble grande
+11;1;2 camas individuales, 1 cama doble
+11;2;1 cama doble extragrande
+11;3;2 literas, 1 cama doble grande
+11;4;1 cama doble extragrande, 2 literas
+11;5;1 cama doble grande, 2 camas individuales
+11;6;2 camas individuales, 1 cama doble
+11;7;1 cama doble grande, 2 camas individuales
+11;8;1 litera, 1 cama doble grande, 2 camas individuales, 1 litera
+11;9;1 cama doble grande
+12;1;1 cama doble grande, 2 camas individuales
+12;2;1 cama doble, 2 camas individuales
+12;3;1 cama individual
+12;4;1 cama doble
+12;5;1 cama doble extragrande
+12;6;1 cama doble grande, 2 camas individuales
+13;1;2 camas individuales
+13;2;2 camas individuales
+13;3;3 camas individuales
+13;4;1 cama doble
+13;5;1 cama doble
+13;6;1 cama doble grande, 1 sofá cama
+14;1;1 cama individual
+14;2;1 cama individual
+14;3;2 camas individuales, 1 cama doble grande
+14;4;1 cama doble grande
+14;5;1 cama doble extragrande
+14;6;1 cama doble grande
+15;1;1 cama doble, 2 camas individuales
+15;2;1 cama doble extragrande
+15;3;1 cama individual
+15;4;3 camas individuales
+15;5;2 camas individuales, 1 cama doble
+15;6;1 cama doble
+15;7;1 cama doble
+16;1;1 cama doble grande, 1 sofá cama
+16;2;1 cama doble grande, 1 sofá cama
+16;3;1 cama doble grande, 1 sofá cama
+16;4;1 cama doble grande, 2 camas individuales, 1 sofá cama
+16;5;1 cama doble, 2 camas individuales, 1 sofá cama
+16;6;1 cama doble, 1 cama doble, 2 camas individuales, 1 sofá cama
+16;7;1 cama doble, 1 cama doble, 2 camas individuales, 1 sofá cama
+16;8;1 cama doble, 1 cama doble, 1 cama doble, 2 camas individuales, 1 sofá cama
+17;1;1 cama doble grande, 2 camas individuales
+17;2;2 camas individuales, 1 cama doble grande
+17;3;2 camas individuales, 1 sofá cama
+17;4;1 cama doble grande
+17;5;1 cama doble grande
+17;6;2 camas individuales, 1 cama doble extragrande
+17;7;2 camas individuales, 1 sofá cama
+17;8;2 camas individuales, 1 cama doble extragrande
+17;9;1 sofá cama, 1 cama doble grande
+17;10;1 cama doble
+17;11;2 camas individuales
+17;12;1 cama doble, 1 cama doble grande
+18;1;2 camas individuales, 1 cama doble
+18;2;1 cama doble grande, 2 camas individuales
+18;3;1 cama doble extragrande, 1 sofá cama
+18;4;1 cama doble grande, 2 camas individuales
+18;5;3 camas individuales
+18;6;2 camas individuales, 1 litera
+18;7;3 camas individuales
+18;8;1 cama doble grande
+18;9;2 camas dobles
+18;10;1 cama doble, 1 sofá cama
+19;1;2 camas individuales, 1 cama doble
+19;2;2 camas individuales
+19;3;2 camas individuales, 1 cama doble, 1 sofá cama
+19;4;1 cama doble, 1 cama individual, 2 literas, 2 camas individuales, 2 sofás cama, 1 sofá cama
+19;5;1 cama doble
+20;1;1 cama doble, 2 camas individuales
+20;2;1 cama doble, 2 camas individuales
+20;3;3 camas individuales, 1 cama individual, 1 cama doble
+20;4;1 cama individual
+20;5;1 cama doble, 2 camas individuales
+21;1;1 cama doble grande, 1 cama doble grande, 1 sofá cama
+21;2;1 cama doble, 1 sofá cama
+21;3;1 cama doble grande
+21;4;1 cama doble
+21;5;1 cama doble, 1 cama doble, 1 sofá cama
+21;6;1 cama doble, 1 cama doble
+21;7;1 cama doble, 1 sofá cama
+21;8;1 cama doble, 1 sofá cama
+21;9;1 cama individual
+21;10;1 cama doble, 1 sofá cama
+21;11;1 cama doble, 1 sofá cama
+22;1;2 camas individuales, 1 cama doble
+22;2;1 cama doble, 1 sofá cama
+22;3;3 camas individuales
+22;4;2 camas individuales
+22;5;1 cama doble, 1 sofá cama
+23;1;1 cama doble
+23;2;2 camas individuales, 1 futón
+23;3;2 camas individuales, 1 cama doble
+23;4;1 cama doble
+23;5;1 cama doble, 2 camas individuales
+23;6;1 cama doble
+23;7;1 cama doble
+23;8;2 camas individuales, 1 futón
+24;1;1 cama doble, 1 sofá cama
+24;2;1 cama doble, 1 sofá cama
+24;3;1 cama doble, 1 sofá cama
+24;4;1 cama doble, 1 cama doble, 1 sofá cama
+24;5;1 cama doble, 1 cama doble, 1 sofá cama
+25;1;2 camas individuales, 1 cama doble
+25;2;3 camas individuales, 1 cama individual, 1 cama doble
+25;3;1 cama doble, 1 litera
+25;4;1 cama doble
+25;5;2 camas individuales, 2 camas dobles, 2 camas dobles, 1 litera
+25;6;2 camas individuales, 1 cama doble
+26;1;1 cama individual
+26;2;2 camas individuales, 1 cama doble
+26;3;1 cama doble, 2 camas individuales
+27;1;2 camas individuales
+27;2;1 cama doble
+28;1;1 cama doble
+28;2;1 cama doble
+28;3;1 cama doble
+28;4;1 cama doble
+29;1;1 cama individual
+29;2;1 cama doble grande
+29;3;1 cama doble grande
+29;4;1 cama doble grande
+29;5;2 camas individuales, 1 cama doble grande
+30;1;1 cama individual
+30;2;1 cama doble grande
+30;3;1 sofá cama, 1 cama doble grande
+30;4;1 sofá cama, 1 cama doble grande
+30;5;1 sofá cama, 1 cama doble grande
+30;6;1 sofá cama, 1 cama doble grande
+30;7;1 cama doble, 1 cama doble grande, 1 cama doble, 1 sofá cama, 1 cama doble grande, 1 sofá cama, 1 cama doble grande, 1 sofá cama, 1 cama doble grande
+31;1;1 cama doble, 1 sofá cama
+31;2;1 cama doble
+31;3;2 camas individuales
+31;4;1 cama individual, 1 futón
+31;5;1 cama doble
+31;6;1 cama doble
+32;1;3 camas individuales
+32;2;1 cama individual
+32;3;1 cama doble
+32;4;1 cama doble
+32;5;1 cama individual
+32;6;1 cama doble, 1 sofá cama
+32;7;1 cama doble, 1 sofá cama
+32;8;1 cama doble, 1 sofá cama
+33;1;1 cama individual
+33;2;1 cama individual, 1 cama doble
+33;3;2 camas individuales
+34;1;1 cama individual
+34;2;2 camas individuales
+34;3;3 camas individuales
+34;4;1 cama doble grande
+35;1;1 cama doble
+35;2;1 cama doble
+35;3;1 cama doble
+35;4;1 cama doble
+35;5;1 cama doble
+35;6;1 cama doble
+35;7;1 cama doble
+36;1;1 cama doble, 1 litera
+36;2;2 camas individuales
+37;1;1 cama individual
+37;2;2 camas individuales
+37;3;1 cama doble
+38;1;2 camas individuales, 1 cama doble
+38;2;1 cama individual
+38;3;1 cama doble
+39;1;1 cama doble
+39;2;2 camas individuales
+39;3;1 cama individual
+39;4;1 cama doble
+39;5;1 cama doble grande
+39;6;2 camas individuales
+40;1;1 cama doble
+40;2;1 cama individual
+40;3;1 cama doble
+40;4;1 cama doble
+41;1;1 cama doble
+41;2;2 camas individuales
+41;3;1 cama individual
+41;4;1 cama doble
+42;1;1 cama individual
+42;2;1 cama doble, 2 camas individuales
+42;3;2 camas individuales, 1 cama doble grande
+42;4;2 camas individuales, 1 cama doble grande
+42;5;4 camas individuales
+42;6;1 cama doble
+42;7;2 camas individuales
+42;8;1 cama individual, 1 cama doble, 3 camas individuales
+42;9;1 cama individual
+42;10;1 cama doble, 2 camas individuales
+42;11;1 cama individual
+43;1;1 cama individual
+43;2;2 camas individuales
+43;3;1 cama doble
+43;4;3 camas individuales
+44;1;3 camas individuales
+44;2;2 camas individuales
+44;3;1 cama doble
+44;4;1 cama individual
+44;5;1 cama individual
+44;6;1 cama individual, 1 cama doble
+45;1;2 camas individuales, 1 cama doble
+45;2;2 camas individuales, 1 cama doble
+46;1;1 cama individual
+46;2;1 cama doble
+46;3;2 camas individuales, 1 cama doble
+46;4;2 camas individuales
+47;1;1 cama doble
+47;2;1 cama doble
+47;3;1 cama doble
+47;4;2 camas individuales
+47;5;1 cama individual
+48;1;1 cama individual
+48;2;2 camas individuales
+49;1;2 camas individuales
+49;2;1 cama individual
+50;1;1 cama doble
+50;2;1 cama doble
+50;3;1 cama doble
+50;4;1 cama doble
+51;1;1 cama individual
+51;2;2 camas individuales
+51;3;2 camas individuales
+51;4;1 cama doble
+51;5;3 camas individuales
+51;6;1 cama individual, 1 cama doble
+52;1;1 cama individual, 1 cama doble
+52;2;2 camas individuales
+52;3;1 cama doble
+52;4;1 cama individual, 1 cama doble
+52;5;3 camas individuales
+53;1;1 cama individual
+53;2;1 cama doble
+53;3;3 camas individuales
+53;4;2 camas individuales
+53;5;1 cama doble
+53;6;3 camas individuales, 1 cama individual, 1 cama doble
+53;7;2 camas individuales
+53;8;4 camas individuales
+54;1;1 cama individual
+54;2;1 cama doble
+54;3;1 cama doble
+55;1;1 cama doble
+55;2;1 cama individual, 1 cama doble
+55;3;2 camas individuales
+55;4;1 cama doble
+56;1;1 cama individual
+56;2;2 camas individuales
+56;3;1 cama doble
+56;4;2 camas individuales
+56;5;1 cama individual, 1 cama doble
+56;6;1 cama individual, 1 cama doble
+57;1;1 cama doble
+57;2;1 cama individual
+57;3;3 camas individuales
+58;1;1 cama doble grande
+58;2;1 cama doble grande
+58;3;1 litera
+58;4;1 litera
+58;5;1 litera
+58;6;1 litera
+58;7;2 literas
+58;8;1 cama individual
+58;9;1 cama doble grande
+58;10;2 camas individuales
+58;11;6 camas individuales
+59;1;3 camas individuales
+59;2;2 camas individuales
+59;3;1 cama individual
+59;4;1 cama doble
+59;5;1 cama individual, 1 cama doble
+60;1;1 cama individual
+60;2;1 cama individual
+60;3;2 camas individuales
+61;1;1 cama individual
+61;2;1 cama individual
+61;3;1 cama individual
+61;4;2 camas individuales
+62;1;1 cama doble grande
+62;2;1 cama doble grande
+62;3;1 cama doble grande
+63;1;1 cama individual
+63;2;1 cama individual
+63;3;1 cama individual
+63;4;1 cama individual
+63;5;1 cama individual
+63;6;1 cama individual
+63;7;1 cama doble
+63;8;1 cama doble, 2 camas individuales
+63;9;1 cama doble grande
+63;10;2 camas individuales
+63;11;1 cama individual
+64;1;1 cama doble
+64;2;1 cama individual, 1 cama doble
+64;3;1 cama doble
+65;1;1 litera
+65;2;1 litera
+65;3;1 litera
+65;4;1 litera
+65;5;1 litera
+65;6;4 literas
+65;7;6 literas
+65;8;8 literas
+66;1;2 camas individuales
+66;2;1 cama doble
+66;3;1 cama doble
+66;4;1 cama doble
+66;5;1 cama doble
+67;1;1 litera
+67;2;1 litera
+67;3;1 litera
+67;4;1 litera
+67;5;1 litera
+67;6;1 litera
+67;7;4 literas
+67;8;6 literas
+67;9;8 literas
+67;10;10 literas
+67;11;12 literas
+68;1;1 cama doble
+68;2;1 cama doble
+68;3;2 camas individuales
+68;4;1 cama doble
+68;5;1 cama doble
+69;1;1 cama doble, 2 camas individuales
+69;2;1 litera
+69;3;1 litera
+69;4;4 literas
+69;5;1 litera
+69;6;1 litera
+69;7;1 cama individual
+69;8;6 literas
+69;9;1 cama doble
+69;10;1 cama doble
+70;1;2 camas individuales
+70;2;3 camas individuales
+70;3;4 literas
+70;4;1 cama individual
+70;5;1 cama doble
+70;6;1 cama doble
+70;7;1 cama doble
+70;8;1 litera
+70;9;1 cama doble
+70;10;1 cama doble, 1 sofá cama
+70;11;3 camas individuales
+70;12;1 cama doble, 1 sofá cama
+70;13;1 cama doble
+70;14;1 cama doble, 1 cama doble, 1 sofá cama
+71;1;1 cama doble
+71;2;1 cama doble
+71;3;1 cama individual
+71;4;1 cama doble
+71;5;1 cama doble
+71;6;1 cama individual
+72;1;1 litera
+72;2;1 litera
+72;3;1 litera
+72;4;1 cama doble
+72;5;1 cama individual
+72;6;2 camas individuales
+72;7;2 literas
+72;8;3 camas individuales
+72;9;1 cama individual
+72;10;1 litera
+72;11;1 litera
+72;12;3 camas individuales
+72;13;2 literas
+72;14;1 litera
+73;1;1 cama doble extragrande
+73;2;1 cama doble, 2 camas individuales
+73;3;1 cama doble
+73;4;3 camas individuales
+73;5;3 camas individuales
+73;6;1 litera
+73;7;1 litera
+73;8;1 litera
+73;9;4 camas individuales
+73;10;1 cama individual
+73;11;1 cama doble
+73;12;1 cama doble
+74;1;1 cama individual
+74;2;1 cama doble
+74;3;3 camas individuales
+75;1;2 camas individuales, 1 cama doble
+75;2;1 cama doble, 1 sofá cama
+76;1;1 cama doble
+76;2;1 cama doble grande
+76;3;1 cama doble
+76;4;1 cama doble
+77;1;1 cama individual
+77;2;2 camas individuales
+77;3;2 camas individuales
+77;4;3 camas individuales
+77;5;2 camas individuales
+78;1;2 camas individuales, 1 cama doble
+78;2;2 camas individuales
+78;3;4 camas individuales
+78;4;1 cama individual, 1 cama doble, 3 camas individuales
+78;5;1 cama doble
+78;6;2 camas individuales
+78;7;2 camas individuales
+78;8;2 camas individuales
+78;9;1 cama individual, 1 cama doble, 3 camas individuales
+78;10;2 camas individuales, 1 sofá cama
+79;1;2 camas individuales
+79;2;1 cama doble grande
+79;3;1 cama doble grande
+79;4;1 cama doble grande
+79;5;1 cama doble grande
+79;6;1 cama doble, 1 sofá cama
+80;1;2 camas individuales
+80;2;1 cama individual
+80;3;2 camas individuales
+80;4;1 cama doble
+80;5;1 cama doble
+81;1;2 camas individuales
+81;2;1 cama individual
+81;3;2 camas individuales, 1 sofá cama
+81;4;2 camas individuales
+81;5;1 cama doble grande
+81;6;1 cama doble
+82;1;2 camas individuales, 1 cama doble grande
+82;2;2 camas individuales
+82;3;1 cama individual
+82;4;1 sofá cama, 1 cama doble grande, 2 camas individuales, 1 cama doble
+82;5;2 camas individuales, 1 cama doble grande
+82;6;3 camas individuales
+82;7;1 cama doble
+82;8;1 cama doble, 1 sofá cama
+83;1;1 cama doble
+83;2;1 cama doble
+83;3;1 cama doble
+83;4;1 cama doble grande
+83;5;1 cama doble grande
+84;1;2 camas individuales, 1 cama doble
+84;2;2 camas individuales, 1 cama doble
+85;1;1 cama doble extragrande, 2 camas individuales
+85;2;1 cama individual, 2 camas individuales
+85;3;1 cama individual, 1 cama doble grande
+85;4;1 sofá cama
+86;1;1 cama individual
+86;2;1 cama doble
+86;3;3 camas individuales
+86;4;2 camas individuales
+86;5;1 cama doble grande
+86;6;1 cama doble
+86;7;1 cama doble grande
+87;1;2 camas individuales, 1 cama doble
+87;2;1 sofá cama, 1 cama doble grande
+87;3;2 camas individuales
+88;1;1 cama individual
+88;2;1 cama doble
+88;3;3 camas individuales, 1 cama individual, 1 cama doble
+88;4;2 camas individuales
+88;5;1 cama doble
+89;1;2 camas individuales, 1 cama doble
+89;2;1 cama individual
+89;3;3 camas individuales
+90;1;2 camas individuales
+90;2;2 camas individuales, 1 cama doble
+90;3;1 cama doble
+90;4;3 camas individuales
+90;5;1 cama individual
+91;1;1 cama doble
+91;2;1 cama doble
+91;3;1 cama doble
+91;4;1 cama doble
+91;5;1 cama doble
+91;6;1 cama doble, 1 sofá cama
+92;1;1 cama doble grande
+92;2;1 cama doble grande, 1 futón
+92;3;1 sofá cama, 1 cama doble grande
+92;4;2 literas, 1 cama doble grande
+93;1;2 camas individuales, 1 cama doble
+93;2;1 cama doble
+93;3;1 cama doble grande
+93;4;1 cama individual
+93;5;2 camas individuales
+93;6;1 cama doble, 1 sofá cama
+93;7;1 sofá cama, 1 cama doble grande
+93;8;2 camas individuales
+93;9;2 camas individuales, 1 sofá cama, 2 camas individuales, 2 sofás cama
+94;1;2 camas individuales
+94;2;3 camas individuales
+94;3;1 litera, 1 cama doble grande
+94;4;1 cama doble
+94;5;1 cama doble, 2 camas individuales
+94;6;3 camas individuales
+94;7;1 cama doble, 2 literas
+94;8;1 cama doble
+94;9;1 cama doble, 2 camas individuales
+94;10;1 cama doble
+95;1;2 camas individuales
+95;2;3 camas individuales
+95;3;4 camas individuales
+95;4;2 camas individuales
+96;1;1 cama individual
+96;2;2 camas individuales, 1 cama doble
+96;3;2 camas individuales, 1 cama doble
+97;1;1 cama doble grande
+97;2;1 cama doble extragrande
+97;3;1 cama doble extragrande, 1 sofá cama
+97;4;1 cama doble extragrande, 1 sofá cama, 1 sofá cama, 1 cama doble grande
+97;5;1 cama doble extragrande
+97;6;1 cama doble extragrande, 1 sofá cama
+97;7;1 cama doble extragrande, 1 sofá cama
+97;8;1 cama doble grande, 1 sofá cama
+97;9;1 cama doble extragrande, 1 sofá cama
+98;1;3 camas individuales, 2 camas individuales, 1 sofá cama
+98;2;2 camas individuales, 1 cama doble
+98;3;2 camas individuales, 1 cama doble
+98;4;2 camas individuales, 1 cama doble
+98;5;2 camas individuales, 1 cama doble
+98;6;1 cama doble grande, 1 sofá cama
+98;7;1 cama individual
+99;1;1 cama doble, 1 sofá cama
+99;2;1 cama doble, 1 cama individual, 1 sofá cama
+99;3;2 camas individuales, 1 sofá cama
+99;4;1 cama doble extragrande, 1 cama doble extragrande, 1 sofá cama
+99;5;1 cama doble extragrande, 1 cama doble extragrande, 1 sofá cama, 1 sofá cama
+99;6;1 cama doble, 1 sofá cama
+100;1;1 sofá cama, 1 cama doble grande
+100;2;1 cama doble grande, 2 camas individuales
+100;3;2 literas, 1 cama doble grande, 2 camas individuales, 2 literas
+100;4;1 sofá cama, 1 cama doble grande, 2 camas individuales, 1 sofá cama
+100;5;1 cama doble grande
+100;6;1 cama doble grande, 2 camas individuales
+100;7;1 cama doble grande
+100;8;1 cama doble grande
+101;1;1 cama doble, 1 sofá cama
+101;2;1 cama doble
+101;3;1 cama doble
+101;4;1 cama doble
+101;5;1 cama doble, 1 sofá cama
+102;1;2 camas individuales, 1 cama doble
+102;2;2 camas individuales, 1 cama doble
+102;3;2 camas individuales, 1 cama doble
+102;4;3 camas individuales
+103;1;2 camas individuales, 1 cama doble
+103;2;1 cama individual
+104;1;1 cama doble grande
+104;2;1 cama doble grande
+104;3;1 cama doble grande
+104;4;1 cama doble
+104;5;1 cama doble
+105;1;1 cama doble
+105;2;1 cama doble
+105;3;1 cama doble
+105;4;1 cama individual
+105;5;1 cama individual
+106;1;1 cama doble
+106;2;2 camas individuales
+106;3;1 cama doble grande
+106;4;2 camas individuales, 1 litera
+106;5;1 cama doble grande
+107;1;1 cama individual
+107;2;1 cama individual
+107;3;1 cama doble
+107;4;1 cama doble
+107;5;1 cama doble
+107;6;1 cama doble
+108;1;1 cama doble, 2 camas individuales
+108;2;3 camas individuales
+108;3;2 camas individuales, 1 cama doble
+108;4;2 camas individuales, 1 futón
+108;5;1 cama individual
+109;1;1 cama doble
+109;2;1 cama doble
+109;3;1 cama doble, 1 sofá cama
+109;4;1 cama doble
+109;5;1 cama doble
+109;6;1 cama doble, 1 sofá cama
+110;1;2 camas individuales, 1 cama doble
+110;2;1 cama doble
+110;3;2 camas individuales, 1 cama doble
+111;1;2 camas individuales, 1 cama doble grande
+111;2;1 cama doble, 2 camas individuales
+111;3;2 camas individuales, 1 cama doble grande
+111;4;1 cama individual
+111;5;1 cama individual
+112;1;1 cama individual, 1 cama doble extragrande
+112;2;1 cama doble
+112;3;1 cama doble
+112;4;1 cama doble
+113;1;1 cama doble
+113;2;1 cama individual
+113;3;3 camas individuales
+113;4;1 cama individual
+113;5;2 camas individuales
+114;1;2 camas individuales, 1 cama doble
+114;2;2 camas individuales, 1 cama doble
+114;3;1 cama individual
+115;1;1 cama individual
+115;2;1 cama doble, 2 camas individuales
+115;3;1 cama individual, 1 cama doble
+115;4;2 camas individuales, 1 cama doble, 2 camas dobles
+116;1;2 camas individuales, 1 cama doble grande
+116;2;2 camas individuales, 1 cama doble grande
+116;3;2 camas individuales, 2 camas dobles grandes
+117;1;1 cama individual
+117;2;1 cama doble
+117;3;1 cama individual, 1 cama doble
+117;4;2 camas individuales, 1 cama doble
+118;1;1 cama doble
+118;2;1 cama individual
+118;3;2 camas individuales
+119;1;2 camas individuales
+119;2;1 cama doble
+119;3;1 cama individual
+120;1;2 camas individuales, 1 cama doble
+120;2;2 camas individuales, 1 cama doble
+120;3;2 camas individuales, 1 cama doble grande
+120;4;2 camas individuales
+121;1;1 cama doble
+121;2;1 cama individual, 1 cama doble
+121;3;2 camas individuales
+122;1;1 cama doble, 2 camas individuales
+122;2;1 cama doble, 1 sofá cama
+122;3;1 cama doble
+123;1;2 camas individuales
+123;2;1 cama doble
+123;3;1 cama individual
+123;4;3 camas individuales
+123;5;1 cama individual
+123;6;1 cama doble, 2 camas individuales
+124;1;1 cama doble
+124;2;1 cama doble
+124;3;1 cama doble
+124;4;1 cama doble
+124;5;1 cama doble
+124;6;1 cama doble
+124;7;1 cama doble
+124;8;1 cama doble
+125;1;1 cama doble
+125;2;2 camas individuales
+125;3;1 cama doble
+125;4;1 cama doble
+126;1;1 litera
+126;2;1 litera
+126;3;1 litera
+126;4;2 camas individuales
+126;5;1 litera
+127;1;2 camas individuales
+127;2;2 camas individuales, 4 literas
+127;3;1 litera
+127;4;2 camas individuales, 1 litera
+127;5;1 litera
+127;6;2 camas individuales
+127;7;1 litera
+127;8;1 litera
+127;9;2 literas
+127;10;2 camas individuales, 1 litera
+128;1;3 camas individuales, 1 cama individual, 2 literas
+128;2;1 cama individual, 1 litera
+128;3;2 camas individuales
+128;4;4 literas
+129;1;1 cama doble
+129;2;1 cama doble
+129;3;1 litera
+129;4;1 litera
+129;5;1 cama individual
+129;6;1 cama individual
+130;1;1 litera
+130;2;1 litera
+130;3;1 litera
+130;4;1 litera
+130;5;1 cama doble
+130;6;2 camas individuales
+130;7;1 cama doble
+130;8;1 cama doble
+130;9;1 cama doble
+130;10;1 cama doble
+130;11;2 camas individuales
+130;12;1 cama individual
+130;13;1 cama doble
+130;14;1 litera
+131;1;2 camas individuales
+131;2;1 litera
+131;3;1 litera
+131;4;1 litera
+131;5;2 camas individuales
+131;6;4 camas individuales
+131;7;1 litera
+132;1;3 camas individuales
+132;2;1 cama doble
+132;3;2 camas individuales
+132;4;2 camas individuales
+132;5;4 camas individuales
+132;6;3 camas individuales
+132;7;1 cama doble grande
+133;1;1 cama doble, 2 literas
+133;2;1 litera
+133;3;1 litera
+133;4;1 litera
+133;5;1 litera
+133;6;1 litera
+133;7;4 literas
+133;8;1 cama doble
+133;9;1 litera
+133;10;6 camas individuales
+133;11;8 camas individuales
+133;12;10 camas individuales
+134;1;1 litera
+134;2;1 litera
+134;3;1 litera
+134;4;1 cama doble
+134;5;1 litera
+134;6;1 litera
+134;7;1 cama individual
+134;8;1 cama individual
+134;9;1 litera
+135;1;1 litera
+135;2;1 cama doble
+135;3;1 litera
+135;4;1 cama doble
+135;5;2 camas individuales, 1 cama doble
+135;6;2 camas individuales, 1 cama doble
+135;7;1 litera
+135;8;6 literas
+135;9;8 literas
+136;1;1 litera
+136;2;1 litera
+136;3;2 camas individuales
+136;4;1 litera
+136;5;1 litera
+136;6;1 cama doble
+136;7;1 litera
+136;8;1 litera
+137;1;1 litera
+137;2;1 litera
+137;3;1 litera
+137;4;1 litera
+137;5;2 camas individuales
+137;6;3 literas
+137;7;2 literas
+138;1;1 litera
+138;2;1 litera
+138;3;1 litera
+138;4;1 litera
+138;5;1 cama individual, 1 litera
+138;6;1 cama doble grande
+138;7;1 litera
+138;8;1 litera
+138;9;1 litera
+138;10;1 litera
+138;11;1 cama doble
+139;1;1 litera
+139;2;1 cama doble grande
+139;3;1 litera
+139;4;1 litera
+139;5;1 litera
+139;6;1 litera
+139;7;8 literas
+139;8;1 cama doble grande
+139;9;2 literas
+139;10;1 litera
+139;11;1 litera
+139;12;4 camas individuales
+140;1;1 cama individual
+140;2;1 litera
+140;3;1 litera
+140;4;1 litera
+141;1;1 litera
+141;2;1 litera
+141;3;1 litera
+141;4;1 litera
+141;5;1 litera
+141;6;1 litera
+141;7;2 camas individuales
+141;8;1 litera
+141;9;4 literas
+141;10;6 literas
+141;11;1 litera
+142;1;1 cama doble
+143;1;1 litera
+143;2;1 litera
+143;3;1 cama doble
+143;4;1 cama doble
+144;1;1 litera
+144;2;1 litera
+144;3;1 litera
+144;4;1 litera
+144;5;4 literas
+144;6;6 literas
+144;7;4 literas
+145;1;2 literas
+145;2;1 litera
+145;3;1 litera
+145;4;1 litera
+146;1;1 cama doble
+146;2;4 literas
+146;3;6 literas
+146;4;1 litera
+146;5;1 cama individual
+146;6;1 litera
+146;7;6 literas
+146;8;1 cama doble grande
+146;9;4 literas
+147;1;1 litera
+147;2;1 litera
+147;3;1 litera
+147;4;1 litera
+147;5;1 litera
+147;6;1 cama doble
+147;7;1 cama doble
+148;1;1 litera
+148;2;1 litera
+148;3;1 litera
+148;4;4 literas
+148;5;6 literas
+148;6;1 litera
+149;1;2 camas individuales
+149;2;1 cama individual
+149;3;1 cama doble
+150;1;2 camas individuales
+150;2;1 cama individual
+150;3;2 camas individuales
+150;4;3 camas individuales
+150;5;2 camas individuales, 1 sofá cama
+150;6;2 camas individuales
+151;1;2 camas individuales
+151;2;1 cama doble extragrande
+151;3;3 camas individuales
+151;4;1 cama doble
+151;5;1 cama doble extragrande, 1 sofá cama
+151;6;1 cama doble extragrande, 1 sofá cama
+151;7;2 camas individuales
+151;8;1 cama doble
+152;1;1 cama doble, 1 sofá cama
+152;2;3 camas individuales
+152;3;2 camas individuales
+152;4;2 camas individuales, 1 cama doble extragrande
+152;5;2 camas individuales, 1 cama doble
+152;6;2 camas individuales
+153;1;1 cama doble grande
+153;2;2 camas individuales, 1 cama doble grande
+153;3;1 cama individual
+153;4;1 cama doble grande
+153;5;2 camas individuales
+153;6;2 camas individuales
+153;7;2 camas individuales
+154;1;1 cama doble, 2 camas individuales
+154;2;2 camas individuales
+154;3;3 camas individuales
+154;4;3 camas individuales
+154;5;1 cama individual
+154;6;2 camas individuales
+155;1;1 cama individual
+155;2;1 cama doble
+155;3;3 camas individuales
+155;4;4 camas individuales
+155;5;1 cama doble, 1 sofá cama
+155;6;1 cama doble
+155;7;1 cama doble
+155;8;2 camas individuales
+156;1;2 camas individuales, 1 cama doble
+156;2;3 camas individuales
+156;3;3 camas individuales
+156;4;1 cama doble, 1 sofá cama
+156;5;1 cama individual, 1 cama doble
+156;6;1 cama individual, 1 cama doble
+156;7;2 camas individuales, 1 cama doble
+156;8;1 cama doble extragrande, 1 sofá cama
+156;9;2 camas individuales
+156;10;2 camas individuales
+156;11;2 camas individuales
+156;12;1 cama doble
+156;13;2 camas individuales
+156;14;3 camas individuales
+156;15;3 camas individuales
+157;1;1 cama individual
+157;2;2 camas individuales, 1 cama doble
+157;3;3 camas individuales, 1 cama individual, 1 cama doble
+157;4;4 camas individuales
+157;5;3 camas individuales, 1 cama individual, 1 cama doble
+157;6;4 camas individuales
+158;1;1 cama individual
+158;2;3 camas individuales
+158;3;1 cama doble grande
+158;4;1 cama doble extragrande
+158;5;1 cama doble
+158;6;2 camas individuales
+158;7;2 camas individuales, 1 cama doble
+159;1;1 cama doble extragrande, 2 camas individuales
+159;2;1 cama doble extragrande
+159;3;1 cama individual, 1 cama doble
+159;4;1 cama doble grande
+160;1;1 cama doble, 2 camas individuales
+160;2;1 cama individual
+160;3;1 cama doble
+160;4;1 cama individual, 1 cama doble
+160;5;1 cama doble
+161;1;1 cama individual
+161;2;2 camas individuales, 1 cama doble grande
+161;3;1 cama doble grande, 1 sofá cama
+161;4;1 cama doble
+161;5;1 cama doble grande
+161;6;2 camas individuales, 1 sofá cama, 1 sofá cama, 1 cama doble grande
+161;7;1 cama doble grande, 2 camas individuales
+161;8;1 cama doble grande, 1 sofá cama
+162;1;2 camas individuales, 1 cama doble
+162;2;3 camas individuales
+162;3;1 cama doble grande
+162;4;1 cama doble grande
+162;5;2 camas individuales, 1 cama doble
+162;6;3 camas individuales
+162;7;4 camas individuales
+162;8;2 camas individuales
+162;9;4 camas individuales
+162;10;3 camas individuales
+162;11;3 camas individuales
+162;12;2 camas individuales, 1 sofá cama, 1 cama doble extragrande, 1 sofá cama
+162;13;2 camas individuales, 1 sofá cama, 1 cama doble extragrande, 1 sofá cama
+163;1;2 camas individuales
+163;2;1 cama doble extragrande
+163;3;1 cama doble extragrande
+163;4;1 cama doble extragrande, 1 sofá cama
+163;5;2 camas individuales, 1 cama doble
+163;6;1 cama doble
+163;7;2 camas individuales
+164;1;1 cama doble, 2 camas individuales
+164;2;1 sofá cama, 1 cama doble grande, 2 camas individuales, 1 sofá cama
+164;3;1 cama doble extragrande, 1 sofá cama
+164;4;1 sofá cama, 1 cama doble grande
+165;1;1 cama doble, 2 camas individuales
+165;2;1 cama individual
+165;3;3 camas individuales
+165;4;2 camas individuales, 1 cama doble
+165;5;1 cama doble
+165;6;1 cama doble
+166;1;1 cama doble, 2 camas individuales
+167;1;2 camas individuales
+167;2;4 camas individuales
+167;3;1 cama individual
+167;4;2 camas individuales, 1 cama doble
+167;5;3 camas individuales, 1 cama individual, 1 cama doble
+167;6;3 camas individuales, 1 cama individual, 1 cama doble
+167;7;1 cama doble
+168;1;1 cama individual
+168;2;1 cama doble, 2 camas individuales
+168;3;1 cama individual, 1 cama doble
+168;4;2 camas individuales, 1 cama doble
+168;5;4 camas individuales
+168;6;1 cama doble
+169;1;2 camas individuales
+169;2;1 cama doble
+169;3;1 cama individual, 1 cama doble
+169;4;1 cama doble
+169;5;1 cama doble
+169;6;2 camas individuales
+170;1;1 cama doble, 2 camas individuales
+170;2;2 camas individuales, 1 cama doble
+170;3;1 cama doble extragrande, 1 sofá cama
+170;4;1 cama doble
+171;1;1 cama individual, 1 cama doble
+171;2;1 cama doble
+172;1;1 cama doble
+172;2;1 cama individual
+172;3;1 cama individual, 1 cama doble grande
+172;4;4 camas individuales
+172;5;1 cama doble, 1 sofá cama
+172;6;1 cama doble
+173;1;1 cama individual
+173;2;1 cama individual, 1 cama doble, 3 camas individuales
+173;3;2 camas dobles, 4 camas individuales
+173;4;2 camas individuales
+173;5;1 cama doble
+173;6;2 camas individuales, 1 cama doble
+173;7;2 camas individuales, 1 cama doble
+173;8;2 camas individuales, 1 cama doble
+173;9;2 camas individuales, 2 camas individuales, 1 cama doble grande, 1 cama doble grande
+174;1;2 camas individuales, 1 cama doble
+174;2;1 cama doble
+174;3;1 cama individual, 1 cama doble, 3 camas individuales
+174;4;1 cama individual, 1 cama doble
+174;5;2 camas individuales, 1 cama doble
+174;6;2 camas individuales, 1 cama doble
+174;7;1 cama doble
+175;1;1 cama doble
+175;2;2 camas individuales, 1 litera, 1 cama doble, 1 litera
+175;3;1 cama individual
+175;4;3 camas individuales
+175;5;1 cama doble, 2 camas individuales
+175;6;1 cama doble, 1 litera
+175;7;1 cama doble, 1 litera, 1 sofá cama
+175;8;1 cama doble, 1 sofá cama, 1 sofá cama
+176;1;1 cama doble
+176;2;1 cama doble, 2 camas individuales
+176;3;1 cama doble extragrande
+176;4;1 cama doble
+176;5;2 camas individuales, 1 cama doble
+177;1;1 cama doble, 2 camas individuales
+177;2;3 camas individuales
+177;3;1 cama individual
+177;4;1 cama doble, 2 camas individuales
+177;5;1 cama individual
+178;1;1 cama doble
+178;2;1 cama individual
+179;1;2 camas individuales
+179;2;1 cama individual, 1 cama doble grande
+179;3;1 cama individual, 1 cama doble grande
+179;4;1 cama individual
+179;5;1 cama doble grande
+179;6;1 cama doble grande
+179;7;1 cama doble grande
+179;8;1 cama doble
+179;9;1 cama doble grande
+179;10;1 cama doble
+179;11;1 cama individual, 1 cama doble
+179;12;1 cama doble, 1 sofá cama
+180;1;1 cama individual, 1 cama doble, 3 camas individuales
+180;2;1 cama doble, 2 camas individuales
+181;1;1 cama doble
+181;2;1 cama individual
+182;1;1 cama doble, 2 camas individuales
+182;2;1 cama individual, 1 cama doble
+182;3;2 camas dobles
+182;4;1 cama individual, 1 cama doble
+182;5;1 cama doble, 2 camas individuales, 1 cama individual
+183;1;1 cama individual
+183;2;1 cama doble
+183;3;2 camas individuales
+183;4;1 cama individual
+183;5;2 camas individuales
+183;6;3 camas individuales
+184;1;1 cama doble
+184;2;1 cama individual
+184;3;2 camas individuales
+185;1;1 cama doble
+185;2;3 camas individuales, 1 cama individual, 1 cama doble
+185;3;2 camas individuales, 1 cama doble
+185;4;2 camas individuales
+186;1;2 camas individuales, 1 cama doble
+186;2;2 camas individuales, 1 cama doble
+186;3;1 cama individual
+186;4;1 cama individual, 1 cama doble
+187;1;1 cama individual
+187;2;2 camas individuales
+187;3;2 camas individuales, 1 cama doble
+187;4;3 camas individuales
+187;5;2 camas individuales
+187;6;2 camas individuales, 1 cama doble
+188;1;1 cama individual
+188;2;2 camas individuales, 1 cama doble
+188;3;3 camas individuales
+188;4;4 camas individuales
+189;1;2 camas individuales, 1 cama doble
+189;2;1 cama individual, 1 cama doble
+189;3;2 camas individuales, 1 cama doble
+189;4;1 cama individual
+189;5;1 cama individual, 1 cama doble
+190;1;1 cama doble
+190;2;2 camas individuales, 1 cama doble extragrande
+190;3;1 cama doble, 2 camas individuales
+190;4;2 camas individuales
+190;5;2 camas individuales, 1 cama doble, 1 sofá cama
+190;6;1 cama doble grande, 2 camas individuales
+190;7;2 camas individuales
+191;1;1 cama doble grande
+191;2;1 cama doble grande
+191;3;2 camas individuales
+192;1;1 cama individual, 1 cama doble
+192;2;2 camas individuales
+192;3;2 camas individuales
+192;4;1 cama doble
+192;5;2 camas individuales
+192;6;2 camas individuales, 1 cama doble
+192;7;1 cama doble
+193;1;1 cama doble, 2 camas individuales
+193;2;1 cama individual, 1 cama doble
+193;3;2 camas individuales, 1 cama doble
+194;1;1 cama individual
+194;2;1 cama individual
+194;3;2 camas individuales, 1 cama doble
+194;4;2 camas individuales, 1 cama doble
+195;1;1 cama doble
+195;2;1 cama individual
+196;1;2 camas individuales
+197;1;1 cama individual
+197;2;1 cama individual
+197;3;2 camas individuales
+197;4;2 camas individuales
+198;1;1 cama individual
+198;2;1 cama doble grande
+198;3;4 literas
+198;4;1 cama individual
+198;5;1 cama individual
+198;6;1 cama individual
+198;7;6 literas
+198;8;1 cama doble extragrande, 1 sofá cama
+198;9;2 literas, 1 cama doble grande
+198;10;1 cama individual
+199;1;8 literas
+199;2;6 literas
+199;3;6 literas, 8 literas
+199;4;4 literas
+199;5;4 literas
+199;6;6 literas
+199;7;8 literas
+200;1;1 cama doble
+200;2;1 sofá cama, 1 cama doble grande
+200;3;1 cama doble
+200;4;1 cama doble
+201;1;4 camas individuales
+201;2;3 camas individuales
+201;3;2 camas individuales
+201;4;1 cama individual
+201;5;1 cama individual
+201;6;1 cama individual
+201;7;1 cama individual
+201;8;1 cama individual
+201;9;1 cama individual
+201;10;1 cama individual
+201;11;1 cama individual
+202;1;1 litera
+202;2;1 litera
+202;3;1 litera
+202;4;2 literas
+202;5;3 literas
+202;6;1 litera
+202;7;5 literas
+203;1;2 camas individuales
+203;2;1 cama individual, 1 litera
+203;3;1 litera
+203;4;1 litera
+203;5;2 literas
+203;6;1 cama individual
+204;1;1 cama individual
+204;2;1 cama individual
+204;3;1 litera
+204;4;1 litera
+204;5;1 litera
+204;6;1 litera
+204;7;1 litera
+205;1;1 cama doble
+205;2;1 cama doble
+205;3;1 litera
+205;4;1 cama doble
+205;5;1 litera
+205;6;1 litera
+205;7;1 cama individual, 1 litera, 1 cama individual, 1 cama doble, 2 literas, 3 literas, 1 cama individual, 1 litera, 2 literas, 3 literas, 3 literas, 1 sofá cama
+206;1;1 litera
+206;2;1 litera
+206;3;1 litera
+206;4;1 litera
+206;5;1 litera
+206;6;1 litera
+206;7;2 literas
+206;8;1 cama doble, 1 sofá cama
+206;9;1 cama individual
+207;1;1 cama individual, 1 litera
+207;2;3 literas
+207;3;2 camas individuales
+207;4;4 literas
+208;1;1 litera
+208;2;1 litera
+208;3;1 litera
+208;4;1 litera
+208;5;1 litera
+208;6;1 cama doble
+208;7;4 literas
+208;8;6 literas
+209;1;4 literas
+209;2;2 camas individuales
+209;3;1 cama individual, 1 litera
+209;4;4 literas
+209;5;1 litera
+209;6;1 litera
+210;1;6 literas
+210;2;1 cama doble, 2 literas
+210;3;1 cama doble
+210;4;1 litera
+210;5;1 litera
+211;1;1 litera
+211;2;1 litera
+211;3;1 litera
+211;4;2 camas individuales
+211;5;1 cama individual
+211;6;1 cama individual
+211;7;2 camas individuales
+212;1;1 cama doble
+212;2;1 cama doble
+212;3;1 cama doble
+212;4;1 cama doble
+212;5;1 cama doble
+212;6;1 cama individual
+212;7;1 cama doble
+212;8;1 cama doble
+212;9;1 cama doble
+212;10;2 literas
+212;11;1 cama doble
+213;1;1 cama doble
+213;2;1 cama doble
+213;3;1 cama doble
+213;4;1 cama doble
+214;1;1 cama doble, 2 camas individuales
+214;2;1 cama individual
+214;3;2 camas individuales, 1 cama doble
+214;4;2 camas individuales, 1 cama doble
+214;5;1 cama doble extragrande, 1 sofá cama
+214;6;1 cama doble extragrande, 1 sofá cama
+214;7;1 cama doble extragrande, 1 sofá cama
+214;8;1 sofá cama, 1 cama doble grande, 2 camas individuales, 1 sofá cama
+214;9;1 sofá cama, 1 cama doble grande, 2 camas individuales, 1 sofá cama
+214;10;1 cama doble extragrande, 2 camas individuales
+215;1;2 camas individuales, 1 cama doble
+215;2;2 camas individuales, 1 cama doble
+215;3;2 camas individuales, 1 cama doble, 1 sofá cama
+215;4;1 cama doble, 1 sofá cama, 2 camas individuales, 1 sofá cama
+215;5;2 camas individuales, 1 cama doble grande
+215;6;2 camas individuales, 1 cama doble grande
+215;7;1 cama doble extragrande, 2 sofás cama
+215;8;2 camas individuales, 1 cama doble grande
+215;9;1 sofá cama, 1 cama doble grande, 2 camas individuales, 1 sofá cama
+215;10;2 camas individuales, 1 cama doble grande
+215;11;1 cama doble grande
+215;12;2 camas individuales, 1 cama doble grande
+215;13;1 cama doble grande
+216;1;2 camas individuales, 1 cama doble
+216;2;3 camas individuales, 1 cama individual, 1 cama doble
+216;3;2 camas individuales
+216;4;1 cama doble extragrande
+216;5;2 camas individuales, 1 cama doble
+216;6;2 camas individuales, 1 sofá cama
+216;7;1 cama individual
+217;1;2 camas individuales, 1 cama doble grande
+217;2;2 camas individuales, 1 cama doble grande
+217;3;1 cama doble
+217;4;1 cama individual, 1 cama doble grande
+217;5;1 sofá cama, 1 cama doble grande
+217;6;1 cama doble grande, 2 camas individuales
+217;7;1 cama doble, 1 cama individual
+218;1;1 cama individual
+218;2;2 camas individuales
+218;3;3 camas individuales
+218;4;1 cama doble
+218;5;2 camas individuales
+219;1;1 cama doble, 2 camas individuales
+219;2;2 camas individuales, 1 cama doble extragrande
+219;3;1 cama individual, 1 cama doble extragrande
+219;4;1 cama doble
+219;5;2 camas individuales, 1 cama doble
+219;6;1 cama individual
+220;1;1 cama doble, 2 camas individuales
+221;1;2 camas individuales, 1 cama doble extragrande
+221;2;1 cama doble extragrande
+221;3;2 camas individuales, 1 cama doble extragrande
+221;4;1 cama individual
+221;5;1 cama individual, 1 cama doble, 3 camas individuales
+221;6;1 cama individual, 1 cama doble, 3 camas individuales
+222;1;1 cama doble extragrande
+222;2;1 cama doble extragrande
+222;3;1 cama doble extragrande, 2 camas individuales
+222;4;1 cama doble extragrande, 2 camas individuales
+222;5;1 cama doble extragrande
+222;6;1 cama doble extragrande
+222;7;1 cama doble extragrande
+223;1;1 cama doble grande
+223;2;1 cama doble
+224;1;1 cama doble, 2 camas individuales
+224;2;1 cama individual
+224;3;3 camas individuales
+224;4;1 cama individual, 1 cama doble, 3 camas individuales
+224;5;2 camas individuales
+224;6;1 cama doble
+224;7;2 camas individuales, 1 cama doble
+224;8;1 cama doble extragrande, 1 sofá cama
+225;1;2 camas individuales, 1 cama doble grande
+225;2;1 cama doble extragrande, 1 sofá cama
+225;3;1 cama doble, 1 sofá cama
+226;1;1 cama doble extragrande
+226;2;1 cama individual, 1 cama doble
+226;3;1 cama doble extragrande
+226;4;1 cama doble extragrande
+226;5;1 cama individual, 1 cama doble extragrande
+226;6;1 cama doble
+227;1;1 litera, 1 cama doble grande, 2 camas individuales, 1 litera
+227;2;1 cama doble
+227;3;2 camas individuales
+227;4;2 camas individuales
+227;5;1 cama doble
+227;6;1 cama doble
+227;7;1 cama individual, 1 cama doble
+227;8;2 camas individuales
+227;9;1 cama doble
+227;10;2 camas individuales
+228;1;1 cama doble grande, 2 camas individuales
+228;2;1 cama doble grande
+228;3;1 sofá cama, 1 cama doble grande
+228;4;1 sofá cama, 1 cama doble grande
+228;5;1 sofá cama, 1 cama doble grande
+229;1;1 cama doble extragrande
+229;2;2 camas individuales, 1 cama doble
+229;3;2 camas individuales, 1 cama doble extragrande
+229;4;1 cama doble extragrande
+229;5;1 cama doble extragrande
+229;6;1 cama doble extragrande
+230;1;2 camas individuales
+230;2;1 cama doble extragrande
+230;3;3 camas individuales
+230;4;1 cama individual, 1 cama doble extragrande
+230;5;1 cama doble extragrande
+230;6;2 camas individuales
+230;7;2 camas individuales
+230;8;2 camas individuales, 1 cama doble
+230;9;2 camas individuales, 1 cama doble extragrande
+230;10;2 camas individuales
+230;11;3 camas individuales
+231;1;1 cama individual
+231;2;2 camas individuales, 1 cama doble
+231;3;3 camas individuales
+231;4;2 camas individuales
+231;5;4 camas individuales
+231;6;1 cama doble, 2 camas individuales
+231;7;1 cama doble grande
+232;1;2 camas individuales
+232;2;1 cama doble
+232;3;1 cama individual
+232;4;1 cama doble
+232;5;1 cama doble
+232;6;1 cama doble
+233;1;1 cama doble grande
+233;2;1 cama doble
+234;1;2 camas individuales
+234;2;3 camas individuales, 1 cama individual, 1 cama doble
+234;3;4 camas individuales, 2 camas individuales, 1 cama doble
+234;4;2 camas individuales, 1 cama doble
+234;5;1 cama doble
+234;6;1 cama doble extragrande
+235;1;1 cama doble, 1 sofá cama
+235;2;1 cama doble, 1 sofá cama
+235;3;1 cama doble, 1 sofá cama
+235;4;1 cama doble, 1 sofá cama, 1 sofá cama
+236;1;1 cama doble
+236;2;2 camas individuales
+236;3;3 camas individuales
+236;4;1 cama individual
+236;5;2 camas individuales, 1 cama doble
+237;1;1 cama doble, 1 cama doble, 2 camas individuales, 1 sofá cama
+237;2;1 cama doble, 1 cama doble
+237;3;1 cama doble, 1 cama doble, 2 camas individuales, 1 sofá cama
+237;4;1 cama doble, 2 camas individuales, 1 sofá cama
+237;5;1 cama doble, 1 sofá cama
+238;1;1 cama doble, 1 sofá cama
+238;2;1 cama doble, 1 sofá cama
+238;3;1 cama doble, 1 sofá cama
+238;4;1 cama doble, 2 camas individuales, 1 sofá cama
+239;1;1 cama doble
+239;2;1 cama doble
+240;1;1 cama doble
+240;2;1 cama doble, 2 camas individuales
+240;3;1 cama doble
+240;4;1 cama doble, 1 cama doble grande
+240;5;1 cama individual
+241;1;1 cama individual
+241;2;1 cama doble, 2 camas individuales
+241;3;3 camas individuales, 1 cama individual, 1 cama doble
+241;4;1 cama doble, 2 sofás cama
+241;5;1 cama doble
+241;6;2 camas individuales, 1 cama doble
+242;1;1 cama doble, 2 camas individuales
+242;2;3 camas individuales, 1 cama individual, 1 cama doble
+242;3;1 cama individual
+242;4;4 camas individuales
+243;1;1 cama individual
+243;2;1 cama doble
+243;3;2 camas individuales
+243;4;2 camas individuales, 1 cama doble
+243;5;1 cama doble
+243;6;3 camas individuales, 1 cama individual, 1 cama doble
+244;1;1 cama individual
+244;2;2 camas individuales, 1 cama doble
+244;3;3 camas individuales, 1 cama individual, 1 cama doble
+244;4;4 camas individuales
+244;5;1 cama doble
+245;1;2 camas individuales
+245;2;1 cama doble
+245;3;2 camas individuales
+245;4;1 cama individual
+246;1;1 cama doble grande
+246;2;1 cama doble
+246;3;1 cama doble, 2 camas individuales
+247;1;1 cama individual
+247;2;2 camas individuales, 1 cama doble
+247;3;2 camas individuales, 1 cama doble
+247;4;3 camas individuales
+248;1;2 camas individuales
+248;2;1 cama individual, 1 cama doble
+248;3;1 cama doble
+248;4;1 cama individual
+248;5;2 camas individuales
+248;6;2 camas individuales
+248;7;3 camas individuales
+248;8;2 camas individuales, 1 cama doble
+248;9;1 cama doble
+248;10;2 camas individuales
+249;1;1 cama individual, 1 cama doble
+249;2;4 camas individuales, 1 cama doble
+249;3;1 cama individual
+249;4;2 camas individuales, 1 cama doble
+249;5;1 cama doble
+249;6;2 camas individuales
+249;7;1 cama doble
+250;1;1 cama individual
+250;2;1 cama doble
+250;3;2 camas individuales
+251;1;1 cama doble
+251;2;1 cama doble
+251;3;1 cama doble
+251;4;1 cama doble
+251;5;1 cama doble
+252;1;1 cama doble
+252;2;1 cama individual
+252;3;1 cama individual, 1 cama doble
+252;4;2 camas individuales
+253;1;1 cama doble
+253;2;1 cama individual, 1 cama doble
+253;3;2 camas dobles grandes
+253;4;1 cama individual
+254;1;1 cama doble
+254;2;1 litera
+254;3;1 litera
+255;1;2 camas individuales, 1 cama doble
+256;1;1 cama individual
+256;2;2 camas individuales
+256;3;1 cama doble
+256;4;1 cama individual
+256;5;2 camas individuales
+256;6;1 cama doble
+256;7;3 camas individuales
+256;8;1 cama individual, 1 cama doble
+256;9;4 camas individuales
+256;10;2 camas individuales, 1 cama doble grande
+256;11;2 camas individuales, 2 literas
+256;12;2 literas, 1 cama doble grande
+256;13;4 literas
+256;14;2 literas
+256;15;1 cama individual
+256;16;4 camas individuales
+257;1;1 cama doble, 1 sofá cama
+257;2;1 cama doble
+257;3;2 camas individuales, 1 cama doble, 4 camas individuales
+257;4;1 cama individual
+257;5;2 camas individuales, 1 cama doble, 3 camas individuales
+258;1;1 cama doble, 2 camas individuales
+258;2;1 cama doble
+258;3;1 cama individual
+258;4;3 camas individuales, 2 camas individuales
+258;5;1 cama doble
+259;1;1 cama doble
+259;2;3 camas individuales, 1 cama individual, 1 cama doble
+259;3;1 cama doble extragrande, 2 camas individuales
+259;4;2 camas individuales
+259;5;1 litera
+259;6;1 litera
+259;7;1 litera
+259;8;1 litera
+259;9;1 litera
+259;10;3 literas
+259;11;5 literas
+260;1;1 cama doble
+260;2;1 cama doble
+260;3;1 cama doble
+261;1;1 cama doble, 2 camas individuales
+261;2;2 camas individuales
+261;3;3 camas individuales
+261;4;2 camas individuales, 1 futón
+261;5;1 cama individual
+261;6;1 cama individual
+261;7;1 cama doble
+261;8;2 camas individuales, 1 cama doble
+262;1;1 cama doble
+262;2;3 camas individuales
+262;3;2 camas individuales
+262;4;2 camas individuales, 1 cama doble
+262;5;1 cama individual
+263;1;1 cama doble
+263;2;2 camas dobles
+263;3;1 cama individual, 2 camas dobles
+264;1;1 cama doble
+264;2;1 cama doble
+264;3;1 cama doble grande
+264;4;1 cama doble grande
+264;5;1 cama doble grande
+264;6;1 cama doble grande
+264;7;1 cama doble grande
+264;8;1 cama individual
+264;9;1 cama doble
+264;10;1 cama doble
+264;11;1 cama individual
+265;1;1 litera
+265;2;8 literas
+265;3;1 cama doble
+265;4;1 cama individual
+265;5;4 literas
+265;6;2 camas individuales, 2 literas, 1 cama doble, 2 literas
+265;7;1 litera
+265;8;1 cama individual
+265;9;6 literas
+265;10;1 litera
+265;11;10 literas
+266;1;1 cama individual, 1 cama doble
+266;2;1 cama individual, 1 cama doble
+267;1;1 cama individual, 1 litera
+267;2;2 camas individuales
+267;3;3 camas individuales, 1 cama individual, 2 literas
+267;4;4 literas
+268;1;2 literas
+268;2;4 literas
+268;3;8 literas
+268;4;1 cama doble, 3 literas
+269;1;2 camas individuales, 1 cama doble extragrande
+269;2;1 cama doble extragrande
+269;3;1 cama doble extragrande, 1 sofá cama
+269;4;4 camas individuales, 2 camas dobles extragrandes
+269;5;1 sofá cama, 1 cama doble grande
+269;6;2 camas individuales, 1 cama doble extragrande
+269;7;1 sofá cama, 1 cama doble grande
+269;8;1 cama doble extragrande
+269;9;1 cama doble extragrande, 1 sofá cama
+269;10;2 camas individuales, 1 cama doble extragrande
+269;11;1 cama doble extragrande
+269;12;1 cama doble extragrande
+269;13;2 camas individuales, 1 cama doble extragrande
+270;1;2 camas individuales, 1 cama doble grande
+270;2;1 cama doble grande
+271;1;1 cama doble, 1 sofá cama
+271;2;1 cama doble, 1 sofá cama
+271;3;1 cama doble, 1 sofá cama
+271;4;1 cama doble, 1 sofá cama
+271;5;1 cama doble, 1 sofá cama
+271;6;1 cama doble, 1 sofá cama
+271;7;1 cama doble
+271;8;1 cama doble
+272;1;1 cama doble
+272;2;1 cama doble grande
+272;3;1 cama doble extragrande, 1 sofá cama
+272;4;1 cama doble extragrande, 1 sofá cama
+272;5;1 cama doble grande
+272;6;1 cama doble grande, 2 camas individuales
+273;1;1 cama doble extragrande
+273;2;1 cama doble extragrande, 2 camas individuales
+273;3;1 cama doble, 2 camas individuales
+273;4;1 cama doble
+273;5;1 cama doble
+273;6;1 cama doble, 1 cama doble
+274;1;2 camas individuales, 1 cama doble grande
+274;2;3 camas individuales
+274;3;1 cama individual
+274;4;1 cama doble grande
+275;1;2 camas individuales
+275;2;3 camas individuales
+275;3;1 cama individual
+275;4;1 cama doble
+275;5;4 camas individuales
+275;6;1 cama individual
+275;7;4 camas individuales
+275;8;3 camas individuales
+276;1;2 camas individuales
+276;2;1 cama doble extragrande, 1 sofá cama
+276;3;1 cama doble extragrande
+276;4;1 cama doble extragrande
+276;5;2 camas individuales
+276;6;1 cama doble extragrande
+276;7;1 cama doble extragrande
+276;8;2 camas individuales
+276;9;1 cama doble extragrande, 1 sofá cama
+277;1;2 camas individuales, 1 cama doble
+277;2;2 camas individuales, 1 cama doble
+277;3;1 cama doble grande
+277;4;2 camas individuales, 1 cama doble grande
+277;5;2 camas individuales, 1 cama doble extragrande
+277;6;1 cama doble extragrande
+277;7;1 cama doble extragrande, 2 camas individuales
+277;8;1 cama doble extragrande, 2 camas individuales
+277;9;2 camas individuales, 1 cama doble extragrande
+277;10;2 camas individuales, 1 cama doble extragrande
+277;11;2 camas individuales, 1 cama doble extragrande, 4 camas individuales
+277;12;2 camas individuales, 1 cama doble extragrande, 4 camas individuales
+277;13;1 cama doble extragrande
+277;14;1 cama doble extragrande, 2 camas individuales
+277;15;1 cama doble extragrande, 2 camas individuales
+277;16;1 cama doble extragrande, 2 camas individuales
+278;1;2 camas individuales, 1 cama doble grande
+278;2;1 cama doble, 1 sofá cama
+278;3;2 camas individuales
+279;1;2 camas individuales, 1 cama doble
+279;2;1 cama doble extragrande
+280;1;1 cama doble extragrande
+280;2;2 camas individuales, 1 sofá cama
+280;3;2 camas individuales, 1 cama doble
+280;4;1 cama doble grande
+281;1;1 cama doble, 2 camas individuales
+281;2;1 cama doble, 2 camas individuales
+281;3;1 cama doble
+281;4;1 cama individual, 1 cama doble
+281;5;1 cama individual
+281;6;1 cama doble
+281;7;1 cama doble
+281;8;1 cama doble, 2 camas individuales
+281;9;2 camas individuales
+281;10;1 cama doble, 2 camas individuales
+281;11;1 cama individual, 1 cama doble, 3 camas individuales
+281;12;1 cama doble
+281;13;2 camas individuales, 1 cama doble grande
+281;14;3 camas individuales, 1 cama individual, 1 cama doble grande
+281;15;3 camas individuales, 1 cama individual, 1 cama doble grande
+281;16;3 camas individuales, 1 cama individual, 1 cama doble grande
+281;17;1 cama doble grande, 1 sofá cama
+281;18;1 cama doble grande, 1 sofá cama
+282;1;2 camas individuales, 1 cama doble grande
+282;2;1 cama doble, 2 camas individuales
+282;3;2 camas individuales, 1 cama doble grande
+282;4;3 camas individuales, 1 cama individual, 1 cama doble grande
+282;5;2 camas individuales, 1 cama doble
+282;6;1 cama doble extragrande
+282;7;2 camas individuales
+282;8;1 cama doble, 1 sofá cama
+282;9;1 cama individual, 1 cama doble
+283;1;3 camas individuales
+283;2;1 cama doble, 2 camas individuales
+283;3;2 camas individuales
+284;1;2 camas individuales, 1 cama doble
+284;2;2 camas individuales, 1 sofá cama
+284;3;2 literas, 1 cama doble grande
+284;4;1 cama doble
+285;1;2 camas individuales, 1 cama doble
+285;2;1 cama individual, 1 cama doble grande
+285;3;1 cama doble extragrande
+285;4;1 cama individual, 1 cama doble grande
+285;5;2 camas individuales, 1 cama doble
+285;6;2 camas individuales, 1 cama doble grande
+285;7;2 camas individuales, 1 cama doble
+285;8;2 camas individuales, 1 cama doble grande
+286;1;1 cama doble grande, 2 camas individuales
+286;2;2 camas individuales, 1 cama doble grande
+286;3;1 cama doble extragrande
+286;4;2 camas individuales, 1 cama doble
+287;1;1 cama doble grande, 2 camas individuales
+287;2;1 cama doble, 1 sofá cama
+287;3;1 cama doble extragrande, 2 sofás cama
+288;1;1 cama doble extragrande
+288;2;2 camas individuales, 1 cama doble extragrande
+289;1;1 cama doble, 1 sofá cama
+289;2;1 sofá cama, 1 cama doble grande
+290;1;2 camas individuales, 1 cama doble
+290;2;1 cama doble
+290;3;2 camas individuales, 1 cama doble
+290;4;1 cama doble
+290;5;2 camas individuales, 1 cama doble
+290;6;2 camas individuales, 1 cama doble
+290;7;1 cama doble
+290;8;1 cama individual, 1 cama doble, 3 camas individuales
+290;9;2 camas individuales, 1 cama doble
+290;10;2 camas individuales
+290;11;2 camas individuales, 1 cama doble extragrande
+291;1;1 cama doble, 2 camas individuales
+291;2;1 cama doble grande
+291;3;1 cama doble grande
+291;4;1 cama individual, 1 cama doble grande
+291;5;1 litera, 1 cama doble grande
+291;6;1 cama individual, 1 cama doble grande
+292;1;2 camas individuales
+292;2;2 camas individuales, 1 sofá cama
+292;3;1 sofá cama, 1 cama doble grande
+292;4;2 camas individuales
+292;5;2 camas individuales, 1 sofá cama
+292;6;2 camas individuales, 1 sofá cama
+292;7;2 camas individuales, 1 sofá cama
+292;8;1 sofá cama, 2 camas dobles grandes
+292;9;2 camas individuales
+292;10;2 camas individuales
+292;11;1 cama doble grande, 1 sofá cama
+292;12;1 sofá cama, 1 cama doble grande
+293;1;1 cama doble grande, 2 camas individuales
+293;2;1 cama doble grande, 2 camas individuales
+293;3;1 cama doble grande, 2 camas individuales
+293;4;2 camas individuales, 1 sofá cama, 1 cama doble grande, 4 camas individuales, 1 sofá cama
+293;5;2 literas, 1 cama doble grande, 2 camas individuales, 2 literas
+293;6;1 cama individual, 1 cama doble
+294;1;2 camas dobles
+294;2;2 camas dobles extragrandes
+294;3;1 cama doble extragrande
+294;4;1 cama doble grande
+295;1;1 cama doble
+295;2;1 cama individual, 1 cama doble
+295;3;2 camas individuales, 1 cama doble, 1 sofá cama
+295;4;2 camas individuales, 1 cama doble
+295;5;2 camas individuales, 1 cama doble, 1 sofá cama
+296;1;1 cama doble
+297;1;2 camas individuales
+297;2;2 camas individuales
+297;3;1 cama doble
+298;1;1 cama individual, 1 cama doble grande
+298;2;1 cama individual
+298;3;1 cama individual, 1 cama doble
+298;4;2 camas individuales
+298;5;1 sofá cama, 1 cama doble grande
+298;6;2 camas individuales, 1 cama doble grande
+299;1;1 cama doble
+299;2;2 camas individuales
+299;3;1 cama doble
+300;1;1 cama doble
+300;2;2 camas individuales
+300;3;1 cama doble
+300;4;1 cama doble
+301;1;1 cama doble
+301;2;1 cama doble
+301;3;1 cama doble
+301;4;1 cama doble
+301;5;1 cama doble
+301;6;1 cama doble
+302;1;1 litera
+302;2;2 camas dobles
+302;3;1 cama individual
+302;4;1 cama doble
+302;5;1 sofá cama, 1 cama doble grande
+302;6;1 sofá cama, 1 cama doble grande
+302;7;1 cama doble grande
+303;1;1 cama doble
+303;2;3 camas individuales
+303;3;1 cama individual
+303;4;2 camas individuales
+303;5;1 cama doble
+303;6;3 camas individuales
+304;1;2 camas individuales
+304;2;1 cama doble
+304;3;1 cama individual
+305;1;1 cama doble
+305;2;2 camas individuales
+305;3;1 cama individual, 1 cama doble
+305;4;1 cama doble
+306;1;1 cama doble
+306;2;1 cama individual, 1 cama doble
+307;1;1 cama individual
+307;2;1 cama doble
+307;3;2 camas individuales
+307;4;1 cama individual, 1 cama doble
+307;5;1 cama doble
+307;6;2 camas individuales
+307;7;1 cama individual, 1 cama doble
+307;8;1 cama doble
+308;1;1 cama individual, 1 cama doble
+308;2;2 camas dobles
+308;3;1 cama doble
+309;1;1 cama doble grande
+310;1;1 sofá cama, 1 cama doble grande
+310;2;2 camas individuales
+310;3;1 cama doble
+310;4;1 cama individual
+310;5;1 sofá cama, 1 cama doble grande, 2 camas individuales, 1 cama doble, 1 sofá cama, 1 cama individual, 2 camas dobles
+310;6;1 cama doble, 1 sofá cama
+311;1;2 camas individuales
+311;2;2 camas individuales, 1 cama doble
+311;3;1 cama doble
+312;1;3 camas individuales
+312;2;1 cama doble
+312;3;2 camas individuales
+312;4;1 cama individual
+312;5;2 camas individuales
+312;6;1 cama doble
+313;1;2 camas individuales, 1 cama doble
+313;2;2 camas individuales, 1 cama doble
+313;3;2 camas individuales, 1 cama doble
+314;1;1 cama doble
+314;2;1 cama doble
+314;3;1 cama doble
+314;4;2 camas individuales
+315;1;1 cama doble grande
+315;2;1 cama individual, 1 cama doble grande
+315;3;1 cama doble grande
+315;4;1 cama doble grande
+315;5;1 cama doble grande
+315;6;1 cama doble grande
+316;1;2 camas individuales, 1 cama doble
+316;2;2 camas individuales, 1 cama doble
+316;3;2 camas individuales
+316;4;1 cama individual, 1 cama doble
+316;5;1 cama individual, 1 cama doble
+317;1;1 cama individual
+317;2;1 cama individual
+317;3;2 camas individuales, 1 cama doble
+317;4;2 camas individuales, 1 cama doble
+317;5;3 camas individuales, 1 cama individual, 1 cama doble
+318;1;1 cama doble
+318;2;2 camas individuales
+318;3;1 cama doble grande
+318;4;1 cama individual, 1 cama doble
+318;5;2 literas
+319;1;1 cama doble grande
+319;2;1 cama doble grande
+319;3;2 camas individuales
+319;4;2 camas individuales
+320;1;1 cama individual
+320;2;1 cama individual
+320;3;1 cama individual
+320;4;1 cama individual
+320;5;1 cama doble
+321;1;1 cama doble
+321;2;1 cama doble
+321;3;1 cama doble
+321;4;1 cama doble
+321;5;1 cama doble
+321;6;1 cama doble
+321;7;1 cama doble
+321;8;1 cama doble
+321;9;1 cama doble
+321;10;1 cama doble
+321;11;1 cama individual
+322;1;1 cama individual
+322;2;1 cama individual
+322;3;1 cama individual
+322;4;1 cama individual
+322;5;2 camas individuales
+322;6;2 camas individuales
+322;7;2 camas individuales
+322;8;1 cama doble
+323;1;1 cama doble grande
+323;2;1 cama doble grande
+323;3;1 cama doble grande
+323;4;1 cama doble
+324;1;1 cama individual
+324;2;1 cama doble
+325;1;1 cama doble grande
+325;2;2 camas individuales
+325;3;1 cama individual
+326;1;1 litera
+326;2;1 cama individual, 2 literas
+326;3;2 literas
+326;4;4 literas
+327;1;1 cama doble
+327;2;1 cama doble
+327;3;1 cama doble
+327;4;1 cama doble
+327;5;1 cama doble
+328;1;1 litera
+328;2;1 cama doble grande, 2 camas individuales
+328;3;1 cama doble grande, 2 camas individuales
+328;4;1 cama doble, 2 camas individuales
+328;5;2 camas individuales
+329;1;1 cama doble
+329;2;1 cama doble
+329;3;1 cama doble
+330;1;2 camas individuales
+330;2;1 litera
+330;3;1 litera
+330;4;1 litera
+330;5;1 litera
+330;6;1 litera
+330;7;1 litera
+330;8;1 litera
+330;9;2 camas individuales
+331;1;1 litera
+331;2;1 litera
+331;3;1 litera
+331;4;1 litera
+331;5;1 litera
+331;6;1 litera
+332;1;1 cama individual
+332;2;1 cama individual
+332;3;1 cama doble
+332;4;1 cama doble
+332;5;1 cama doble
+332;6;2 literas, 1 cama doble grande
+332;7;1 cama individual
+332;8;1 cama individual
+332;9;1 cama individual
+333;1;1 cama doble, 2 camas individuales
+333;2;1 litera
+333;3;1 litera
+333;4;1 litera
+333;5;2 camas individuales
+333;6;1 litera
+333;7;1 litera
+333;8;2 camas individuales
+333;9;3 camas individuales
+333;10;1 litera
+333;11;1 litera
+333;12;3 camas individuales
+333;13;1 litera
+333;14;4 literas
+334;1;1 litera
+334;2;2 camas individuales, 1 cama doble
+334;3;1 cama doble, 1 litera
+334;4;1 cama individual
+334;5;1 litera
+335;1;1 cama individual
+335;2;1 cama individual
+335;3;1 cama individual
+335;4;1 cama individual
+335;5;1 cama individual
+335;6;8 camas individuales
+335;7;6 camas individuales
+335;8;4 camas individuales
+335;9;8 camas individuales
+335;10;6 camas individuales
+335;11;1 cama individual
+335;12;1 cama individual
+335;13;1 cama doble
+335;14;1 cama doble
+335;15;1 cama doble, 2 literas
+335;16;1 cama doble
+335;17;2 camas dobles
+335;18;1 litera
+335;19;4 literas
+336;1;1 litera
+336;2;1 litera
+336;3;1 litera
+336;4;3 literas
+336;5;1 litera
+336;6;1 litera
+336;7;1 litera
+336;8;1 cama individual, 1 cama doble, 1 litera
+336;9;1 cama doble, 2 literas
+337;1;1 cama individual
+337;2;1 cama individual
+337;3;1 cama individual
+337;4;1 litera
+337;5;1 cama individual
+337;6;1 litera
+338;1;1 litera
+338;2;1 litera
+338;3;1 litera
+338;4;1 cama individual
+338;5;1 litera
+338;6;4 literas
+339;1;1 litera
+339;2;1 cama doble
+339;3;1 litera
+339;4;1 litera
+339;5;1 litera
+339;6;1 litera
+339;7;1 cama doble
+339;8;1 cama doble grande
+339;9;5 literas
+339;10;1 litera
+339;11;4 literas
+340;1;1 litera
+340;2;1 litera
+340;3;1 litera
+340;4;1 litera
+340;5;1 litera
+340;6;1 litera
+340;7;1 litera
+340;8;1 litera
+340;9;1 litera
+341;1;1 litera
+341;2;1 litera
+341;3;1 litera
+341;4;1 litera
+342;1;2 camas individuales
+342;2;1 cama individual
+342;3;1 cama doble
+342;4;1 cama individual
+342;5;2 camas individuales
+342;6;1 cama doble
+343;1;1 cama doble
+343;2;1 cama doble
+344;1;1 cama individual
+344;2;2 camas individuales
+344;3;1 sofá cama
+344;4;2 camas individuales
+344;5;2 camas individuales
+345;1;1 cama doble grande, 2 camas individuales
+345;2;2 camas individuales
+345;3;2 camas dobles
+345;4;1 cama individual, 1 cama doble
+345;5;1 cama doble
+345;6;1 cama doble grande, 2 camas individuales
+345;7;2 camas individuales
+346;1;2 camas individuales, 1 cama doble
+346;2;1 cama individual
+346;3;2 camas individuales, 1 sofá cama
+346;4;1 cama doble extragrande
+346;5;2 camas individuales, 1 cama doble
+346;6;2 camas individuales
+346;7;2 camas individuales
+346;8;1 cama individual
+346;9;1 cama doble
+347;1;2 camas individuales, 1 cama doble
+347;2;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+347;3;2 camas individuales, 1 sofá cama
+347;4;1 cama doble extragrande
+347;5;1 cama doble extragrande
+348;1;1 cama doble grande, 2 camas individuales
+348;2;2 camas individuales
+348;3;1 cama doble
+348;4;1 cama doble
+348;5;2 camas individuales
+349;1;1 cama doble
+349;2;2 camas individuales, 1 cama doble
+349;3;1 cama individual
+349;4;3 camas individuales
+349;5;4 camas individuales
+349;6;5 camas individuales
+349;7;2 camas individuales
+349;8;2 camas individuales, 1 cama doble
+349;9;2 camas individuales
+349;10;1 cama doble
+349;11;3 camas individuales
+349;12;4 camas individuales
+349;13;4 camas individuales
+349;14;5 camas individuales
+349;15;5 camas individuales
+349;16;5 camas individuales
+350;1;1 cama doble, 2 camas individuales
+350;2;1 cama individual, 1 cama doble
+350;3;1 cama individual
+351;1;2 camas individuales
+351;2;1 cama doble
+351;3;3 camas individuales, 1 cama individual, 1 cama doble grande
+351;4;1 cama individual
+351;5;1 cama doble
+351;6;1 cama individual
+352;1;1 cama doble
+352;2;1 cama doble, 1 sofá cama
+352;3;2 camas individuales
+352;4;1 cama doble
+353;1;2 camas individuales
+353;2;3 camas individuales
+354;1;1 cama individual
+354;2;1 cama doble, 2 camas individuales
+354;3;3 camas individuales
+354;4;4 camas individuales
+355;1;1 cama doble extragrande
+355;2;1 cama doble extragrande
+355;3;1 cama doble extragrande
+356;1;1 cama doble grande
+356;2;1 cama doble grande, 2 camas individuales
+356;3;2 camas individuales, 1 cama doble
+356;4;1 cama doble grande, 2 camas individuales
+356;5;1 cama doble extragrande, 1 sofá cama
+356;6;1 cama doble grande, 2 camas individuales
+356;7;1 cama doble grande
+356;8;1 cama doble grande, 2 camas individuales
+356;9;1 cama doble grande, 2 camas individuales
+356;10;1 cama individual, 1 cama doble grande, 3 camas individuales
+356;11;1 cama doble grande, 2 camas individuales
+357;1;1 cama doble
+357;2;1 cama doble grande, 2 camas individuales
+357;3;1 cama doble grande, 2 camas individuales
+357;4;2 camas dobles
+358;1;1 cama individual
+358;2;2 camas individuales
+358;3;1 cama doble
+358;4;3 camas individuales, 1 cama individual, 1 cama doble
+358;5;1 cama doble grande
+358;6;1 sofá cama, 1 cama doble grande, 2 camas individuales, 1 sofá cama
+358;7;1 cama doble grande
+358;8;1 cama doble
+359;1;1 cama doble extragrande
+359;2;1 cama doble grande, 2 camas individuales
+359;3;1 cama individual
+359;4;1 cama doble, 2 camas individuales
+359;5;1 cama doble grande, 2 camas individuales
+359;6;1 cama doble, 2 camas individuales
+359;7;2 camas individuales, 1 cama doble extragrande
+360;1;1 cama doble grande, 2 camas individuales
+360;2;2 camas individuales, 1 cama doble
+360;3;1 cama doble grande
+360;4;1 cama doble grande
+360;5;1 cama doble grande
+360;6;2 camas individuales, 1 cama doble grande
+360;7;1 cama doble grande
+360;8;1 cama doble grande
+360;9;1 cama doble grande
+361;1;1 cama doble, 2 camas individuales
+361;2;1 cama individual
+361;3;1 cama individual, 1 cama doble
+361;4;1 cama doble grande, 2 camas individuales
+361;5;3 camas individuales, 1 cama doble, 2 camas dobles grandes
+361;6;3 camas individuales, 1 cama doble, 2 camas dobles grandes
+362;1;2 camas individuales, 1 cama doble extragrande
+362;2;2 camas individuales, 1 cama doble extragrande
+362;3;1 cama doble extragrande
+362;4;1 cama doble extragrande
+362;5;1 cama doble, 2 camas individuales
+362;6;4 camas individuales, 2 camas individuales, 1 cama doble
+362;7;1 cama doble grande
+363;1;2 camas individuales, 1 litera
+363;2;1 cama doble, 1 litera
+363;3;1 cama individual
+363;4;1 cama individual
+363;5;1 cama doble
+363;6;2 camas individuales, 1 sofá cama
+364;1;1 cama doble
+364;2;1 cama doble
+364;3;1 cama doble grande
+364;4;2 camas individuales
+364;5;3 camas individuales
+364;6;1 cama doble extragrande
+364;7;1 cama individual
+365;1;2 camas individuales
+365;2;3 camas individuales
+365;3;2 camas individuales
+366;1;1 cama individual
+366;2;2 camas individuales, 1 cama doble
+366;3;3 camas individuales, 1 cama individual, 1 cama doble grande
+366;4;1 cama doble grande, 2 camas individuales
+367;1;2 camas individuales, 1 cama doble
+367;2;2 camas individuales, 1 cama doble
+367;3;1 cama individual
+367;4;1 cama individual, 2 camas dobles
+367;5;3 camas individuales, 1 cama doble
+367;6;1 cama individual, 1 cama doble
+368;1;1 cama individual
+368;2;1 cama individual
+368;3;1 cama doble
+368;4;2 camas individuales, 1 cama doble
+368;5;1 cama doble, 2 camas individuales
+368;6;1 cama doble
+369;1;1 cama doble grande
+369;2;2 camas individuales
+369;3;1 cama doble grande
+369;4;1 cama doble
+369;5;1 cama doble grande
+369;6;1 cama individual
+370;1;2 camas individuales
+370;2;3 camas individuales
+370;3;1 cama individual
+371;1;2 camas individuales
+371;2;1 cama individual
+371;3;3 camas individuales
+371;4;1 cama doble
+371;5;1 cama doble
+371;6;1 cama individual
+371;7;1 cama doble
+371;8;2 camas individuales
+372;1;4 camas individuales
+372;2;1 cama individual, 1 cama doble grande
+372;3;1 cama doble grande, 2 camas individuales
+372;4;1 cama doble grande
+373;1;1 cama individual
+373;2;1 cama doble
+373;3;1 cama doble
+373;4;1 cama doble
+374;1;1 cama doble
+374;2;2 camas individuales, 1 cama doble
+374;3;1 cama doble grande
+374;4;1 cama doble
+375;1;1 cama doble grande
+375;2;2 camas individuales
+375;3;3 camas individuales
+375;4;1 cama individual
+375;5;3 camas individuales
+375;6;4 camas individuales
+375;7;1 cama doble grande
+375;8;1 cama doble
+376;1;1 cama individual
+376;2;2 camas individuales
+376;3;3 camas individuales
+376;4;2 camas individuales
+376;5;1 cama individual
+376;6;4 camas individuales
+376;7;2 camas individuales
+376;8;1 cama doble
+377;1;1 cama individual
+377;2;1 cama doble
+377;3;1 cama doble grande
+377;4;1 cama doble, 1 litera
+377;5;1 cama doble grande, 2 camas dobles
+378;1;2 camas individuales
+378;2;2 camas individuales
+378;3;1 cama individual
+378;4;1 cama individual
+379;1;1 cama individual
+379;2;2 camas individuales
+379;3;2 camas individuales
+379;4;3 camas individuales
+380;1;2 camas individuales, 1 cama doble
+380;2;1 cama individual, 1 cama doble
+380;3;1 cama individual, 2 camas dobles
+380;4;2 camas individuales
+381;1;2 camas individuales, 1 cama doble grande
+381;2;3 camas individuales, 1 cama individual, 1 cama doble grande
+381;3;2 camas individuales, 1 cama doble
+381;4;1 cama individual
+382;1;1 cama doble
+382;2;1 cama doble grande
+382;3;1 cama doble
+383;1;2 camas individuales, 1 cama doble grande
+383;2;2 camas individuales
+383;3;1 cama individual
+383;4;1 cama individual
+383;5;2 camas individuales, 1 cama doble grande
+383;6;2 camas individuales
+384;1;1 cama doble extragrande
+384;2;1 cama doble extragrande
+384;3;1 cama doble extragrande
+385;1;2 camas individuales
+385;2;2 camas individuales
+385;3;1 cama doble
+385;4;2 camas individuales
+385;5;1 cama doble
+386;1;1 cama doble
+386;2;1 cama doble grande
+386;3;1 cama doble
+386;4;1 cama doble grande
+386;5;1 cama doble grande
+387;1;2 camas individuales
+387;2;2 camas individuales
+387;3;1 cama individual
+387;4;2 camas individuales
+387;5;1 cama doble
+387;6;1 cama doble
+387;7;1 cama doble
+388;1;1 cama individual
+388;2;1 cama doble, 2 camas individuales, 2 sofás cama
+388;3;1 cama doble, 2 camas individuales, 2 sofás cama
+388;4;2 camas individuales, 1 cama doble grande, 2 camas individuales, 2 sofás cama
+389;1;1 cama doble
+389;2;1 cama doble grande
+389;3;1 cama individual, 1 cama doble grande
+389;4;1 cama doble
+389;5;2 camas individuales, 1 cama doble
+390;1;1 cama doble
+390;2;1 cama doble
+390;3;1 cama individual, 1 cama doble, 3 camas individuales
+391;1;1 cama doble
+391;2;1 cama individual
+391;3;1 cama doble
+391;4;3 camas individuales
+391;5;1 cama doble
+392;1;1 litera
+392;2;1 litera
+392;3;1 litera
+392;4;1 litera
+392;5;1 litera
+392;6;1 litera
+392;7;1 litera
+392;8;1 litera
+392;9;1 litera
+392;10;1 cama doble
+392;11;2 literas
+392;12;2 literas
+392;13;2 camas individuales, 1 litera
+392;14;4 literas
+392;15;1 litera
+392;16;1 litera
+392;17;1 cama doble
+393;1;1 cama doble
+393;2;1 cama individual
+393;3;1 cama doble
+393;4;1 cama doble
+393;5;1 cama doble
+393;6;1 cama doble
+394;1;1 cama individual
+394;2;1 cama doble
+394;3;1 cama doble
+394;4;3 camas individuales
+394;5;1 cama individual, 1 cama doble
+394;6;2 camas individuales, 2 literas
+394;7;1 cama individual, 1 litera, 1 cama doble grande
+395;1;1 litera
+395;2;2 camas individuales, 1 litera
+395;3;2 camas individuales, 1 litera
+396;1;1 cama doble grande, 2 camas individuales
+396;2;1 cama doble grande, 2 camas individuales
+396;3;1 cama individual
+396;4;1 cama individual, 1 cama doble grande
+397;1;1 cama individual
+397;2;1 cama doble
+397;3;2 camas individuales
+397;4;1 cama doble
+397;5;2 camas individuales
+397;6;3 camas individuales
+397;7;3 camas individuales
+397;8;4 camas individuales
+397;9;6 camas individuales
+397;10;1 litera
+397;11;1 litera
+397;12;1 litera
+397;13;1 litera
+397;14;1 litera
+397;15;1 cama doble, 2 camas individuales
+397;16;1 cama doble, 2 camas individuales
+397;17;3 camas individuales
+397;18;1 litera
+398;1;1 litera
+398;2;1 litera
+398;3;1 litera
+398;4;2 camas individuales
+398;5;8 literas
+398;6;1 litera
+398;7;1 cama individual
+399;1;1 cama doble grande
+399;2;2 camas individuales
+399;3;1 cama individual, 1 cama doble grande
+399;4;1 cama individual
+399;5;1 cama individual
+399;6;1 cama doble
+400;1;1 cama individual
+400;2;1 litera
+400;3;2 literas
+400;4;1 litera
+401;1;1 cama doble
+401;2;1 cama individual, 1 cama doble
+401;3;1 cama individual
+401;4;1 cama individual
+401;5;1 cama doble, 1 litera
+401;6;1 cama doble
+402;1;2 camas individuales, 4 literas
+402;2;2 camas individuales
+402;3;2 camas individuales
+402;4;2 literas
+402;5;1 cama individual, 1 litera
+402;6;1 cama individual, 1 litera
+402;7;1 cama individual, 1 litera
+402;8;1 cama individual, 1 litera
+402;9;2 camas individuales
+403;1;2 camas individuales
+403;2;2 camas individuales
+403;3;1 cama individual
+403;4;1 cama doble grande
+403;5;1 cama individual, 1 cama doble
+403;6;1 cama doble
+404;1;1 litera
+404;2;1 cama doble
+404;3;1 litera
+404;4;1 litera
+404;5;1 litera
+404;6;2 camas dobles
+405;1;2 camas individuales
+405;2;2 camas individuales
+405;3;2 literas
+405;4;1 litera
+405;5;1 litera
+405;6;1 litera
+405;7;1 litera
+405;8;1 litera
+406;1;1 litera
+406;2;1 litera
+406;3;2 camas individuales
+406;4;1 cama doble
+406;5;1 cama doble
+406;6;2 camas individuales
+406;7;2 literas
+407;1;1 cama doble grande
+407;2;1 litera
+407;3;1 cama doble
+407;4;1 cama individual
+407;5;1 litera
+408;1;1 litera
+408;2;1 litera
+408;3;1 litera
+408;4;1 litera
+408;5;1 litera
+408;6;1 litera
+408;7;3 literas
+408;8;1 cama doble extragrande
+408;9;2 literas
+408;10;1 litera
+408;11;4 literas
+408;12;1 litera, 1 cama doble grande
+409;1;1 litera
+409;2;1 litera
+409;3;1 litera
+409;4;1 litera
+409;5;2 literas
+409;6;1 cama doble
+409;7;2 literas
+409;8;2 literas
+409;9;2 camas individuales
+410;1;2 camas individuales
+410;2;2 literas
+410;3;1 litera
+410;4;1 litera
+410;5;1 litera
+410;6;3 literas
+410;7;1 cama doble extragrande, 1 cama doble grande
+410;8;2 camas individuales
+410;9;1 cama doble grande
+411;1;1 cama doble
+411;2;1 cama doble, 2 literas, 4 literas
+411;3;1 litera
+411;4;1 litera
+411;5;1 litera
+411;6;1 cama doble
+411;7;1 cama individual, 1 cama doble, 3 camas individuales
+411;8;1 cama doble, 2 literas
+411;9;1 cama individual
+411;10;1 litera, 1 cama doble grande
+412;1;5 camas individuales
+412;2;2 camas individuales, 1 cama doble grande, 2 literas
+412;3;1 cama doble
+412;4;2 camas individuales, 2 literas
+412;5;2 camas individuales
+412;6;1 cama doble, 2 camas individuales, 1 sofá cama
+413;1;1 cama doble
+413;2;1 cama individual
+413;3;2 camas individuales
+413;4;1 litera
+413;5;1 litera
+414;1;2 camas individuales
+414;2;1 cama individual, 1 litera
+414;3;2 camas individuales, 1 litera
+414;4;2 camas individuales
+414;5;1 litera
+414;6;2 literas
+414;7;5 camas individuales
+414;8;2 camas individuales
+415;1;2 camas individuales
+415;2;1 cama individual, 1 litera
+415;3;2 camas individuales, 4 literas
+415;4;1 cama individual
+416;1;1 litera
+416;2;2 literas
+416;3;1 cama individual
+416;4;1 cama doble
+416;5;1 cama individual, 1 cama doble
+416;6;1 cama doble
+416;7;1 cama individual, 1 cama doble
+416;8;3 camas individuales
+416;9;2 literas
+416;10;2 literas
+417;1;1 cama doble, 2 camas individuales
+417;2;1 cama individual
+418;1;1 cama individual
+418;2;1 cama doble, 2 camas individuales
+418;3;1 cama individual, 1 cama doble, 3 camas individuales
+418;4;1 cama individual
+419;1;2 camas individuales, 1 cama doble
+419;2;2 camas individuales, 1 cama doble
+419;3;1 cama individual
+419;4;2 camas individuales, 1 sofá cama
+420;1;1 cama doble, 2 camas individuales
+420;2;1 cama individual
+420;3;3 camas individuales
+421;1;2 camas individuales, 1 cama doble
+421;2;1 cama individual
+421;3;1 cama doble grande, 2 camas individuales
+421;4;1 cama doble grande, 2 camas individuales
+421;5;2 camas individuales, 1 cama doble grande
+421;6;2 camas individuales, 1 cama doble grande
+421;7;4 camas individuales
+421;8;4 camas individuales
+422;1;1 cama doble, 2 camas individuales
+422;2;1 cama individual
+422;3;3 camas individuales
+422;4;4 camas individuales
+422;5;4 camas individuales
+423;1;1 cama doble
+423;2;1 cama individual
+423;3;1 cama individual
+423;4;1 cama individual
+424;1;2 camas individuales
+424;2;1 cama individual
+425;1;2 camas individuales
+425;2;1 cama doble
+426;1;1 cama doble, 2 camas individuales
+426;2;2 camas individuales
+426;3;2 camas individuales, 1 cama doble
+426;4;1 cama doble grande
+426;5;2 camas individuales
+426;6;2 camas individuales
+426;7;1 cama doble, 2 camas individuales
+426;8;1 cama individual
+427;1;1 cama doble
+427;2;2 camas individuales
+427;3;1 cama doble, 1 litera, 2 camas individuales, 1 cama doble
+427;4;1 cama doble
+427;5;3 camas individuales, 1 cama individual, 1 cama doble
+427;6;1 cama doble, 1 sofá cama, 2 camas individuales, 1 cama doble
+427;7;1 cama doble grande
+427;8;2 camas individuales
+427;9;2 camas individuales
+427;10;1 cama doble extragrande
+427;11;1 cama individual
+428;1;1 cama doble
+428;2;1 cama individual, 1 cama doble
+428;3;2 camas individuales
+428;4;1 cama doble grande
+428;5;1 cama individual, 1 cama doble grande
+429;1;1 cama individual
+429;2;1 cama individual
+429;3;1 cama individual
+429;4;1 cama doble
+429;5;1 cama doble
+429;6;1 cama doble
+429;7;2 camas individuales
+429;8;1 cama individual, 1 cama doble
+430;1;2 camas individuales
+430;2;2 camas individuales
+430;3;2 camas individuales
+430;4;2 camas individuales
+430;5;2 camas individuales
+430;6;2 camas individuales
+430;7;2 camas individuales
+430;8;2 camas individuales
+430;9;2 camas individuales, 1 sofá cama
+430;10;1 cama doble, 2 camas individuales
+430;11;1 cama doble
+430;12;2 camas individuales, 1 cama doble
+430;13;2 camas individuales, 1 cama doble
+430;14;1 cama individual, 1 cama doble
+430;15;2 camas individuales, 1 cama doble
+430;16;1 cama doble
+430;17;1 cama doble
+430;18;1 cama doble, 1 sofá cama
+430;19;1 cama doble, 1 sofá cama
+430;20;2 camas individuales
+431;1;2 camas individuales, 1 cama doble
+431;2;1 cama doble
+431;3;3 camas individuales
+431;4;2 camas individuales, 1 cama doble
+431;5;2 camas individuales, 1 cama doble, 4 camas individuales
+431;6;1 cama doble, 2 camas individuales
+431;7;3 camas individuales
+431;8;1 cama doble grande
+431;9;1 cama doble grande, 2 camas individuales
+431;10;1 cama doble, 2 camas individuales
+431;11;1 cama individual
+431;12;2 camas individuales, 1 cama doble, 4 camas individuales
+432;1;1 cama doble grande
+432;2;2 camas individuales
+432;3;1 cama doble grande
+432;4;1 cama individual, 1 cama doble extragrande
+432;5;1 cama doble extragrande
+433;1;2 camas individuales, 1 cama doble
+433;2;3 camas individuales
+433;3;1 cama doble
+433;4;1 cama doble
+433;5;1 cama doble extragrande
+434;1;1 cama individual
+434;2;3 camas individuales, 1 cama individual, 1 cama doble
+434;3;2 camas individuales
+434;4;2 camas individuales
+434;5;1 cama doble grande, 1 sofá cama
+434;6;1 cama doble, 1 sofá cama
+434;7;1 cama doble, 1 sofá cama
+434;8;3 camas individuales, 1 cama individual, 1 cama doble
+434;9;2 camas dobles, 2 camas individuales, 1 cama doble
+434;10;2 camas dobles, 2 camas individuales, 1 cama doble
+435;1;1 cama doble, 2 camas individuales
+435;2;1 cama doble, 2 camas individuales
+435;3;3 camas individuales
+435;4;2 camas individuales, 1 cama doble
+435;5;2 camas individuales, 1 cama doble
+435;6;2 camas individuales
+435;7;2 camas individuales
+436;1;1 cama doble
+436;2;1 cama doble, 1 sofá cama
+436;3;1 cama doble, 1 sofá cama
+436;4;1 cama doble, 1 sofá cama
+436;5;1 cama doble, 1 sofá cama
+436;6;1 cama doble, 1 sofá cama
+436;7;1 cama doble
+436;8;1 cama doble
+436;9;1 cama doble
+436;10;1 cama doble
+436;11;1 cama doble
+436;12;1 cama doble
+436;13;1 cama doble
+436;14;1 cama doble
+436;15;1 cama doble
+437;1;1 cama individual
+437;2;1 cama doble, 2 camas individuales
+437;3;2 camas individuales, 1 cama doble grande
+437;4;2 camas individuales, 1 cama doble grande
+437;5;1 cama doble extragrande
+437;6;1 cama doble
+438;1;1 cama doble, 1 sofá cama
+438;2;1 cama doble, 1 sofá cama
+438;3;1 cama doble, 1 sofá cama
+438;4;1 cama doble, 1 sofá cama
+438;5;1 cama doble, 1 sofá cama
+438;6;1 cama doble, 1 sofá cama
+438;7;1 cama doble, 1 sofá cama
+438;8;2 camas dobles, 1 sofá cama
+439;1;1 cama individual
+439;2;1 cama doble
+439;3;2 camas individuales
+440;1;1 cama doble
+440;2;1 cama doble, 1 sofá cama
+440;3;2 camas individuales
+440;4;1 cama doble, 2 camas individuales
+440;5;1 cama doble, 1 sofá cama
+441;1;2 camas individuales, 1 cama doble
+441;2;3 camas individuales, 1 cama individual, 1 cama doble
+441;3;2 camas individuales
+441;4;1 cama individual
+441;5;1 cama individual
+441;6;2 camas individuales
+441;7;2 camas individuales, 1 cama doble extragrande
+442;1;2 camas individuales, 1 cama doble
+442;2;1 cama individual
+442;3;1 cama individual, 1 cama doble
+443;1;1 cama doble
+443;2;1 cama individual
+443;3;1 cama individual
+443;4;1 cama doble
+443;5;2 camas individuales
+443;6;1 cama doble
+443;7;1 cama doble
+443;8;1 cama doble
+443;9;2 camas individuales
+443;10;2 camas individuales, 1 cama doble
+443;11;2 camas individuales
+444;1;2 camas dobles, 4 camas individuales
+444;2;1 cama doble
+444;3;2 camas individuales
+445;1;1 cama doble grande, 2 camas individuales
+445;2;1 cama individual, 1 cama doble grande
+445;3;1 cama doble, 2 camas individuales
+445;4;2 literas
+446;1;1 cama individual
+446;2;1 cama doble
+446;3;1 cama doble
+446;4;3 camas individuales
+446;5;3 camas individuales
+446;6;1 cama individual
+446;7;1 cama individual
+446;8;2 camas individuales
+446;9;2 camas individuales
+446;10;3 camas individuales
+446;11;3 camas individuales
+446;12;2 camas individuales
+447;1;3 camas individuales
+447;2;2 camas individuales, 1 cama doble
+447;3;1 cama doble
+447;4;2 camas individuales
+448;1;1 cama doble
+448;2;4 camas individuales
+448;3;1 cama doble, 1 sofá cama
+448;4;1 cama doble
+448;5;2 camas individuales
+449;1;1 cama doble grande
+449;2;2 camas individuales, 1 cama doble grande
+449;3;2 camas individuales
+449;4;2 camas individuales
+449;5;1 cama individual, 1 cama doble
+449;6;3 camas individuales
+449;7;2 camas individuales, 1 cama doble grande
+450;1;2 camas dobles, 2 literas
+450;2;2 camas dobles
+450;3;1 cama doble, 1 sofá cama
+450;4;1 cama doble, 1 sofá cama
+450;5;2 camas dobles
+450;6;2 camas dobles
+450;7;2 camas dobles
+450;8;2 camas dobles
+450;9;2 camas dobles
+450;10;1 cama doble, 1 sofá cama
+450;11;2 camas dobles
+450;12;1 cama doble, 1 sofá cama
+450;13;1 cama doble, 1 sofá cama
+451;1;2 camas individuales, 1 cama doble extragrande
+451;2;3 camas individuales, 1 cama individual, 1 cama doble extragrande
+451;3;3 camas individuales, 1 sofá cama, 1 cama individual, 1 sofá cama, 1 cama doble grande
+451;4;1 cama doble
+452;1;2 camas individuales, 1 cama doble grande
+452;2;2 camas individuales, 1 cama doble
+452;3;3 camas individuales, 1 cama individual, 1 cama doble
+452;4;3 camas individuales, 1 cama individual, 1 cama doble
+452;5;3 camas individuales, 1 sofá cama, 1 cama individual, 1 cama doble, 1 sofá cama
+452;6;1 cama doble, 1 cama individual
+452;7;2 camas individuales, 1 cama doble grande
+452;8;3 camas individuales, 1 cama individual, 1 cama doble grande
+452;9;2 camas individuales, 1 cama individual, 1 cama doble grande, 2 camas individuales
+452;10;2 camas individuales, 1 cama doble grande, 2 camas individuales, 1 cama doble grande, 2 camas individuales, 1 cama doble grande, 2 camas individuales, 1 cama doble grande
+452;11;2 camas individuales, 1 cama doble grande
+453;1;1 cama doble
+453;2;2 sofás cama, 1 cama doble grande
+453;3;2 camas individuales
+454;1;2 camas individuales, 1 cama doble
+455;1;1 cama doble
+455;2;1 cama doble
+456;1;1 cama doble
+456;2;2 camas individuales
+456;3;1 cama doble
+456;4;2 camas dobles
+456;5;1 cama doble
+456;6;1 cama doble
+456;7;1 cama doble grande
+457;1;1 cama individual
+457;2;1 cama doble
+457;3;2 camas individuales
+457;4;1 cama individual, 1 cama doble
+458;1;1 cama doble
+458;2;1 cama doble
+458;3;2 camas individuales
+458;4;3 camas individuales
+459;1;1 cama doble grande
+459;2;2 camas individuales
+459;3;1 cama doble extragrande
+459;4;1 cama doble grande
+459;5;1 cama doble grande
+460;1;1 cama doble grande
+460;2;1 cama doble
+460;3;1 cama doble
+461;1;1 cama individual
+461;2;2 camas individuales
+461;3;1 cama doble
+461;4;1 cama individual
+461;5;1 cama doble
+462;1;1 cama doble
+462;2;1 cama doble
+462;3;1 cama individual
+462;4;1 cama individual
+463;1;2 camas individuales
+463;2;1 cama doble
+464;1;1 cama doble grande
+464;2;1 cama doble
+464;3;1 cama doble grande
+464;4;1 cama doble grande, 1 sofá cama
+464;5;1 cama doble
+465;1;1 cama doble extragrande
+465;2;1 cama doble grande
+465;3;1 cama individual, 2 camas dobles grandes
+465;4;1 cama individual, 2 camas dobles grandes
+465;5;1 cama doble grande
+465;6;1 cama doble grande
+466;1;1 cama doble
+466;2;1 cama doble
+466;3;1 cama doble
+466;4;1 cama doble
+466;5;1 cama doble
+466;6;1 cama doble
+467;1;1 cama doble
+467;2;1 cama doble
+467;3;1 cama doble
+467;4;1 cama doble
+468;1;1 cama individual
+468;2;2 camas individuales
+468;3;1 cama individual
+468;4;1 cama doble, 2 camas individuales
+469;1;1 cama doble, 2 camas individuales
+469;2;3 camas individuales
+469;3;4 camas individuales
+469;4;1 litera
+469;5;1 litera
+469;6;1 litera
+469;7;1 cama doble, 2 literas, 2 camas individuales
+469;8;1 cama doble, 1 cama doble
+469;9;1 cama doble, 2 camas individuales
+470;1;1 cama individual
+470;2;1 cama individual
+470;3;1 cama individual
+470;4;1 cama individual
+470;5;1 cama individual
+470;6;1 cama individual
+470;7;8 literas
+470;8;10 literas
+470;9;6 literas
+470;10;4 literas
+471;1;1 cama doble
+471;2;3 camas individuales
+471;3;2 camas individuales
+472;1;1 cama doble, 1 sofá cama
+472;2;1 litera
+472;3;1 litera
+472;4;1 litera
+472;5;1 litera
+472;6;1 litera
+472;7;1 litera
+472;8;1 cama doble grande
+472;9;1 litera
+472;10;2 camas individuales
+472;11;1 cama doble
+473;1;1 cama individual
+473;2;1 cama individual
+473;3;1 cama individual
+473;4;1 cama individual
+473;5;1 cama individual
+473;6;1 cama individual
+473;7;1 cama individual
+473;8;1 cama individual
+473;9;1 cama individual
+473;10;1 cama individual
+473;11;1 cama individual
+473;12;1 cama individual
+473;13;1 cama individual
+473;14;1 cama individual
+473;15;1 cama individual
+473;16;1 cama individual
+473;17;1 cama individual
+473;18;1 cama individual
+473;19;1 cama individual
+473;20;1 cama individual
+473;21;1 cama individual
+473;22;1 cama individual
+473;23;1 cama individual
+473;24;1 cama individual
+474;1;2 camas individuales
+474;2;1 litera
+474;3;1 litera
+474;4;1 litera
+474;5;1 litera
+475;1;1 cama doble
+475;2;1 litera
+475;3;1 litera
+475;4;1 litera
+475;5;1 cama doble
+475;6;1 litera
+475;7;1 litera
+475;8;2 camas individuales
+475;9;1 cama doble
+475;10;1 cama doble
+475;11;1 litera
+475;12;1 litera
+476;1;1 cama doble
+476;2;1 cama doble
+476;3;1 cama doble
+477;1;1 litera
+477;2;1 litera
+477;3;1 litera
+477;4;1 litera
+478;1;1 litera
+478;2;1 litera
+478;3;1 cama doble
+478;4;1 litera
+478;5;1 litera
+478;6;1 litera
+478;7;1 litera
+478;8;1 litera
+478;9;1 cama doble, 1 sofá cama
+478;10;1 cama doble, 1 sofá cama
+478;11;1 litera
+478;12;1 litera
+478;13;1 litera
+479;1;1 cama individual
+479;2;1 cama individual
+479;3;1 cama individual
+479;4;1 cama individual
+479;5;1 cama individual
+479;6;1 cama individual, 1 cama doble grande
+479;7;2 camas individuales, 2 camas dobles grandes
+479;8;1 cama individual
+479;9;1 cama individual
+479;10;1 cama individual
+479;11;1 cama individual
+480;1;2 camas individuales
+480;2;1 cama individual
+480;3;1 cama individual
+480;4;1 cama individual
+480;5;1 cama individual
+481;1;1 cama individual, 1 cama doble
+481;2;1 cama individual, 1 cama doble, 1 sofá cama
+481;3;1 cama doble
+481;4;1 cama individual, 1 cama doble
+482;1;1 cama individual
+482;2;1 cama individual
+482;3;1 cama doble
+483;1;1 litera
+483;2;1 litera
+483;3;1 litera
+483;4;1 litera
+483;5;1 litera
+483;6;1 litera
+483;7;1 cama doble
+483;8;2 camas individuales
+483;9;1 cama individual
+484;1;1 litera
+484;2;1 litera
+484;3;1 litera
+484;4;1 litera
+484;5;1 litera
+484;6;1 litera
+484;7;1 litera
+484;8;1 litera
+484;9;1 litera
+484;10;1 litera
+484;11;1 litera
+484;12;1 litera
+484;13;1 litera
+484;14;1 litera
+484;15;1 litera
+484;16;1 litera
+484;17;1 litera
+484;18;1 litera
+484;19;1 litera
+484;20;1 litera
+484;21;1 litera
+484;22;1 litera
+484;23;1 litera
+484;24;1 litera
+484;25;1 litera
+484;26;1 litera
+484;27;1 litera
+484;28;1 litera
+484;29;1 litera
+484;30;1 litera
+484;31;1 litera
+484;32;1 litera
+484;33;1 litera
+484;34;1 litera
+484;35;1 litera
+484;36;1 litera
+484;37;1 litera
+484;38;1 litera
+484;39;1 litera
+484;40;1 litera
+484;41;1 litera
+484;42;1 litera
+484;43;1 litera
+484;44;1 litera
+484;45;1 litera
+484;46;1 litera
+484;47;1 litera
+484;48;1 litera
+484;49;1 cama individual
+484;50;1 cama individual
+484;51;1 cama individual
+484;52;1 cama individual
+484;53;1 cama individual
+484;54;1 cama individual
+484;55;1 cama individual
+484;56;1 cama individual
+484;57;1 cama individual
+484;58;1 cama individual
+484;59;1 cama individual
+484;60;1 cama individual
+484;61;1 cama individual
+484;62;1 cama individual
+485;1;1 litera
+485;2;1 litera
+485;3;1 litera
+485;4;1 litera
+486;1;1 litera
+486;2;1 litera
+486;3;1 litera
+486;4;1 litera
+486;5;2 camas individuales
+486;6;1 litera
+486;7;1 litera
+486;8;1 litera
+486;9;1 litera
+487;1;1 litera
+487;2;1 litera
+487;3;1 cama individual
+487;4;1 cama doble
+488;1;1 litera
+488;2;1 litera
+489;1;1 litera
+489;2;1 litera
+489;3;1 litera
+489;4;1 litera
+490;1;1 cama doble
+491;1;2 camas individuales, 1 cama doble
+491;2;2 camas individuales
+491;3;2 camas individuales
+491;4;2 camas individuales
+491;5;2 camas individuales, 1 cama doble
+491;6;1 cama individual
+492;1;1 cama individual
+492;2;2 camas individuales, 1 cama doble
+492;3;3 camas individuales, 1 cama individual, 1 cama doble
+492;4;1 cama doble
+493;1;2 camas individuales
+493;2;1 cama doble
+493;3;1 cama doble extragrande
+493;4;1 cama doble grande
+493;5;1 cama individual
+493;6;2 camas individuales, 1 sofá cama
+493;7;2 camas individuales, 1 cama doble
+494;1;1 cama doble, 2 camas individuales
+494;2;1 cama doble
+494;3;1 cama individual
+494;4;1 cama doble, 2 camas individuales
+494;5;1 cama doble, 2 camas individuales
+494;6;3 camas individuales
+495;1;2 camas individuales, 1 cama doble
+495;2;1 cama individual
+496;1;2 camas individuales
+496;2;3 camas individuales
+496;3;4 camas individuales
+496;4;1 cama doble grande
+496;5;2 camas individuales
+496;6;3 camas individuales
+497;1;2 camas individuales, 1 cama doble
+497;2;3 camas individuales
+497;3;2 camas individuales, 1 cama doble
+497;4;1 cama doble
+498;1;1 cama doble
+498;2;1 cama doble
+498;3;2 camas individuales
+499;1;2 camas individuales
+499;2;1 cama individual
+499;3;3 camas individuales
+499;4;1 cama doble
+499;5;1 cama doble
+499;6;1 cama doble
+499;7;1 cama doble
+499;8;1 cama doble
+499;9;1 cama doble
+500;1;2 camas individuales
+500;2;1 cama individual
+500;3;1 cama doble extragrande
+500;4;4 camas individuales
+500;5;3 camas individuales
+500;6;2 camas individuales
+500;7;1 cama doble
+500;8;1 cama doble
+501;1;1 cama doble grande, 2 camas individuales
+501;2;3 camas individuales
+501;3;2 camas individuales
+501;4;1 cama doble grande, 1 sofá cama
+502;1;2 camas individuales
+502;2;1 cama individual, 1 cama doble
+502;3;3 camas individuales, 1 cama individual, 1 cama doble
+503;1;2 camas individuales, 1 cama doble
+503;2;2 camas individuales, 1 cama doble
+503;3;2 camas individuales, 1 cama doble
+503;4;1 cama individual
+503;5;1 cama doble grande, 2 camas individuales
+503;6;1 cama doble grande
+504;1;2 camas individuales
+504;2;3 camas individuales, 2 camas individuales, 1 sofá cama
+504;3;2 camas dobles grandes
+504;4;1 cama individual
+504;5;1 cama individual
+504;6;1 cama doble grande
+504;7;2 camas individuales
+504;8;1 cama doble extragrande
+504;9;2 camas individuales
+504;10;2 camas individuales, 1 sofá cama
+504;11;1 cama doble grande
+504;12;2 camas individuales, 1 sofá cama
+504;13;2 camas individuales, 1 sofá cama
+504;14;2 camas individuales, 1 cama doble extragrande, 1 sofá cama
+504;15;2 camas individuales, 1 sofá cama
+504;16;2 camas individuales
+504;17;2 camas individuales
+505;1;2 camas individuales, 1 cama doble grande
+505;2;2 camas individuales
+506;1;1 cama doble
+506;2;1 cama individual
+506;3;3 camas individuales
+506;4;2 camas individuales, 1 cama doble
+507;1;2 camas individuales, 1 cama doble
+507;2;2 camas individuales
+507;3;1 cama doble, 2 sofás cama
+507;4;1 cama individual
+508;1;1 cama doble extragrande, 2 camas individuales
+508;2;1 cama doble extragrande, 2 camas individuales
+508;3;1 cama doble extragrande, 1 sofá cama
+508;4;1 cama doble extragrande, 2 camas individuales
+508;5;2 camas individuales, 1 cama doble grande
+509;1;1 cama individual
+509;2;1 cama doble grande
+509;3;1 cama doble grande
+509;4;1 cama doble grande
+509;5;1 cama doble grande
+509;6;1 cama doble extragrande
+509;7;1 cama doble grande
+509;8;1 cama doble
+509;9;1 cama doble extragrande
+510;1;1 cama individual
+510;2;2 camas individuales
+510;3;2 camas individuales
+510;4;3 camas individuales
+511;1;1 cama doble
+511;2;2 camas individuales
+511;3;1 cama doble
+512;1;2 camas individuales, 1 cama doble
+512;2;3 camas individuales
+512;3;2 camas individuales
+512;4;1 cama doble
+512;5;1 cama individual
+513;1;1 cama individual
+513;2;2 camas individuales
+513;3;3 camas individuales
+513;4;4 camas individuales
+513;5;2 camas individuales
+513;6;2 camas individuales
+513;7;1 cama doble
+513;8;2 camas individuales, 1 cama doble extragrande
+514;1;3 camas individuales, 2 camas dobles grandes
+514;2;3 camas individuales, 2 camas dobles grandes
+514;3;2 camas individuales, 1 cama doble grande
+514;4;2 camas individuales, 1 cama doble grande
+514;5;2 camas individuales, 1 cama doble grande
+515;1;2 camas individuales, 1 cama doble
+515;2;1 cama individual
+515;3;3 camas individuales, 1 cama individual, 1 cama doble
+515;4;4 camas individuales, 2 camas individuales, 1 cama doble
+516;1;1 sofá cama, 1 cama doble grande
+516;2;1 cama doble grande
+516;3;1 cama doble grande
+516;4;1 cama doble
+517;1;1 cama doble grande
+518;1;1 cama individual
+518;2;2 camas individuales
+518;3;3 camas individuales
+518;4;4 camas individuales
+518;5;1 cama doble grande
+518;6;1 cama individual
+518;7;2 camas individuales
+518;8;1 cama doble
+518;9;1 cama doble
+518;10;1 cama doble
+519;1;2 camas individuales
+519;2;1 cama individual
+519;3;1 cama doble grande
+520;1;2 camas individuales, 1 cama doble
+520;2;3 camas individuales, 1 cama individual, 1 cama doble
+520;3;1 cama individual
+520;4;2 camas individuales, 1 cama doble
+521;1;1 cama doble grande
+521;2;2 camas individuales
+521;3;1 cama doble grande
+522;1;1 cama doble grande
+522;2;1 cama doble grande
+522;3;1 cama doble grande
+523;1;1 cama doble
+523;2;1 cama individual, 1 cama doble grande
+523;3;1 cama doble grande
+523;4;1 cama doble extragrande
+523;5;1 cama doble
+523;6;1 cama doble extragrande
+524;1;1 cama doble, 2 camas individuales
+524;2;1 cama individual, 1 cama doble
+524;3;1 cama individual, 1 cama doble
+524;4;2 camas individuales, 1 cama doble
+524;5;2 camas dobles
+525;1;1 cama doble
+525;2;1 cama doble
+525;3;1 cama doble
+525;4;1 cama doble
+525;5;1 cama doble
+525;6;1 cama doble grande
+526;1;1 cama individual
+526;2;1 cama doble grande
+526;3;1 cama doble grande
+526;4;1 cama doble
+526;5;1 cama doble
+527;1;1 cama individual
+527;2;1 cama doble, 2 camas individuales
+527;3;1 cama individual, 1 cama doble
+527;4;2 camas dobles
+527;5;2 camas individuales, 1 cama doble
+528;1;1 cama doble grande
+528;2;1 cama doble
+529;1;1 cama doble
+529;2;1 cama individual
+529;3;1 cama individual, 1 cama doble
+529;4;2 camas dobles
+530;1;2 camas individuales
+530;2;3 camas individuales
+530;3;4 camas individuales
+530;4;1 cama doble
+530;5;1 cama individual
+531;1;2 camas individuales
+531;2;1 cama doble, 1 sofá cama
+532;1;1 cama individual
+532;2;2 camas individuales, 1 cama doble
+532;3;3 camas individuales
+532;4;1 cama doble, 2 camas individuales
+533;1;3 camas individuales
+533;2;2 camas individuales, 1 cama doble
+533;3;1 cama doble
+533;4;2 camas individuales
+533;5;1 cama individual, 2 camas dobles
+533;6;1 cama doble extragrande
+533;7;1 cama doble
+533;8;1 cama doble
+533;9;1 cama individual, 1 cama doble
+533;10;2 camas individuales, 1 cama doble grande
+533;11;1 cama doble extragrande
+533;12;2 camas individuales, 1 cama doble grande
+534;1;1 cama doble
+534;2;2 camas individuales
+534;3;1 cama doble
+534;4;2 camas individuales
+535;1;1 cama doble extragrande
+535;2;1 cama doble extragrande
+535;3;1 cama doble extragrande, 1 sofá cama
+535;4;1 cama doble extragrande
+535;5;1 cama doble extragrande
+536;1;2 camas individuales, 1 cama doble grande
+536;2;1 cama doble
+536;3;1 cama doble grande
+536;4;1 cama doble grande
+536;5;2 camas individuales, 1 cama doble grande
+537;1;1 cama doble
+537;2;2 camas individuales
+537;3;1 cama individual
+537;4;2 camas individuales
+537;5;1 cama doble
+538;1;3 camas individuales
+538;2;1 cama individual, 1 cama doble
+538;3;1 cama doble
+538;4;2 camas individuales
+538;5;1 cama doble
+538;6;1 cama doble
+539;1;1 cama doble grande
+539;2;1 cama doble
+539;3;1 cama doble
+539;4;2 camas individuales, 1 cama doble
+539;5;2 camas individuales
+539;6;1 cama doble, 1 sofá cama
+539;7;1 sofá cama, 1 cama doble grande
+540;1;1 cama individual, 1 cama doble
+540;2;2 camas individuales, 2 camas dobles
+540;3;1 litera
+540;4;1 litera
+540;5;1 litera
+540;6;1 litera
+541;1;1 cama doble grande
+541;2;1 cama doble grande
+541;3;2 camas individuales
+541;4;4 literas
+541;5;1 litera
+541;6;1 litera
+541;7;2 camas individuales, 2 literas
+542;1;2 camas individuales, 6 camas dobles
+543;1;2 camas individuales
+543;2;2 camas individuales, 1 sofá cama
+543;3;1 cama doble
+543;4;2 camas individuales
+543;5;1 cama doble grande
+543;6;2 camas individuales
+543;7;2 camas individuales
+544;1;2 camas individuales, 1 cama doble
+544;2;1 cama individual
+544;3;1 cama doble
+544;4;1 cama doble
+545;1;2 camas individuales, 1 cama doble
+545;2;3 camas individuales, 1 cama individual, 1 cama doble
+545;3;1 cama doble extragrande
+546;1;1 cama doble grande
+546;2;1 cama individual, 1 cama doble grande
+547;1;2 camas individuales, 1 cama doble
+547;2;2 camas individuales, 1 sofá cama
+547;3;1 cama individual
+548;1;1 cama doble, 2 camas individuales, 1 cama doble grande
+548;2;4 camas individuales
+548;3;3 camas individuales
+548;4;1 cama doble extragrande, 2 camas individuales, 1 cama doble extragrande
+548;5;2 camas individuales, 1 sofá cama
+548;6;2 camas individuales, 1 sofá cama, 1 sofá cama, 2 camas dobles grandes
+549;1;2 camas individuales
+549;2;1 cama doble
+549;3;3 camas individuales
+550;1;2 camas individuales
+550;2;2 camas individuales, 1 sofá cama
+550;3;2 camas individuales, 1 sofá cama
+550;4;2 camas individuales
+550;5;1 cama doble
+550;6;2 camas individuales
+551;1;1 cama doble grande
+551;2;1 cama doble grande, 1 sofá cama
+551;3;1 cama doble grande, 2 camas individuales
+551;4;1 cama doble grande, 2 camas individuales
+551;5;1 cama doble grande
+551;6;1 cama doble grande, 2 camas individuales
+552;1;1 cama doble
+552;2;2 camas individuales
+552;3;1 cama individual
+552;4;1 cama doble
+553;1;1 cama individual
+553;2;1 cama doble
+553;3;3 camas individuales
+553;4;2 camas individuales
+553;5;2 camas individuales
+553;6;1 cama doble
+553;7;4 camas individuales
+554;1;1 cama individual
+554;2;1 litera
+555;1;1 cama doble
+555;2;1 cama doble
+555;3;1 cama doble
+555;4;1 cama doble
+556;1;1 cama doble grande, 2 camas individuales
+556;2;1 cama doble, 2 literas, 1 sofá cama, 1 cama doble grande
+556;3;1 cama individual, 1 cama doble
+557;1;1 cama individual
+557;2;1 cama doble extragrande
+557;3;1 cama individual, 1 cama doble
+557;4;3 camas individuales
+557;5;2 camas individuales
+558;1;2 camas individuales, 1 cama doble
+558;2;1 cama individual
+558;3;1 cama individual, 1 cama doble
+558;4;1 cama individual
+558;5;3 camas individuales
+558;6;2 camas individuales
+559;1;1 cama doble, 2 camas individuales
+559;2;1 cama doble
+559;3;1 cama doble
+559;4;1 cama individual
+560;1;2 camas individuales
+560;2;2 camas individuales
+560;3;2 camas individuales
+560;4;2 camas individuales, 1 sofá cama
+560;5;1 cama doble
+561;1;2 camas individuales, 1 cama doble
+561;2;1 cama doble grande, 2 camas individuales
+561;3;1 cama doble grande
+561;4;2 camas individuales, 1 litera
+561;5;3 camas individuales
+561;6;1 cama individual
+562;1;1 cama doble, 2 camas individuales
+562;2;1 cama doble, 2 camas individuales
+562;3;1 cama individual
+563;1;2 camas individuales, 1 cama doble
+563;2;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+563;3;1 cama doble grande, 1 sofá cama
+564;1;1 cama doble, 2 camas individuales
+564;2;1 cama individual
+564;3;1 cama doble, 2 camas individuales
+564;4;1 cama doble, 1 sofá cama, 2 camas individuales, 1 sofá cama
+565;1;2 camas individuales, 1 cama doble
+565;2;1 cama doble
+565;3;3 camas individuales
+565;4;1 cama doble, 1 sofá cama
+565;5;1 cama doble
+566;1;2 camas individuales, 1 cama doble
+566;2;1 cama individual
+566;3;3 camas individuales, 1 cama individual, 1 cama doble
+567;1;1 cama individual
+567;2;3 camas individuales
+567;3;2 camas individuales
+567;4;4 camas individuales
+568;1;1 cama individual, 1 cama doble
+568;2;1 cama individual
+568;3;1 cama individual
+568;4;1 cama doble
+568;5;2 camas individuales, 1 cama doble
+568;6;1 cama individual
+568;7;1 cama individual
+568;8;1 cama individual
+569;1;1 cama individual
+569;2;2 camas individuales
+569;3;3 camas individuales
+569;4;3 camas individuales
+570;1;1 cama doble
+570;2;3 camas individuales, 1 cama individual, 1 cama doble
+570;3;2 camas individuales
+570;4;1 cama individual
+571;1;1 cama individual
+571;2;1 cama doble, 2 camas individuales
+571;3;3 camas individuales
+571;4;1 cama individual, 2 literas
+572;1;1 cama doble grande
+572;2;1 cama doble
+573;1;1 cama doble
+573;2;1 cama doble
+573;3;1 cama doble, 1 cama doble
+573;4;1 cama doble
+574;1;2 camas individuales, 1 cama doble
+575;1;2 camas dobles
+575;2;2 camas individuales, 1 cama doble
+575;3;1 cama doble, 2 camas individuales
+575;4;1 cama individual
+576;1;1 cama individual
+576;2;1 cama doble, 2 literas
+576;3;1 cama individual, 1 cama doble
+576;4;1 cama doble, 2 literas, 4 literas
+576;5;1 cama individual, 4 literas
+576;6;1 cama individual
+577;1;1 cama doble, 2 camas individuales
+577;2;1 cama doble
+577;3;1 cama individual
+577;4;1 cama doble, 1 sofá cama
+578;1;1 cama individual
+578;2;2 camas individuales, 1 cama doble
+579;1;1 cama doble
+579;2;1 cama individual, 1 cama doble
+579;3;2 camas individuales, 1 cama doble
+580;1;1 cama individual
+580;2;1 cama doble, 2 camas individuales
+580;3;3 camas individuales
+580;4;4 camas individuales
+580;5;1 cama doble grande
+580;6;4 camas individuales
+581;1;1 cama individual
+581;2;2 camas individuales
+581;3;1 cama doble
+582;1;1 cama doble
+582;2;4 camas individuales
+582;3;2 camas individuales
+582;4;1 cama individual, 1 cama doble
+583;1;1 cama individual
+583;2;2 camas individuales
+583;3;2 camas individuales, 1 litera
+583;4;2 camas individuales, 1 litera
+584;1;1 cama doble
+584;2;1 cama doble, 2 camas individuales
+585;1;2 camas individuales
+585;2;2 camas individuales
+585;3;3 camas individuales
+585;4;4 camas individuales
+585;5;3 camas individuales
+586;1;2 camas individuales
+586;2;3 camas individuales
+586;3;4 camas individuales
+586;4;2 camas individuales
+586;5;1 cama individual
+586;6;1 cama doble
+587;1;1 cama doble, 1 cama doble, 1 sofá cama
+587;2;1 cama doble, 1 cama doble, 1 sofá cama
+587;3;1 cama doble, 1 sofá cama
+587;4;1 cama doble, 1 sofá cama
+587;5;2 camas individuales
+587;6;2 camas individuales
+588;1;2 camas individuales
+588;2;3 camas individuales
+588;3;1 cama individual, 1 cama doble
+588;4;1 cama individual, 1 cama doble
+588;5;2 camas individuales
+588;6;3 camas individuales, 1 cama doble
+588;7;2 camas individuales
+589;1;1 cama doble
+589;2;1 cama individual
+589;3;2 camas individuales
+589;4;1 cama doble
+590;1;1 cama doble, 2 camas individuales
+590;2;1 cama doble, 1 sofá cama
+590;3;1 cama doble
+591;1;2 camas individuales
+591;2;1 cama doble
+592;1;2 camas individuales, 1 cama doble
+592;2;3 camas individuales
+592;3;2 camas individuales, 1 cama doble
+592;4;1 cama doble grande
+593;1;1 cama doble
+593;2;2 literas
+593;3;3 camas individuales, 1 cama doble grande
+593;4;2 literas
+593;5;2 camas individuales, 3 literas
+593;6;2 camas individuales, 1 cama doble
+593;7;2 camas individuales
+594;1;1 cama individual, 1 cama doble grande
+594;2;1 cama doble
+594;3;1 sofá cama, 1 cama doble grande
+594;4;2 camas individuales
+594;5;1 cama doble
+595;1;1 cama doble grande, 2 camas individuales
+595;2;2 camas individuales
+595;3;1 cama individual, 1 cama doble grande, 3 camas individuales
+595;4;2 camas individuales, 1 cama doble grande
+595;5;1 cama individual, 1 cama doble, 3 camas individuales
+595;6;1 cama doble grande
+595;7;1 cama doble grande, 2 camas individuales
+595;8;2 camas individuales, 1 cama doble grande
+595;9;2 camas individuales, 1 cama doble
+595;10;1 cama individual
+596;1;1 cama doble
+596;2;1 cama individual
+596;3;2 camas individuales
+596;4;2 camas individuales
+596;5;1 cama doble grande
+596;6;1 cama doble
+597;1;2 camas individuales, 1 cama doble
+597;2;3 camas individuales
+597;3;2 camas individuales, 1 sofá cama, 2 camas individuales, 2 literas
+597;4;2 camas individuales
+597;5;1 cama doble extragrande
+597;6;2 camas individuales
+597;7;1 cama doble extragrande
+597;8;1 cama doble extragrande
+597;9;1 cama doble extragrande
+597;10;4 camas individuales
+597;11;1 cama doble extragrande
+598;1;2 camas individuales, 1 cama doble extragrande
+598;2;2 camas individuales, 1 cama doble extragrande
+598;3;1 cama doble extragrande
+598;4;1 cama individual
+598;5;1 cama doble extragrande, 2 camas individuales
+599;1;2 camas individuales
+599;2;1 cama doble
+599;3;1 cama individual
+599;4;3 camas individuales
+599;5;1 cama doble
+599;6;1 cama doble
+599;7;2 camas individuales, 1 cama doble grande
+599;8;1 cama individual, 1 cama doble
+600;1;2 camas individuales
+600;2;2 camas individuales, 1 cama doble grande
+600;3;2 camas individuales, 1 sofá cama, 1 sofá cama, 1 cama doble grande
+600;4;1 sofá cama, 1 cama doble grande
+600;5;3 camas individuales
+600;6;3 camas individuales
+600;7;2 camas individuales, 1 sofá cama, 1 sofá cama, 1 cama doble grande
+600;8;1 cama doble grande
+600;9;1 sofá cama, 1 cama doble grande
+600;10;2 camas individuales
+600;11;1 cama doble, 2 camas individuales
+601;1;1 cama individual
+601;2;2 camas individuales, 1 cama doble
+601;3;2 camas individuales, 1 cama doble
+601;4;1 cama doble
+601;5;1 cama individual, 1 cama doble
+602;1;1 cama doble, 2 camas individuales
+602;2;1 cama doble
+602;3;2 camas individuales, 1 cama doble
+602;4;1 cama doble grande
+602;5;1 cama doble
+603;1;2 camas individuales, 1 cama doble
+603;2;1 cama doble, 1 sofá cama
+603;3;1 cama doble grande
+603;4;1 sofá cama, 1 cama doble grande
+603;5;1 cama doble grande
+603;6;1 sofá cama, 1 cama doble grande
+603;7;1 sofá cama, 1 cama doble grande
+604;1;1 cama doble
+604;2;2 camas individuales
+604;3;2 camas individuales
+604;4;2 camas individuales, 1 sofá cama
+604;5;3 camas individuales
+604;6;2 sofás cama, 1 cama doble grande
+604;7;1 cama doble grande
+604;8;1 cama individual
+605;1;1 cama doble
+605;2;1 cama doble grande
+605;3;1 cama doble grande
+605;4;1 cama doble
+605;5;1 cama doble extragrande
+606;1;2 camas individuales
+606;2;2 sofás cama, 1 cama doble grande
+606;3;2 camas individuales, 1 sofá cama
+606;4;1 cama doble extragrande, 2 sofás cama, 2 camas individuales, 2 sofás cama
+606;5;1 cama doble
+606;6;3 camas individuales
+606;7;1 sofá cama, 1 cama doble grande
+607;1;1 cama individual
+607;2;2 camas individuales, 1 cama doble extragrande
+607;3;2 camas individuales, 1 sofá cama
+607;4;2 camas individuales, 1 sofá cama
+607;5;2 camas individuales, 1 cama doble, 2 camas individuales, 1 cama doble extragrande
+607;6;2 camas individuales, 1 sofá cama
+608;1;1 cama doble, 2 camas individuales
+609;1;1 cama doble
+609;2;1 cama doble
+609;3;1 cama doble
+609;4;1 cama doble
+609;5;1 cama doble
+609;6;1 cama doble
+610;1;1 cama doble, 2 camas individuales
+610;2;2 camas individuales, 1 cama doble grande
+610;3;1 cama doble
+610;4;2 camas individuales, 1 cama doble
+610;5;3 camas individuales, 1 cama individual, 1 cama doble
+610;6;2 camas individuales, 1 cama doble
+610;7;2 camas individuales, 1 cama doble
+610;8;1 cama doble grande, 1 sofá cama
+610;9;1 cama doble grande, 1 sofá cama
+611;1;1 cama doble
+611;2;2 camas individuales, 1 cama doble
+611;3;2 camas individuales, 1 cama doble
+611;4;1 cama doble
+611;5;1 cama doble
+612;1;1 cama individual
+612;2;2 camas individuales
+612;3;1 cama doble grande
+612;4;1 sofá cama, 1 cama doble grande
+612;5;1 cama doble grande
+612;6;1 cama doble, 1 sofá cama
+612;7;1 cama doble, 1 sofá cama
+612;8;1 cama doble, 1 sofá cama
+612;9;2 camas individuales
+612;10;1 cama doble, 2 camas individuales
+613;1;2 camas individuales
+613;2;1 cama doble extragrande
+613;3;1 cama doble extragrande, 1 sofá cama
+613;4;3 camas individuales
+613;5;2 camas individuales, 1 cama doble extragrande
+613;6;2 camas individuales
+613;7;1 cama doble extragrande
+613;8;1 cama doble extragrande, 1 sofá cama
+614;1;1 cama doble grande, 2 camas individuales
+614;2;2 camas dobles, 1 cama doble extragrande
+614;3;2 camas individuales, 1 cama doble
+614;4;2 camas individuales, 1 cama doble
+614;5;2 camas individuales, 1 cama doble
+614;6;2 camas individuales, 1 cama doble
+615;1;1 cama individual
+615;2;1 cama doble, 2 camas individuales
+615;3;3 camas individuales
+616;1;1 cama doble
+616;2;2 camas individuales
+616;3;1 cama doble extragrande
+616;4;2 camas individuales
+616;5;1 cama doble extragrande, 1 sofá cama
+616;6;2 camas individuales
+616;7;1 cama doble extragrande
+616;8;2 camas individuales
+616;9;1 cama doble extragrande
+617;1;1 cama doble grande, 1 sofá cama
+617;2;1 cama doble grande, 1 sofá cama
+617;3;1 cama doble grande, 2 camas individuales
+617;4;1 cama doble grande, 2 camas individuales
+617;5;1 cama doble grande
+618;1;1 cama doble
+618;2;1 cama doble
+618;3;1 cama doble, 1 sofá cama
+618;4;1 cama doble, 1 sofá cama
+618;5;2 camas individuales
+619;1;1 cama doble
+619;2;1 cama doble grande
+619;3;1 cama doble grande
+619;4;1 cama doble grande
+619;5;1 cama doble grande
+619;6;1 cama doble grande
+620;1;1 cama doble
+620;2;1 cama doble grande, 2 camas individuales
+620;3;1 cama doble grande, 2 camas individuales
+620;4;1 cama doble extragrande, 1 sofá cama, 2 camas individuales
+620;5;1 cama doble grande, 2 camas individuales, 1 sofá cama
+620;6;1 cama doble grande, 2 camas individuales, 2 camas individuales
+620;7;1 cama doble grande, 2 camas individuales, 2 camas individuales
+621;1;2 camas individuales
+621;2;1 cama doble grande
+621;3;1 cama individual, 1 cama doble
+621;4;2 camas individuales, 1 cama doble
+621;5;1 cama doble
+621;6;1 cama individual
+621;7;2 camas individuales, 1 cama doble grande
+622;1;2 camas individuales
+622;2;3 camas individuales
+622;3;1 cama doble
+623;1;1 sofá cama, 1 cama doble grande
+623;2;1 cama doble grande
+623;3;2 camas individuales
+623;4;1 cama doble grande
+623;5;1 cama doble grande
+623;6;1 cama individual
+623;7;1 cama doble grande
+623;8;2 camas individuales, 1 sofá cama
+624;1;2 camas individuales
+624;2;1 cama individual
+624;3;2 camas individuales, 1 sofá cama
+624;4;1 cama doble
+624;5;3 camas individuales
+624;6;1 cama doble
+624;7;1 cama doble grande
+625;1;1 cama doble grande
+625;2;2 camas individuales
+625;3;1 cama individual, 1 cama doble
+625;4;1 cama individual, 1 cama doble grande
+625;5;2 camas individuales, 1 cama doble grande
+625;6;1 cama doble grande
+626;1;1 cama doble grande
+626;2;1 cama doble
+626;3;1 cama doble extragrande
+626;4;2 camas individuales
+626;5;1 cama individual
+627;1;1 cama doble, 2 camas individuales
+627;2;3 camas individuales
+627;3;1 cama individual
+627;4;4 camas individuales, 2 camas individuales, 1 cama doble grande
+627;5;1 cama doble grande
+628;1;3 camas individuales
+628;2;4 camas individuales
+628;3;1 cama doble
+628;4;1 cama doble, 1 cama individual
+628;5;1 cama doble
+629;1;1 cama individual
+629;2;2 camas individuales
+629;3;2 camas individuales
+629;4;1 cama doble grande
+629;5;1 cama doble extragrande
+629;6;1 cama doble grande
+630;1;1 cama individual
+630;2;1 cama doble grande
+630;3;2 camas individuales
+630;4;1 cama doble grande
+630;5;1 cama doble grande
+630;6;2 camas individuales
+630;7;1 cama individual
+630;8;2 camas individuales
+630;9;1 cama doble grande
+630;10;1 cama doble grande
+630;11;2 camas individuales
+630;12;1 cama doble grande
+630;13;1 cama doble grande
+630;14;1 cama doble grande
+630;15;1 cama doble grande
+631;1;1 cama individual
+631;2;1 cama doble grande
+631;3;1 cama doble grande
+631;4;2 camas individuales
+631;5;1 cama individual, 1 cama doble grande
+631;6;2 camas individuales, 1 cama doble grande
+631;7;4 camas individuales
+632;1;1 cama individual, 1 cama doble grande
+632;2;2 camas individuales, 1 cama doble grande
+632;3;1 cama doble
+632;4;2 camas individuales
+632;5;2 camas individuales, 1 cama doble
+633;1;1 cama doble
+633;2;2 camas individuales
+633;3;1 cama individual
+634;1;1 cama doble
+634;2;2 camas individuales, 2 literas
+634;3;2 camas individuales
+634;4;2 literas, 1 cama doble grande
+635;1;1 cama doble
+635;2;1 cama doble
+636;1;2 camas individuales
+636;2;3 camas individuales
+636;3;1 cama individual, 1 cama doble
+636;4;2 camas individuales
+636;5;1 cama doble
+637;1;2 camas individuales
+637;2;1 cama individual
+637;3;1 cama doble
+637;4;1 cama doble
+637;5;2 camas individuales
+637;6;1 cama doble
+637;7;1 cama doble
+638;1;1 cama doble extragrande
+638;2;1 cama doble extragrande
+638;3;1 cama individual
+638;4;1 cama doble grande
+638;5;1 cama doble grande
+638;6;1 cama doble grande
+639;1;2 camas individuales, 1 cama doble
+639;2;1 cama doble grande
+639;3;1 cama individual
+639;4;3 camas individuales
+639;5;2 camas individuales
+640;1;1 cama doble
+640;2;1 cama individual, 1 cama doble
+640;3;1 cama doble
+640;4;1 cama individual
+640;5;1 cama individual
+641;1;2 camas individuales
+641;2;1 cama individual
+641;3;1 cama doble
+642;1;4 camas individuales
+642;2;3 camas individuales
+642;3;1 cama doble
+642;4;1 cama doble
+643;1;2 camas individuales, 1 cama doble
+643;2;2 camas individuales, 1 cama doble
+643;3;1 cama individual, 1 cama doble
+644;1;1 litera
+644;2;1 litera
+644;3;1 litera
+644;4;1 litera
+644;5;1 cama doble grande
+644;6;2 camas individuales, 2 literas
+644;7;1 cama individual, 1 cama doble
+644;8;2 camas individuales, 2 literas
+644;9;1 cama doble, 2 literas
+644;10;2 camas individuales, 1 litera
+644;11;1 litera
+644;12;1 litera
+644;13;2 camas individuales
+644;14;1 cama doble
+644;15;2 camas individuales
+644;16;2 camas individuales, 2 literas
+644;17;4 literas
+644;18;6 literas
+644;19;1 cama individual, 4 literas
+645;1;1 litera
+645;2;1 litera
+645;3;1 litera
+646;1;1 cama individual
+646;2;1 cama doble grande
+647;1;2 camas individuales
+647;2;4 camas individuales
+647;3;1 cama individual
+647;4;1 cama individual
+647;5;4 camas individuales
+647;6;6 camas individuales
+648;1;1 litera
+648;2;1 litera
+648;3;1 litera
+648;4;1 litera
+648;5;1 cama doble, 2 literas
+648;6;1 cama doble
+648;7;1 cama individual, 1 cama doble
+649;1;1 litera
+649;2;1 litera
+649;3;1 litera
+649;4;4 camas individuales
+649;5;6 camas individuales
+649;6;8 camas individuales
+650;1;1 litera
+650;2;1 litera
+650;3;1 litera
+650;4;6 literas
+650;5;2 camas individuales, 3 literas
+650;6;2 camas individuales, 2 literas
+650;7;10 literas
+650;8;14 literas
+650;9;1 cama individual, 6 literas
+650;10;1 litera
+650;11;6 literas
+651;1;4 literas
+651;2;2 literas
+652;1;1 litera
+652;2;1 litera
+652;3;4 literas
+652;4;1 litera
+652;5;1 litera
+652;6;2 camas individuales
+652;7;1 litera
+652;8;1 litera
+652;9;2 literas
+653;1;1 litera
+653;2;1 litera
+653;3;2 camas individuales
+653;4;1 cama individual, 1 litera
+653;5;6 literas
+653;6;6 literas
+653;7;6 literas
+653;8;2 literas
+653;9;1 litera
+653;10;1 cama individual, 1 litera
+653;11;3 literas
+653;12;2 literas
+653;13;8 literas
+653;14;1 litera
+653;15;1 litera
+654;1;1 litera
+654;2;1 cama doble
+654;3;2 literas
+654;4;3 literas
+654;5;4 literas
+654;6;1 cama individual
+654;7;3 literas
+654;8;5 literas
+655;1;1 litera
+655;2;1 litera
+655;3;1 litera
+655;4;1 litera
+655;5;2 literas
+655;6;3 literas
+655;7;4 literas
+655;8;6 literas
+656;1;1 cama doble
+656;2;4 camas individuales
+656;3;1 cama individual
+656;4;1 litera
+656;5;1 litera
+656;6;1 litera
+656;7;1 litera
+656;8;2 camas individuales
+657;1;1 litera
+658;1;1 cama doble
+658;2;6 literas
+658;3;8 literas
+658;4;10 literas
+658;5;1 litera
+658;6;1 litera
+658;7;1 litera
+658;8;10 literas
+658;9;1 cama doble, 2 literas
+659;1;1 cama doble, 2 literas
+659;2;1 cama doble, 4 literas
+660;1;1 litera
+660;2;1 litera
+660;3;1 litera
+661;1;1 cama individual
+661;2;2 camas individuales
+661;3;1 cama doble
+662;1;2 camas individuales
+662;2;1 cama doble
+662;3;1 cama doble extragrande
+662;4;3 camas individuales
+662;5;1 cama individual, 1 cama doble grande
+663;1;1 cama doble grande, 2 camas individuales
+663;2;1 cama individual, 1 cama doble grande, 3 camas individuales
+664;1;1 cama doble grande, 2 camas individuales
+664;2;2 camas individuales
+664;3;2 camas individuales
+664;4;1 cama individual
+664;5;4 camas individuales
+664;6;3 camas individuales, 1 cama individual, 1 cama doble
+664;7;2 camas individuales, 1 cama doble
+665;1;1 cama individual
+665;2;1 cama doble, 2 camas individuales
+665;3;1 cama individual, 1 cama doble
+665;4;2 camas individuales, 1 cama doble
+665;5;2 camas individuales, 1 cama doble extragrande, 4 camas individuales
+665;6;1 cama doble
+665;7;2 camas individuales, 1 cama doble
+665;8;4 camas individuales
+666;1;2 camas individuales
+666;2;1 cama doble
+666;3;1 cama individual
+666;4;1 cama individual, 1 cama doble
+666;5;1 cama doble
+667;1;1 cama doble
+667;2;2 camas individuales
+667;3;1 cama doble grande
+667;4;1 cama individual
+668;1;1 cama individual
+668;2;1 cama doble grande
+668;3;1 cama doble, 1 sofá cama
+668;4;1 cama doble grande
+668;5;1 cama individual, 1 cama doble
+668;6;2 camas individuales
+669;1;1 cama doble
+669;2;1 cama doble grande
+669;3;1 cama individual, 1 cama doble
+670;1;2 camas individuales
+670;2;2 camas individuales
+670;3;3 camas individuales
+670;4;1 cama individual
+670;5;2 camas individuales
+671;1;2 camas individuales
+671;2;3 camas individuales
+672;1;1 cama individual
+672;2;2 camas individuales, 1 cama doble
+672;3;2 camas individuales, 1 cama doble
+672;4;1 cama doble extragrande, 2 camas individuales
+672;5;1 cama doble
+672;6;3 camas individuales
+672;7;2 camas individuales, 1 cama doble
+673;1;2 camas individuales, 1 cama doble grande
+673;2;2 camas individuales, 1 sofá cama
+673;3;1 cama doble extragrande
+673;4;2 camas individuales, 1 sofá cama
+673;5;2 camas individuales, 1 cama doble grande
+673;6;1 cama doble extragrande, 2 literas
+673;7;2 camas individuales, 1 sofá cama
+674;1;1 cama individual
+674;2;2 camas individuales
+674;3;1 cama doble grande
+674;4;3 camas individuales
+675;1;2 camas individuales, 1 cama doble
+675;2;1 cama individual
+675;3;1 cama individual, 1 cama doble
+675;4;2 camas individuales, 1 cama doble
+675;5;1 cama individual
+676;1;1 cama individual
+676;2;1 cama doble
+676;3;3 camas individuales
+676;4;1 cama doble, 2 camas individuales
+676;5;2 camas individuales, 1 cama doble
+676;6;2 camas individuales
+676;7;1 cama individual, 1 cama doble grande
+677;1;2 camas individuales, 1 cama doble
+677;2;4 camas individuales
+677;3;2 camas individuales, 1 cama doble grande
+677;4;3 camas individuales
+677;5;2 camas individuales
+677;6;1 cama doble
+677;7;2 camas individuales
+678;1;1 cama doble
+678;2;1 cama individual
+678;3;2 camas individuales
+678;4;1 cama doble
+678;5;1 cama doble, 1 cama doble grande
+678;6;2 camas dobles, 4 camas individuales
+678;7;2 camas dobles, 4 camas individuales
+679;1;1 cama doble, 2 camas individuales
+679;2;1 cama doble, 2 camas individuales
+679;3;1 cama doble, 2 camas individuales
+679;4;1 cama individual, 1 cama doble, 3 camas individuales
+679;5;2 camas individuales, 1 cama doble, 4 camas individuales
+679;6;1 cama individual, 1 cama doble
+679;7;1 cama doble
+679;8;1 cama doble, 2 camas individuales
+679;9;1 cama doble, 2 camas individuales
+680;1;1 cama doble grande
+680;2;2 camas individuales
+681;1;2 camas individuales, 1 cama doble
+681;2;3 camas individuales
+681;3;1 cama doble grande
+681;4;1 cama doble grande
+681;5;2 camas individuales, 1 cama doble
+681;6;2 camas individuales, 1 cama doble
+682;1;2 camas individuales, 1 cama doble
+682;2;2 camas individuales
+682;3;3 camas individuales, 1 cama individual, 1 cama doble
+682;4;2 camas individuales, 1 cama doble
+682;5;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+682;6;1 cama doble, 2 camas individuales
+682;7;3 camas individuales, 1 cama individual, 1 cama doble
+683;1;2 camas individuales, 1 cama doble
+683;2;2 camas individuales, 1 cama doble
+683;3;1 cama doble
+684;1;1 cama individual
+684;2;2 camas individuales, 1 cama doble
+684;3;2 camas individuales, 1 cama doble
+684;4;3 camas individuales
+684;5;1 cama doble grande
+685;1;1 cama individual, 2 camas individuales
+685;2;3 camas individuales
+685;3;2 camas individuales, 1 cama doble
+685;4;4 camas individuales
+685;5;1 cama individual
+685;6;2 camas individuales, 1 cama doble
+686;1;4 camas individuales
+686;2;2 camas individuales, 1 cama doble
+686;3;1 cama individual
+686;4;3 camas individuales
+687;1;1 cama individual
+687;2;2 camas individuales
+687;3;2 camas individuales
+687;4;1 cama individual
+687;5;3 camas individuales
+687;6;1 cama individual
+687;7;1 cama individual
+688;1;1 cama individual
+688;2;1 cama doble, 2 camas individuales
+689;1;1 cama doble
+689;2;1 cama doble
+689;3;1 cama doble
+689;4;1 cama doble
+689;5;1 cama doble
+689;6;1 cama doble
+689;7;1 cama doble
+689;8;1 cama doble
+689;9;1 cama doble
+689;10;1 cama doble
+689;11;1 cama doble
+689;12;1 cama doble
+689;13;1 cama doble
+689;14;1 cama doble
+689;15;1 cama doble
+690;1;1 cama doble
+690;2;1 cama individual
+690;3;1 cama doble
+690;4;1 cama individual, 1 cama doble
+690;5;3 camas individuales
+690;6;2 camas individuales
+690;7;1 cama individual
+691;1;2 camas individuales
+691;2;1 cama doble grande
+692;1;2 camas individuales, 1 cama doble
+692;2;3 camas individuales
+692;3;1 cama doble
+692;4;2 camas individuales
+692;5;1 cama individual
+693;1;1 cama individual
+693;2;1 cama doble
+693;3;2 camas individuales
+693;4;1 cama individual, 1 cama doble
+694;1;1 cama doble
+694;2;2 camas individuales
+694;3;3 camas individuales
+694;4;1 cama individual
+694;5;1 cama individual
+694;6;2 camas individuales, 1 cama doble
+694;7;1 cama individual
+695;1;1 cama individual
+695;2;2 camas individuales
+695;3;3 camas individuales
+696;1;1 cama doble, 2 camas individuales
+696;2;1 cama doble, 2 camas individuales
+696;3;2 camas individuales
+696;4;1 cama individual, 1 cama doble
+696;5;3 camas individuales
+697;1;2 camas individuales
+697;2;2 camas individuales
+697;3;3 camas individuales
+698;1;2 camas individuales
+698;2;3 camas individuales
+698;3;1 cama doble
+698;4;1 cama individual
+698;5;2 camas individuales
+698;6;1 cama doble
+698;7;1 cama individual
+699;1;1 cama individual
+699;2;1 cama doble
+699;3;2 camas individuales
+700;1;1 cama doble
+701;1;1 cama doble
+701;2;2 camas individuales
+701;3;1 cama doble
+702;1;2 camas individuales
+702;2;3 camas individuales
+702;3;1 cama individual
+702;4;1 cama doble
+702;5;4 camas individuales
+703;1;2 camas individuales, 1 cama doble
+704;1;1 cama individual
+704;2;2 camas individuales
+704;3;1 cama individual
+704;4;2 camas individuales
+705;1;2 camas individuales, 1 cama doble
+705;2;1 cama individual
+705;3;3 camas individuales, 1 cama doble
+705;4;2 camas individuales
+706;1;1 cama individual, 1 cama doble, 3 camas individuales, 2 camas individuales, 1 cama doble, 1 cama doble, 1 sofá cama
+707;1;1 cama individual
+707;2;2 camas individuales
+707;3;1 cama doble grande
+708;1;2 camas individuales
+708;2;1 cama individual
+709;1;1 cama individual
+709;2;2 camas individuales
+709;3;3 camas individuales
+709;4;1 cama doble
+710;1;1 litera
+710;2;1 litera
+710;3;1 litera
+710;4;1 litera
+710;5;1 cama doble
+710;6;1 cama doble
+710;7;1 litera
+710;8;1 litera
+711;1;1 litera
+711;2;1 litera
+712;1;1 cama individual
+712;2;1 cama individual
+712;3;1 cama doble
+712;4;2 camas individuales
+712;5;1 cama individual
+712;6;2 camas individuales
+712;7;2 camas individuales
+713;1;1 cama doble, 1 litera
+713;2;2 literas
+713;3;1 litera
+713;4;1 litera
+713;5;1 litera
+713;6;1 litera
+713;7;1 litera
+713;8;1 cama doble, 1 litera
+714;1;2 camas individuales
+714;2;2 camas individuales, 1 cama doble
+714;3;2 camas individuales
+714;4;2 camas individuales
+714;5;1 cama doble
+715;1;2 camas individuales
+715;2;1 cama individual
+715;3;2 camas individuales
+715;4;3 camas individuales
+715;5;3 camas individuales
+715;6;2 camas individuales
+716;1;2 camas individuales
+716;2;3 camas individuales
+717;1;2 camas individuales, 1 cama doble
+717;2;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+717;3;1 cama doble, 1 sofá cama
+717;4;2 camas individuales, 1 cama doble
+717;5;2 camas individuales, 1 cama doble
+717;6;2 camas individuales, 1 cama doble
+717;7;2 camas individuales, 1 cama doble
+717;8;1 cama doble, 1 sofá cama
+717;9;1 cama doble, 1 sofá cama
+717;10;1 cama doble, 1 sofá cama
+717;11;1 cama doble, 1 sofá cama
+717;12;1 cama doble, 1 sofá cama
+717;13;1 cama doble, 1 sofá cama
+717;14;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+717;15;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+717;16;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+717;17;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+717;18;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+717;19;2 camas individuales, 1 sofá cama
+717;20;2 camas individuales, 1 sofá cama
+717;21;2 camas individuales, 1 sofá cama
+717;22;2 camas individuales, 1 sofá cama
+717;23;2 camas individuales, 1 sofá cama
+717;24;2 camas individuales, 1 sofá cama
+717;25;1 cama doble
+717;26;1 cama doble
+717;27;1 cama doble
+717;28;1 cama doble
+717;29;1 cama doble
+717;30;1 cama doble
+717;31;2 camas individuales, 1 cama doble
+717;32;2 camas individuales, 1 cama doble
+717;33;2 camas individuales, 1 cama doble
+717;34;1 cama doble
+717;35;1 cama doble
+717;36;1 cama doble
+717;37;2 camas individuales, 1 cama doble
+717;38;2 camas individuales, 1 cama doble
+717;39;1 cama doble, 1 sofá cama
+717;40;1 cama doble, 1 sofá cama
+717;41;1 cama doble, 1 sofá cama
+717;42;1 cama doble, 1 sofá cama
+717;43;1 cama doble, 1 sofá cama
+717;44;1 cama doble, 1 sofá cama
+717;45;1 cama doble, 1 sofá cama
+717;46;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+717;47;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+717;48;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+717;49;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+717;50;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+717;51;2 camas individuales, 1 sofá cama, 1 cama doble, 1 sofá cama
+717;52;2 camas individuales, 1 sofá cama
+717;53;2 camas individuales, 1 sofá cama
+717;54;2 camas individuales, 1 sofá cama
+717;55;2 camas individuales, 1 sofá cama
+717;56;2 camas individuales, 1 sofá cama
+717;57;2 camas individuales, 1 sofá cama
+717;58;1 cama doble grande
+717;59;1 cama doble grande
+717;60;1 cama doble grande
+717;61;2 camas dobles grandes
+717;62;2 camas dobles grandes
+717;63;2 camas dobles grandes
+717;64;1 cama doble grande
+717;65;1 cama doble grande
+717;66;1 cama doble grande
+717;67;1 cama doble grande
+717;68;1 cama doble grande
+717;69;1 cama doble grande
+717;70;1 cama doble grande
+717;71;1 cama doble grande
+717;72;1 cama doble grande
+717;73;1 cama doble grande
+717;74;2 camas dobles grandes
+717;75;2 camas dobles grandes
+717;76;1 cama doble grande
+717;77;1 cama doble grande
+717;78;1 cama doble
+717;79;1 cama doble
+717;80;1 cama doble
+717;81;1 cama doble grande
+717;82;1 cama doble grande
+717;83;2 camas dobles grandes
+717;84;1 cama doble grande
+717;85;1 cama doble grande
+717;86;1 cama doble grande
+717;87;1 cama doble grande
+717;88;1 cama doble grande
+717;89;2 camas dobles grandes
+717;90;2 camas dobles grandes
+718;1;1 cama doble grande
+718;2;1 cama doble, 1 sofá cama
+718;3;2 camas individuales, 1 sofá cama
+719;1;1 cama doble
+719;2;1 cama individual
+719;3;2 camas dobles
+719;4;2 camas individuales, 1 cama doble
+719;5;2 camas dobles
+719;6;2 camas dobles
+719;7;2 camas dobles
+719;8;2 camas dobles
+720;1;2 camas individuales
+720;2;1 cama individual, 1 cama doble
+720;3;1 cama doble
+721;1;2 camas individuales
+721;2;3 camas individuales
+721;3;3 camas individuales
+721;4;2 camas individuales
+721;5;2 camas individuales
+722;1;2 camas individuales
+722;2;1 cama doble, 2 camas individuales
+722;3;2 camas individuales, 1 cama doble
+722;4;4 camas individuales
+722;5;4 camas individuales
+722;6;3 camas individuales, 2 camas individuales, 1 cama doble
+722;7;1 cama individual
+723;1;2 camas individuales
+723;2;2 camas individuales
+723;3;3 camas individuales
+723;4;1 cama doble
+723;5;1 cama individual
+723;6;2 camas individuales
+724;1;2 camas individuales, 1 cama doble
+724;2;2 camas individuales, 1 cama doble
+724;3;1 cama doble
+724;4;1 cama doble grande, 2 camas individuales
+724;5;1 cama doble
+724;6;1 cama doble grande, 2 camas individuales
+724;7;1 cama doble, 2 camas individuales
+724;8;4 camas individuales
+724;9;2 camas individuales, 1 cama doble
+724;10;3 camas individuales, 1 cama individual, 1 sofá cama
+725;1;2 camas individuales, 1 cama doble grande
+725;2;2 camas individuales, 1 cama doble grande
+725;3;3 camas individuales, 1 cama individual, 1 cama doble grande
+725;4;2 camas individuales, 1 cama doble
+725;5;2 camas individuales, 1 cama doble
+725;6;2 camas individuales, 1 cama doble
+725;7;2 camas individuales, 1 cama doble
+725;8;2 camas individuales, 1 cama doble
+725;9;3 camas individuales, 1 cama individual, 1 cama doble
+725;10;2 camas individuales, 1 cama doble
+725;11;2 camas individuales, 1 cama doble
+725;12;2 camas individuales, 1 cama doble
+725;13;2 camas individuales, 1 cama doble
+725;14;3 camas individuales, 1 cama individual, 1 cama doble
+726;1;1 cama individual
+726;2;2 camas individuales, 1 cama doble
+726;3;2 camas individuales, 1 cama doble
+726;4;2 camas individuales, 1 sofá cama
+726;5;2 camas individuales, 1 sofá cama
+726;6;1 cama doble
+727;1;1 cama doble
+727;2;1 cama doble
+727;3;1 cama doble grande
+727;4;1 cama doble extragrande
+727;5;1 cama doble extragrande
+728;1;3 camas individuales
+728;2;3 camas individuales
+728;3;3 camas individuales
+728;4;2 camas individuales, 1 sofá cama
+728;5;2 camas individuales, 1 sofá cama
+728;6;3 camas individuales
+728;7;2 camas individuales
+728;8;2 camas individuales, 2 literas
+728;9;1 cama individual, 2 camas individuales
+728;10;2 camas individuales, 1 sofá cama
+728;11;1 cama individual
+728;12;3 camas individuales, 1 cama individual, 1 cama doble
+728;13;1 cama individual, 2 camas individuales
+729;1;2 camas individuales, 1 cama doble, 1 cama doble grande
+729;2;2 camas individuales, 1 cama doble grande
+729;3;1 cama doble, 2 camas dobles grandes
+729;4;3 camas individuales
+729;5;2 camas individuales, 1 cama doble grande
+729;6;1 cama doble
+729;7;1 cama doble, 1 cama doble grande
+729;8;3 camas individuales
+729;9;2 camas individuales, 1 cama doble grande
+730;1;2 camas individuales
+730;2;2 camas individuales
+730;3;1 cama individual, 1 cama doble grande
+730;4;3 camas individuales
+730;5;1 cama individual
+730;6;4 camas individuales
+730;7;1 cama doble grande, 2 camas individuales, 2 camas individuales
+730;8;2 camas individuales
+730;9;1 cama doble grande
+730;10;1 cama doble
+730;11;2 camas individuales
+731;1;4 camas individuales
+731;2;4 camas individuales
+731;3;2 camas individuales
+731;4;3 camas individuales
+731;5;3 camas individuales
+731;6;2 camas individuales
+731;7;3 camas individuales
+731;8;3 camas individuales
+731;9;4 camas individuales
+731;10;4 camas individuales
+731;11;1 cama individual
+731;12;1 cama individual
+731;13;3 camas individuales
+731;14;3 camas individuales
+731;15;2 camas individuales
+731;16;2 camas individuales
+732;1;2 camas individuales
+732;2;2 camas individuales
+732;3;3 camas individuales
+732;4;2 camas individuales
+732;5;2 camas individuales, 1 sofá cama
+732;6;2 camas individuales
+732;7;2 camas individuales, 2 sofás cama
+732;8;2 camas individuales, 2 sofás cama
+732;9;2 camas individuales
+732;10;1 cama individual
+733;1;2 camas individuales, 1 cama doble
+733;2;2 camas individuales, 1 cama doble
+733;3;3 camas individuales
+733;4;3 camas individuales
+733;5;2 camas individuales
+734;1;2 camas individuales
+734;2;2 camas individuales
+734;3;2 camas individuales, 2 sofás cama, 2 camas dobles
+734;4;2 camas individuales
+735;1;1 cama individual
+735;2;2 camas individuales
+735;3;2 camas individuales, 1 sofá cama
+735;4;2 camas individuales
+736;1;2 camas individuales, 1 cama doble
+736;2;2 camas individuales, 1 cama doble
+736;3;2 camas individuales, 1 cama doble
+736;4;2 camas individuales, 1 cama doble
+736;5;2 camas individuales
+736;6;2 camas individuales
+736;7;1 cama doble
+736;8;1 cama doble
+737;1;1 cama doble, 2 camas individuales
+737;2;1 cama doble
+738;1;2 camas individuales
+738;2;1 cama doble
+739;1;2 camas individuales
+739;2;3 camas individuales
+739;3;1 cama doble
+739;4;2 camas individuales
+740;1;2 camas individuales
+740;2;3 camas individuales
+740;3;4 camas individuales, 2 camas individuales, 1 cama doble
+740;4;1 cama individual
+740;5;1 cama individual, 1 cama doble
+740;6;1 cama doble
+741;1;2 camas individuales, 1 cama doble grande
+741;2;3 camas individuales, 1 cama individual, 1 cama doble grande
+741;3;2 camas individuales, 1 sofá cama
+741;4;1 cama individual
+742;1;1 cama individual
+742;2;2 camas individuales, 1 cama doble
+743;1;1 cama doble grande
+743;2;1 cama doble
+743;3;1 cama individual
+743;4;2 camas individuales
+743;5;1 cama doble grande, 1 cama doble, 2 camas individuales, 1 cama individual, 1 sofá cama
+743;6;1 cama individual
+743;7;1 cama doble
+744;1;1 cama doble
+744;2;1 cama doble, 1 cama doble grande
+744;3;1 cama doble, 1 cama doble grande
+745;1;4 camas individuales, 2 camas individuales, 1 cama doble
+745;2;2 camas individuales
+745;3;1 cama doble
+745;4;1 cama doble
+745;5;1 cama doble
+745;6;1 cama doble
+746;1;1 cama doble
+746;2;1 cama doble grande
+746;3;1 cama individual, 1 cama doble grande
+746;4;1 cama doble grande
+746;5;1 cama doble
+747;1;1 cama doble extragrande
+747;2;1 cama individual, 1 cama doble grande
+747;3;2 camas individuales, 1 cama doble extragrande
+747;4;2 camas individuales
+747;5;3 camas individuales
+747;6;1 cama doble, 2 camas individuales
+747;7;1 cama doble
+747;8;1 cama doble
+748;1;2 camas individuales, 1 cama doble
+749;1;2 camas individuales, 1 cama doble
+749;2;3 camas individuales
+750;1;1 cama doble grande
+750;2;1 cama doble grande
+750;3;1 cama doble grande
+750;4;1 cama doble
+750;5;1 cama doble grande
+751;1;1 cama doble grande
+751;2;1 cama doble extragrande
+751;3;1 cama doble grande
+751;4;1 cama doble grande
+751;5;1 cama doble grande
+751;6;1 cama doble grande
+751;7;1 cama doble grande
+752;1;1 cama doble grande
+752;2;1 cama doble
+752;3;1 cama doble
+752;4;1 cama doble grande
+752;5;1 cama doble
+752;6;1 cama doble grande
+752;7;1 cama doble grande
+753;1;2 camas individuales, 1 cama doble extragrande
+753;2;2 camas individuales, 1 cama doble extragrande
+753;3;2 camas individuales, 1 cama doble extragrande
+753;4;1 cama doble extragrande, 2 camas individuales
+753;5;1 cama doble extragrande, 2 camas individuales
+753;6;1 cama doble extragrande, 2 camas individuales
+753;7;1 cama doble extragrande, 2 camas individuales
+754;1;1 cama doble
+755;1;2 camas individuales
+755;2;5 camas individuales
+755;3;3 camas individuales
+755;4;4 camas individuales
+756;1;2 camas individuales, 1 sofá cama
+756;2;1 sofá cama, 1 cama doble grande
+756;3;2 camas individuales, 1 sofá cama
+756;4;2 camas individuales, 1 sofá cama
+757;1;2 camas individuales, 1 futón
+757;2;1 cama doble
+757;3;1 cama doble, 1 sofá cama
+757;4;3 camas individuales, 1 cama individual, 1 cama doble
+757;5;2 camas individuales, 1 sofá cama
+757;6;2 camas individuales, 1 futón
+758;1;1 cama individual
+758;2;1 cama doble grande
+758;3;1 cama doble grande
+758;4;1 cama doble grande
+758;5;1 cama doble, 2 camas individuales, 1 cama doble, 1 sofá cama
+758;6;1 cama doble grande
+758;7;1 cama doble grande
+758;8;1 cama doble grande
+758;9;1 cama doble grande
+759;1;1 cama doble
+759;2;1 cama doble
+759;3;1 cama doble
+759;4;1 cama doble
+760;1;2 camas individuales, 1 cama doble, 1 sofá cama
+760;2;1 cama doble
+760;3;2 camas individuales
+760;4;3 camas individuales, 1 cama individual, 1 cama doble
+761;1;1 cama doble
+761;2;1 cama doble grande
+761;3;2 camas dobles extragrandes
+761;4;2 camas dobles extragrandes
+761;5;1 cama doble
+761;6;1 cama doble extragrande, 1 sofá cama
+761;7;1 cama doble extragrande, 1 sofá cama
+762;1;1 cama individual
+762;2;1 cama individual
+763;1;1 litera
+763;2;1 cama doble
+764;1;1 cama individual
+764;2;1 cama doble
+764;3;1 cama doble
+764;4;2 camas individuales
+765;1;1 cama doble, 1 cama doble grande
+766;1;2 camas individuales
+766;2;1 cama doble
+767;1;1 litera
+767;2;1 litera
+767;3;1 cama doble grande
+767;4;1 litera
+767;5;1 cama doble
+767;6;2 literas
+767;7;1 litera
+767;8;1 litera
+767;9;1 litera
+767;10;1 cama individual, 1 litera
+767;11;1 litera

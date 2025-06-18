@@ -1,0 +1,5312 @@
+hotel_id;categoria;nota
+1;Personal;9,2
+1;Instalaciones y servicios;9,1
+1;Limpieza;9,5
+1;Confort;9,5
+1;Relación calidad-precio;8,7
+1;Ubicación;9,8
+1;WiFi gratis;9,0
+2;Personal;9,4
+2;Instalaciones y servicios;9,1
+2;Limpieza;9,3
+2;Confort;9,6
+2;Relación calidad-precio;8,5
+2;Ubicación;9,6
+2;WiFi gratis;9,2
+3;Personal;8,8
+3;Instalaciones y servicios;8,1
+3;Limpieza;8,7
+3;Confort;8,6
+3;Relación calidad-precio;7,8
+3;Ubicación;9,5
+3;WiFi gratis;8,6
+4;Personal;9,5
+4;Instalaciones y servicios;8,3
+4;Limpieza;9,0
+4;Confort;8,8
+4;Relación calidad-precio;8,3
+4;Ubicación;9,7
+4;WiFi gratis;8,5
+5;Personal;8,8
+5;Instalaciones y servicios;8,2
+5;Limpieza;8,7
+5;Confort;8,6
+5;Relación calidad-precio;8,0
+5;Ubicación;9,4
+5;WiFi gratis;8,3
+6;Personal;9,0
+6;Instalaciones y servicios;8,4
+6;Limpieza;8,8
+6;Confort;8,9
+6;Relación calidad-precio;8,0
+6;Ubicación;9,6
+6;WiFi gratis;8,5
+7;Personal;9,1
+7;Instalaciones y servicios;8,5
+7;Limpieza;8,9
+7;Confort;9,0
+7;Relación calidad-precio;7,9
+7;Ubicación;9,6
+7;WiFi gratis;8,7
+8;Personal;9,0
+8;Instalaciones y servicios;8,8
+8;Limpieza;9,0
+8;Confort;8,9
+8;Relación calidad-precio;7,9
+8;Ubicación;9,1
+8;WiFi gratis;8,1
+9;Personal;9,2
+9;Instalaciones y servicios;8,8
+9;Limpieza;9,1
+9;Confort;9,1
+9;Relación calidad-precio;8,3
+9;Ubicación;9,7
+9;WiFi gratis;8,5
+10;Personal;9,0
+10;Instalaciones y servicios;8,9
+10;Limpieza;9,2
+10;Confort;9,3
+10;Relación calidad-precio;8,4
+10;Ubicación;9,7
+11;Personal;9,2
+11;Instalaciones y servicios;8,7
+11;Limpieza;9,1
+11;Confort;9,1
+11;Relación calidad-precio;8,2
+11;Ubicación;9,7
+11;WiFi gratis;8,7
+12;Personal;9,1
+12;Instalaciones y servicios;8,7
+12;Limpieza;9,0
+12;Confort;9,0
+12;Relación calidad-precio;7,9
+12;Ubicación;9,4
+12;WiFi gratis;8,1
+13;Personal;9,1
+13;Instalaciones y servicios;8,8
+13;Limpieza;9,1
+13;Confort;9,1
+13;Relación calidad-precio;8,3
+13;Ubicación;9,7
+13;WiFi gratis;8,6
+14;Personal;9,5
+14;Instalaciones y servicios;8,7
+14;Limpieza;9,2
+14;Confort;9,2
+14;Relación calidad-precio;8,4
+14;Ubicación;9,7
+14;WiFi gratis;9,2
+15;Personal;9,0
+15;Instalaciones y servicios;8,4
+15;Limpieza;8,8
+15;Confort;8,7
+15;Relación calidad-precio;7,9
+15;Ubicación;9,2
+15;WiFi gratis;8,5
+16;Personal;8,9
+16;Instalaciones y servicios;8,7
+16;Limpieza;8,8
+16;Confort;8,8
+16;Relación calidad-precio;8,2
+16;Ubicación;9,8
+16;WiFi gratis;8,9
+17;Personal;9,2
+17;Instalaciones y servicios;8,7
+17;Limpieza;9,0
+17;Confort;9,0
+17;Relación calidad-precio;8,1
+17;Ubicación;9,4
+17;WiFi gratis;9,0
+18;Personal;9,5
+18;Instalaciones y servicios;8,9
+18;Limpieza;9,2
+18;Confort;9,3
+18;Relación calidad-precio;8,4
+18;Ubicación;9,6
+18;WiFi gratis;9,0
+19;Personal;8,3
+19;Instalaciones y servicios;7,3
+19;Limpieza;7,7
+19;Confort;7,7
+19;Relación calidad-precio;7,2
+19;Ubicación;8,8
+19;WiFi gratis;7,8
+20;Personal;9,1
+20;Instalaciones y servicios;8,7
+20;Limpieza;8,9
+20;Confort;9,0
+20;Relación calidad-precio;8,2
+20;Ubicación;9,7
+20;WiFi gratis;8,6
+21;Personal;8,5
+21;Instalaciones y servicios;7,9
+21;Limpieza;8,2
+21;Confort;8,2
+21;Relación calidad-precio;7,9
+21;Ubicación;9,1
+21;WiFi gratis;7,9
+22;Personal;8,7
+22;Instalaciones y servicios;8,0
+22;Limpieza;8,5
+22;Confort;8,5
+22;Relación calidad-precio;8,1
+22;Ubicación;9,7
+22;WiFi gratis;8,4
+23;Personal;8,8
+23;Instalaciones y servicios;8,2
+23;Limpieza;8,7
+23;Confort;8,6
+23;Relación calidad-precio;7,9
+23;Ubicación;9,0
+23;WiFi gratis;8,0
+24;Personal;7,9
+24;Instalaciones y servicios;8,5
+24;Limpieza;8,8
+24;Confort;8,7
+24;Relación calidad-precio;8,1
+24;Ubicación;8,6
+24;WiFi gratis;8,4
+25;Personal;9,1
+25;Instalaciones y servicios;8,0
+25;Limpieza;8,4
+25;Confort;8,5
+25;Relación calidad-precio;7,7
+25;Ubicación;9,7
+25;WiFi gratis;8,8
+26;Personal;9,3
+26;Instalaciones y servicios;8,8
+26;Limpieza;9,3
+26;Confort;9,2
+26;Relación calidad-precio;9,2
+26;Ubicación;9,9
+26;WiFi gratis;9,1
+27;Personal;8,6
+27;Instalaciones y servicios;7,7
+27;Limpieza;8,3
+27;Confort;8,0
+27;Relación calidad-precio;7,6
+27;Ubicación;8,1
+27;WiFi gratis;8,2
+28;Personal;8,8
+28;Instalaciones y servicios;8,8
+28;Limpieza;9,2
+28;Confort;9,2
+28;Relación calidad-precio;8,9
+28;Ubicación;8,3
+28;WiFi gratis;8,2
+29;Personal;9,1
+29;Instalaciones y servicios;7,8
+29;Limpieza;8,3
+29;Confort;8,1
+29;Relación calidad-precio;8,0
+29;Ubicación;9,5
+29;WiFi gratis;8,8
+30;Personal;8,1
+30;Instalaciones y servicios;8,3
+30;Limpieza;8,9
+30;Confort;8,7
+30;Relación calidad-precio;8,0
+30;Ubicación;8,8
+30;WiFi gratis;8,5
+31;Personal;9,2
+31;Instalaciones y servicios;8,0
+31;Limpieza;8,2
+31;Confort;8,0
+31;Relación calidad-precio;7,8
+31;Ubicación;9,2
+31;WiFi gratis;7,1
+32;Personal;8,5
+32;Instalaciones y servicios;7,6
+32;Limpieza;8,3
+32;Confort;8,1
+32;Relación calidad-precio;8,0
+32;Ubicación;9,5
+32;WiFi gratis;8,3
+33;Personal;8,9
+33;Instalaciones y servicios;7,8
+33;Limpieza;8,4
+33;Confort;8,0
+33;Relación calidad-precio;7,9
+33;Ubicación;9,3
+33;WiFi gratis;8,7
+34;Personal;8,6
+34;Instalaciones y servicios;7,3
+34;Limpieza;7,7
+34;Confort;7,3
+34;Relación calidad-precio;7,8
+34;Ubicación;8,9
+34;WiFi gratis;6,6
+35;Personal;8,4
+35;Instalaciones y servicios;8,7
+35;Limpieza;8,7
+35;Confort;8,8
+35;Relación calidad-precio;8,0
+35;Ubicación;8,7
+35;WiFi gratis;9,3
+36;Personal;8,7
+36;Instalaciones y servicios;7,7
+36;Limpieza;8,2
+36;Confort;7,9
+36;Relación calidad-precio;8,0
+36;Ubicación;8,0
+36;WiFi gratis;8,4
+37;Personal;8,5
+37;Instalaciones y servicios;7,7
+37;Limpieza;8,1
+37;Confort;7,9
+37;Relación calidad-precio;8,1
+37;Ubicación;8,4
+37;WiFi gratis;8,4
+38;Personal;9,2
+38;Instalaciones y servicios;8,2
+38;Limpieza;9,1
+38;Confort;8,6
+38;Relación calidad-precio;8,9
+38;Ubicación;9,7
+38;WiFi gratis;8,6
+39;Personal;9,4
+39;Instalaciones y servicios;8,7
+39;Limpieza;8,9
+39;Confort;8,9
+39;Relación calidad-precio;8,5
+39;Ubicación;9,7
+39;WiFi gratis;8,9
+40;Personal;9,2
+40;Instalaciones y servicios;8,2
+40;Limpieza;8,8
+40;Confort;8,6
+40;Relación calidad-precio;8,2
+40;Ubicación;9,6
+40;WiFi gratis;8,5
+41;Personal;8,9
+41;Instalaciones y servicios;8,4
+41;Limpieza;8,9
+41;Confort;8,7
+41;Relación calidad-precio;8,6
+41;Ubicación;9,4
+41;WiFi gratis;8,5
+42;Personal;8,5
+42;Instalaciones y servicios;8,1
+42;Limpieza;8,5
+42;Confort;8,5
+42;Relación calidad-precio;8,2
+42;Ubicación;9,6
+42;WiFi gratis;8,5
+43;Personal;8,3
+43;Instalaciones y servicios;7,5
+43;Limpieza;8,3
+43;Confort;7,9
+43;Relación calidad-precio;8,2
+43;Ubicación;9,3
+43;WiFi gratis;8,4
+44;Personal;8,7
+44;Instalaciones y servicios;8,5
+44;Limpieza;9,0
+44;Confort;8,8
+44;Relación calidad-precio;8,7
+44;Ubicación;9,8
+44;WiFi gratis;8,9
+45;Personal;8,0
+45;Instalaciones y servicios;7,9
+45;Limpieza;8,6
+45;Confort;8,3
+45;Relación calidad-precio;8,0
+45;Ubicación;8,9
+45;WiFi gratis;8,4
+46;Personal;7,3
+46;Instalaciones y servicios;7,2
+46;Limpieza;8,0
+46;Confort;7,7
+46;Relación calidad-precio;7,2
+46;Ubicación;9,1
+46;WiFi gratis;8,4
+47;Personal;8,8
+47;Instalaciones y servicios;8,1
+47;Limpieza;9,0
+47;Confort;8,7
+47;Relación calidad-precio;8,1
+47;Ubicación;9,2
+47;WiFi gratis;9,4
+48;Personal;9,4
+48;Instalaciones y servicios;9,1
+48;Limpieza;9,8
+48;Confort;9,3
+48;Relación calidad-precio;8,9
+48;Ubicación;10
+48;WiFi gratis;10
+49;Personal;9,5
+49;Instalaciones y servicios;8,5
+49;Limpieza;9,4
+49;Confort;8,7
+49;Relación calidad-precio;8,2
+49;Ubicación;9,5
+49;WiFi gratis;8,7
+50;Personal;7,8
+50;Instalaciones y servicios;7,9
+50;Limpieza;8,3
+50;Confort;8,2
+50;Relación calidad-precio;7,9
+50;Ubicación;9,4
+50;WiFi gratis;8,1
+51;Personal;7,8
+51;Instalaciones y servicios;7,5
+51;Limpieza;8,2
+51;Confort;8,2
+51;Relación calidad-precio;7,9
+51;Ubicación;9,7
+51;WiFi gratis;8,2
+52;Personal;7,9
+52;Instalaciones y servicios;7,5
+52;Limpieza;8,0
+52;Confort;7,9
+52;Relación calidad-precio;7,9
+52;Ubicación;9,7
+52;WiFi gratis;7,6
+53;Personal;7,9
+53;Instalaciones y servicios;7,1
+53;Limpieza;7,8
+53;Confort;7,7
+53;Relación calidad-precio;7,5
+53;Ubicación;9,6
+53;WiFi gratis;7,7
+54;Personal;9,5
+54;Instalaciones y servicios;8,4
+54;Limpieza;8,6
+54;Confort;8,8
+54;Relación calidad-precio;8,4
+54;Ubicación;9,8
+54;WiFi gratis;9,5
+55;Personal;8,9
+55;Instalaciones y servicios;9,0
+55;Limpieza;9,0
+55;Confort;8,8
+55;Relación calidad-precio;8,5
+55;Ubicación;9,1
+55;WiFi gratis;8,0
+56;Personal;8,0
+56;Instalaciones y servicios;7,9
+56;Limpieza;8,4
+56;Confort;8,3
+56;Relación calidad-precio;8,1
+56;Ubicación;9,7
+57;Personal;8,3
+57;Instalaciones y servicios;7,6
+57;Limpieza;8,1
+57;Confort;8,0
+57;Relación calidad-precio;7,5
+57;Ubicación;9,1
+57;WiFi gratis;8,1
+58;Personal;9,6
+58;Instalaciones y servicios;9,0
+58;Limpieza;9,1
+58;Confort;9,0
+58;Relación calidad-precio;9,0
+58;Ubicación;9,6
+58;WiFi gratis;8,8
+59;Personal;7,8
+59;Instalaciones y servicios;7,5
+59;Limpieza;8,1
+59;Confort;8,0
+59;Relación calidad-precio;7,7
+59;Ubicación;9,7
+59;WiFi gratis;7,6
+60;Personal;8,9
+60;Instalaciones y servicios;8,9
+60;Limpieza;9,0
+60;Confort;8,8
+60;Relación calidad-precio;8,9
+60;Ubicación;8,9
+60;WiFi gratis;8,7
+61;Personal;9,4
+61;Instalaciones y servicios;8,7
+61;Limpieza;9,1
+61;Confort;8,8
+61;Relación calidad-precio;8,9
+61;Ubicación;9,2
+61;WiFi gratis;8,9
+62;Personal;7,8
+62;Instalaciones y servicios;8,1
+62;Limpieza;8,5
+62;Confort;8,5
+62;Relación calidad-precio;7,8
+62;Ubicación;8,6
+63;Personal;9,3
+63;Instalaciones y servicios;8,5
+63;Limpieza;8,5
+63;Confort;8,5
+63;Relación calidad-precio;8,8
+63;Ubicación;9,7
+63;WiFi gratis;8,9
+64;Personal;9,0
+64;Instalaciones y servicios;8,8
+64;Limpieza;9,1
+64;Confort;9,1
+64;Relación calidad-precio;8,7
+64;Ubicación;9,7
+64;WiFi gratis;8,5
+65;Personal;8,5
+65;Instalaciones y servicios;8,3
+65;Limpieza;8,5
+65;Confort;8,4
+65;Relación calidad-precio;8,5
+65;Ubicación;8,6
+65;WiFi gratis;8,8
+66;Personal;9,8
+66;Instalaciones y servicios;8,4
+66;Limpieza;9,0
+66;Confort;8,8
+66;Relación calidad-precio;8,6
+66;Ubicación;9,5
+66;WiFi gratis;8,7
+67;Personal;8,8
+67;Instalaciones y servicios;8,5
+67;Limpieza;8,5
+67;Confort;8,4
+67;Relación calidad-precio;8,6
+67;Ubicación;9,1
+67;WiFi gratis;8,5
+68;Personal;7,9
+68;Instalaciones y servicios;7,2
+68;Limpieza;7,5
+68;Confort;7,4
+68;Relación calidad-precio;7,5
+68;Ubicación;8,9
+68;WiFi gratis;7,5
+69;Personal;9,1
+69;Instalaciones y servicios;8,4
+69;Limpieza;8,6
+69;Confort;8,4
+69;Relación calidad-precio;8,6
+69;Ubicación;9,5
+69;WiFi gratis;8,6
+70;Personal;8,9
+70;Instalaciones y servicios;8,2
+70;Limpieza;8,4
+70;Confort;8,4
+70;Relación calidad-precio;8,1
+70;Ubicación;9,7
+70;WiFi gratis;8,4
+71;Personal;6,8
+71;Instalaciones y servicios;6,9
+71;Limpieza;7,2
+71;Confort;7,4
+71;Relación calidad-precio;7,0
+71;Ubicación;9,2
+71;WiFi gratis;9,1
+72;Personal;9,1
+72;Instalaciones y servicios;8,6
+72;Limpieza;8,8
+72;Confort;8,6
+72;Relación calidad-precio;8,7
+72;Ubicación;9,5
+72;WiFi gratis;8,4
+73;Personal;9,0
+73;Instalaciones y servicios;8,6
+73;Limpieza;8,8
+73;Confort;8,6
+73;Relación calidad-precio;8,3
+73;Ubicación;8,7
+73;WiFi gratis;8,8
+74;Personal;6,9
+74;Instalaciones y servicios;5,8
+74;Limpieza;6,6
+74;Confort;6,3
+74;Relación calidad-precio;6,2
+74;Ubicación;6,3
+74;WiFi gratis;7,7
+75;Personal;10
+75;Instalaciones y servicios;10
+75;Limpieza;10
+75;Confort;8,8
+75;Relación calidad-precio;10
+75;Ubicación;8,8
+77;Personal;8,8
+77;Instalaciones y servicios;8,1
+77;Limpieza;8,6
+77;Confort;8,5
+77;Relación calidad-precio;7,8
+77;Ubicación;9,4
+77;WiFi gratis;8,6
+78;Personal;9,0
+78;Instalaciones y servicios;8,6
+78;Limpieza;8,9
+78;Confort;8,9
+78;Relación calidad-precio;8,3
+78;Ubicación;8,1
+78;WiFi gratis;8,4
+79;Personal;9,4
+79;Instalaciones y servicios;9,1
+79;Limpieza;9,4
+79;Confort;9,5
+79;Relación calidad-precio;8,6
+79;Ubicación;9,7
+80;Personal;8,9
+80;Instalaciones y servicios;7,4
+80;Limpieza;8,4
+80;Confort;8,0
+80;Relación calidad-precio;8,1
+80;Ubicación;9,6
+80;WiFi gratis;8,4
+81;Personal;8,9
+81;Instalaciones y servicios;8,2
+81;Limpieza;8,7
+81;Confort;8,6
+81;Relación calidad-precio;8,4
+81;Ubicación;9,3
+81;WiFi gratis;8,5
+82;Personal;8,8
+82;Instalaciones y servicios;7,9
+82;Limpieza;8,5
+82;Confort;8,4
+82;Relación calidad-precio;7,8
+82;Ubicación;8,4
+82;WiFi gratis;8,2
+83;Personal;9,5
+83;Instalaciones y servicios;8,9
+83;Limpieza;9,0
+83;Confort;9,1
+83;Relación calidad-precio;8,8
+83;Ubicación;9,4
+83;WiFi gratis;9,2
+84;Personal;9,0
+84;Instalaciones y servicios;7,8
+84;Limpieza;8,3
+84;Confort;8,2
+84;Relación calidad-precio;8,0
+84;Ubicación;9,4
+84;WiFi gratis;7,8
+85;Personal;9,0
+85;Instalaciones y servicios;8,8
+85;Limpieza;9,1
+85;Confort;9,1
+85;Relación calidad-precio;8,5
+85;Ubicación;9,6
+85;WiFi gratis;8,2
+86;Personal;9,0
+86;Instalaciones y servicios;8,4
+86;Limpieza;8,9
+86;Confort;8,8
+86;Relación calidad-precio;8,6
+86;Ubicación;9,5
+86;WiFi gratis;9,0
+87;Personal;9,3
+87;Instalaciones y servicios;8,7
+87;Limpieza;9,1
+87;Confort;9,0
+87;Relación calidad-precio;8,5
+87;Ubicación;9,2
+87;WiFi gratis;8,1
+88;Personal;9,3
+88;Instalaciones y servicios;7,8
+88;Limpieza;8,6
+88;Confort;8,2
+88;Relación calidad-precio;8,2
+88;Ubicación;9,2
+88;WiFi gratis;7,8
+89;Personal;8,6
+89;Instalaciones y servicios;7,9
+89;Limpieza;8,4
+89;Confort;8,3
+89;Relación calidad-precio;8,1
+89;Ubicación;9,0
+89;WiFi gratis;8,1
+90;Personal;9,2
+90;Instalaciones y servicios;8,0
+90;Limpieza;8,4
+90;Confort;8,3
+90;Relación calidad-precio;8,2
+90;Ubicación;9,6
+90;WiFi gratis;7,9
+91;Personal;9,4
+91;Instalaciones y servicios;8,7
+91;Limpieza;9,1
+91;Confort;9,1
+91;Relación calidad-precio;8,8
+91;Ubicación;9,8
+91;WiFi gratis;8,8
+92;Personal;7,7
+92;Instalaciones y servicios;7,7
+92;Limpieza;8,5
+92;Confort;8,5
+92;Relación calidad-precio;8,1
+92;Ubicación;9,6
+92;WiFi gratis;8,4
+93;Personal;9,1
+93;Instalaciones y servicios;7,8
+93;Limpieza;8,2
+93;Confort;8,1
+93;Relación calidad-precio;8,2
+93;Ubicación;9,3
+93;WiFi gratis;8,0
+94;Personal;9,2
+94;Instalaciones y servicios;8,8
+94;Limpieza;9,1
+94;Confort;9,1
+94;Relación calidad-precio;8,4
+94;Ubicación;8,8
+94;WiFi gratis;8,9
+95;Personal;9,0
+95;Instalaciones y servicios;8,2
+95;Limpieza;8,7
+95;Confort;8,6
+95;Relación calidad-precio;7,9
+95;Ubicación;7,7
+95;WiFi gratis;8,3
+96;Personal;9,7
+96;Instalaciones y servicios;8,9
+96;Limpieza;9,3
+96;Confort;9,3
+96;Relación calidad-precio;8,8
+96;Ubicación;9,9
+96;WiFi gratis;8,4
+97;Personal;9,3
+97;Instalaciones y servicios;8,9
+97;Limpieza;9,0
+97;Confort;9,0
+97;Relación calidad-precio;8,8
+97;Ubicación;9,8
+97;WiFi gratis;8,7
+98;Personal;9,7
+98;Instalaciones y servicios;9,2
+98;Limpieza;9,5
+98;Confort;9,5
+98;Relación calidad-precio;8,9
+98;Ubicación;9,6
+98;WiFi gratis;8,8
+99;Personal;8,2
+99;Instalaciones y servicios;7,7
+99;Limpieza;8,0
+99;Confort;7,9
+99;Relación calidad-precio;7,7
+99;Ubicación;9,0
+99;WiFi gratis;8,5
+100;Personal;9,2
+100;Instalaciones y servicios;8,5
+100;Limpieza;9,0
+100;Confort;8,9
+100;Relación calidad-precio;8,6
+100;Ubicación;9,5
+100;WiFi gratis;9,3
+101;Personal;8,9
+101;Instalaciones y servicios;8,7
+101;Limpieza;9,1
+101;Confort;9,0
+101;Relación calidad-precio;8,9
+101;Ubicación;9,6
+101;WiFi gratis;9,1
+102;Personal;9,0
+102;Instalaciones y servicios;8,1
+102;Limpieza;8,5
+102;Confort;8,4
+102;Relación calidad-precio;8,3
+102;Ubicación;8,8
+102;WiFi gratis;8,9
+103;Personal;9,5
+103;Instalaciones y servicios;8,8
+103;Limpieza;9,0
+103;Confort;8,9
+103;Relación calidad-precio;9,1
+103;Ubicación;9,0
+103;WiFi gratis;8,6
+104;Personal;8,3
+104;Instalaciones y servicios;8,6
+104;Limpieza;9,0
+104;Confort;9,0
+104;Relación calidad-precio;8,5
+104;Ubicación;9,0
+104;WiFi gratis;8,6
+105;Personal;8,1
+105;Instalaciones y servicios;8,0
+105;Limpieza;8,5
+105;Confort;8,2
+105;Relación calidad-precio;8,3
+105;Ubicación;9,0
+105;WiFi gratis;7,0
+106;Personal;8,7
+106;Instalaciones y servicios;7,9
+106;Limpieza;8,4
+106;Confort;8,4
+106;Relación calidad-precio;8,1
+106;Ubicación;9,6
+106;WiFi gratis;7,9
+107;Personal;9,2
+107;Instalaciones y servicios;8,6
+107;Limpieza;8,9
+107;Confort;8,8
+107;Relación calidad-precio;8,6
+107;Ubicación;9,8
+107;WiFi gratis;8,7
+108;Personal;7,9
+108;Instalaciones y servicios;7,4
+108;Limpieza;7,9
+108;Confort;7,8
+108;Relación calidad-precio;7,7
+108;Ubicación;8,0
+108;WiFi gratis;8,2
+109;Personal;9,0
+109;Instalaciones y servicios;8,5
+109;Limpieza;8,9
+109;Confort;9,0
+109;Relación calidad-precio;8,8
+109;Ubicación;9,8
+109;WiFi gratis;8,6
+110;Personal;9,1
+110;Instalaciones y servicios;7,9
+110;Limpieza;8,5
+110;Confort;8,2
+110;Relación calidad-precio;8,1
+110;Ubicación;9,7
+110;WiFi gratis;9,0
+111;Personal;9,3
+111;Instalaciones y servicios;8,1
+111;Limpieza;8,7
+111;Confort;8,4
+111;Relación calidad-precio;8,2
+111;Ubicación;9,6
+111;WiFi gratis;7,9
+112;Personal;8,5
+112;Instalaciones y servicios;8,3
+112;Limpieza;8,4
+112;Confort;8,4
+112;Relación calidad-precio;8,2
+112;Ubicación;9,4
+112;WiFi gratis;9,0
+113;Personal;8,9
+113;Instalaciones y servicios;7,9
+113;Limpieza;8,6
+113;Confort;8,1
+113;Relación calidad-precio;8,3
+113;Ubicación;9,4
+113;WiFi gratis;7,7
+114;Personal;9,3
+114;Instalaciones y servicios;8,7
+114;Limpieza;9,0
+114;Confort;8,9
+114;Relación calidad-precio;8,7
+114;Ubicación;9,4
+114;WiFi gratis;8,8
+115;Personal;9,1
+115;Instalaciones y servicios;7,6
+115;Limpieza;8,3
+115;Confort;7,9
+115;Relación calidad-precio;8,0
+115;Ubicación;9,4
+115;WiFi gratis;8,6
+116;Personal;9,1
+116;Instalaciones y servicios;8,5
+116;Limpieza;9,1
+116;Confort;9,0
+116;Relación calidad-precio;8,7
+116;Ubicación;9,4
+116;WiFi gratis;8,9
+117;Personal;8,5
+117;Instalaciones y servicios;7,9
+117;Limpieza;8,5
+117;Confort;8,3
+117;Relación calidad-precio;8,0
+117;Ubicación;8,7
+117;WiFi gratis;8,3
+118;Personal;9,9
+118;Instalaciones y servicios;9,0
+118;Limpieza;9,5
+118;Confort;9,3
+118;Relación calidad-precio;9,5
+118;Ubicación;9,8
+118;WiFi gratis;8,3
+119;Personal;8,8
+119;Instalaciones y servicios;8,5
+119;Limpieza;8,9
+119;Confort;8,7
+119;Relación calidad-precio;8,5
+119;Ubicación;9,4
+119;WiFi gratis;8,7
+120;Personal;9,2
+120;Instalaciones y servicios;8,5
+120;Limpieza;9,0
+120;Confort;8,8
+120;Relación calidad-precio;8,6
+120;Ubicación;9,2
+120;WiFi gratis;8,6
+121;Personal;9,2
+121;Instalaciones y servicios;7,0
+121;Limpieza;8,0
+121;Confort;7,4
+121;Relación calidad-precio;7,7
+121;Ubicación;9,3
+121;WiFi gratis;8,2
+122;Personal;9,2
+122;Instalaciones y servicios;8,5
+122;Limpieza;8,8
+122;Confort;8,8
+122;Relación calidad-precio;8,7
+122;Ubicación;9,7
+122;WiFi gratis;8,0
+123;Personal;8,8
+123;Instalaciones y servicios;7,5
+123;Limpieza;8,5
+123;Confort;7,8
+123;Relación calidad-precio;8,1
+123;Ubicación;9,4
+123;WiFi gratis;8,7
+124;Personal;9,2
+124;Instalaciones y servicios;9,1
+124;Limpieza;9,3
+124;Confort;9,3
+124;Relación calidad-precio;9,2
+124;Ubicación;9,9
+124;WiFi gratis;8,8
+125;Personal;9,2
+125;Instalaciones y servicios;8,8
+125;Limpieza;9,0
+125;Confort;9,0
+125;Relación calidad-precio;8,9
+125;Ubicación;9,3
+125;WiFi gratis;8,9
+126;Personal;8,4
+126;Instalaciones y servicios;7,0
+126;Limpieza;7,2
+126;Confort;7,1
+126;Relación calidad-precio;7,8
+126;Ubicación;9,6
+126;WiFi gratis;8,3
+127;Personal;9,4
+127;Instalaciones y servicios;8,6
+127;Limpieza;8,7
+127;Confort;8,7
+127;Relación calidad-precio;8,9
+127;Ubicación;9,6
+127;WiFi gratis;8,7
+128;Personal;8,2
+128;Instalaciones y servicios;7,6
+128;Limpieza;8,2
+128;Confort;7,8
+128;Relación calidad-precio;7,5
+128;Ubicación;7,9
+128;WiFi gratis;6,1
+129;Personal;9,2
+129;Instalaciones y servicios;8,7
+129;Limpieza;8,8
+129;Confort;8,7
+129;Relación calidad-precio;8,9
+129;Ubicación;9,6
+129;WiFi gratis;7,9
+130;Personal;9,4
+130;Instalaciones y servicios;8,5
+130;Limpieza;8,6
+130;Confort;8,5
+130;Relación calidad-precio;8,6
+130;Ubicación;9,5
+130;WiFi gratis;8,8
+131;Personal;9,3
+131;Instalaciones y servicios;8,5
+131;Limpieza;8,5
+131;Confort;8,4
+131;Relación calidad-precio;8,7
+131;Ubicación;9,6
+131;WiFi gratis;9,0
+132;Personal;8,0
+132;Instalaciones y servicios;6,3
+132;Limpieza;6,7
+132;Confort;6,6
+132;Relación calidad-precio;6,7
+132;Ubicación;8,2
+132;WiFi gratis;7,6
+133;Personal;9,1
+133;Instalaciones y servicios;8,8
+133;Limpieza;8,8
+133;Confort;8,7
+133;Relación calidad-precio;8,7
+133;Ubicación;9,4
+133;WiFi gratis;8,6
+134;Personal;9,0
+134;Instalaciones y servicios;7,9
+134;Limpieza;8,0
+134;Confort;8,1
+134;Relación calidad-precio;8,1
+134;Ubicación;9,4
+134;WiFi gratis;7,5
+135;Personal;9,4
+135;Instalaciones y servicios;8,6
+135;Limpieza;8,7
+135;Confort;8,7
+135;Relación calidad-precio;8,7
+135;Ubicación;9,8
+135;WiFi gratis;8,4
+136;Personal;9,6
+136;Instalaciones y servicios;8,7
+136;Limpieza;8,8
+136;Confort;8,7
+136;Relación calidad-precio;8,5
+136;Ubicación;9,3
+136;WiFi gratis;7,5
+137;Personal;9,2
+137;Instalaciones y servicios;8,3
+137;Limpieza;8,5
+137;Confort;8,2
+137;Relación calidad-precio;8,6
+137;Ubicación;9,1
+137;WiFi gratis;8,6
+138;Personal;9,0
+138;Instalaciones y servicios;8,1
+138;Limpieza;8,2
+138;Confort;8,1
+138;Relación calidad-precio;8,3
+138;Ubicación;9,5
+138;WiFi gratis;8,6
+139;Personal;9,0
+139;Instalaciones y servicios;6,9
+139;Limpieza;7,3
+139;Confort;7,1
+139;Relación calidad-precio;7,7
+139;Ubicación;9,2
+139;WiFi gratis;8,2
+140;Personal;8,4
+140;Instalaciones y servicios;7,3
+140;Limpieza;7,4
+140;Confort;7,2
+140;Relación calidad-precio;7,8
+140;Ubicación;8,5
+140;WiFi gratis;8,5
+141;Personal;9,0
+141;Instalaciones y servicios;8,4
+141;Limpieza;8,5
+141;Confort;8,2
+141;Relación calidad-precio;8,4
+141;Ubicación;9,3
+141;WiFi gratis;9,1
+142;Personal;8,1
+142;Instalaciones y servicios;7,0
+142;Limpieza;7,9
+142;Confort;7,7
+142;Relación calidad-precio;7,9
+142;Ubicación;9,5
+142;WiFi gratis;10
+143;Personal;9,7
+143;Instalaciones y servicios;9,5
+143;Limpieza;9,6
+143;Confort;9,2
+143;Relación calidad-precio;9,0
+143;Ubicación;9,7
+143;WiFi gratis;5,0
+144;Personal;9,0
+144;Instalaciones y servicios;7,8
+144;Limpieza;7,9
+144;Confort;7,8
+144;Relación calidad-precio;8,2
+144;Ubicación;8,8
+144;WiFi gratis;7,9
+145;Personal;6,5
+145;Instalaciones y servicios;5,0
+145;Limpieza;4,9
+145;Confort;5,0
+145;Relación calidad-precio;5,9
+145;Ubicación;7,5
+145;WiFi gratis;7,0
+146;Personal;9,3
+146;Instalaciones y servicios;8,4
+146;Limpieza;8,7
+146;Confort;8,4
+146;Relación calidad-precio;8,4
+146;Ubicación;9,7
+146;WiFi gratis;9,2
+147;Personal;9,1
+147;Instalaciones y servicios;7,5
+147;Limpieza;7,7
+147;Confort;7,7
+147;Relación calidad-precio;7,9
+147;Ubicación;9,5
+147;WiFi gratis;7,9
+148;Personal;9,3
+148;Instalaciones y servicios;8,6
+148;Limpieza;8,7
+148;Confort;8,6
+148;Relación calidad-precio;8,8
+148;Ubicación;9,6
+148;WiFi gratis;9,2
+149;Personal;9,5
+149;Instalaciones y servicios;8,4
+149;Limpieza;9,1
+149;Confort;8,9
+149;Relación calidad-precio;8,9
+149;Ubicación;9,7
+149;WiFi gratis;8,6
+150;Personal;9,2
+150;Instalaciones y servicios;8,3
+150;Limpieza;8,7
+150;Confort;8,6
+150;Relación calidad-precio;8,7
+150;Ubicación;9,7
+150;WiFi gratis;8,6
+151;Personal;9,0
+151;Instalaciones y servicios;8,6
+151;Limpieza;9,0
+151;Confort;9,0
+151;Relación calidad-precio;8,5
+151;Ubicación;8,9
+151;WiFi gratis;8,5
+152;Personal;9,0
+152;Instalaciones y servicios;8,2
+152;Limpieza;8,7
+152;Confort;8,7
+152;Relación calidad-precio;8,7
+152;Ubicación;9,6
+152;WiFi gratis;8,5
+153;Personal;9,5
+153;Instalaciones y servicios;9,2
+153;Limpieza;9,4
+153;Confort;9,5
+153;Relación calidad-precio;8,6
+153;Ubicación;8,5
+153;WiFi gratis;10
+154;Personal;8,8
+154;Instalaciones y servicios;8,2
+154;Limpieza;8,6
+154;Confort;8,6
+154;Relación calidad-precio;8,4
+154;Ubicación;8,7
+154;WiFi gratis;8,6
+155;Personal;9,3
+155;Instalaciones y servicios;8,2
+155;Limpieza;8,7
+155;Confort;8,6
+155;Relación calidad-precio;8,6
+155;Ubicación;9,4
+155;WiFi gratis;7,8
+156;Personal;9,4
+156;Instalaciones y servicios;9,3
+156;Limpieza;9,5
+156;Confort;9,5
+156;Relación calidad-precio;8,9
+156;Ubicación;8,9
+156;WiFi gratis;8,9
+157;Personal;8,8
+157;Instalaciones y servicios;7,7
+157;Limpieza;8,2
+157;Confort;8,0
+157;Relación calidad-precio;8,2
+157;Ubicación;8,8
+157;WiFi gratis;8,0
+158;Personal;8,6
+158;Instalaciones y servicios;7,9
+158;Limpieza;8,5
+158;Confort;8,4
+158;Relación calidad-precio;8,4
+158;Ubicación;9,6
+158;WiFi gratis;8,6
+159;Personal;8,8
+159;Instalaciones y servicios;8,1
+159;Limpieza;8,5
+159;Confort;8,7
+159;Relación calidad-precio;8,3
+159;Ubicación;9,7
+159;WiFi gratis;8,2
+160;Personal;8,9
+160;Instalaciones y servicios;8,5
+160;Limpieza;8,8
+160;Confort;8,7
+160;Relación calidad-precio;8,8
+160;Ubicación;9,0
+160;WiFi gratis;8,9
+161;Personal;9,7
+161;Instalaciones y servicios;9,4
+161;Limpieza;9,7
+161;Confort;9,6
+161;Relación calidad-precio;9,2
+161;Ubicación;9,3
+161;WiFi gratis;9,2
+162;Personal;9,4
+162;Instalaciones y servicios;9,0
+162;Limpieza;9,3
+162;Confort;9,3
+162;Relación calidad-precio;8,8
+162;Ubicación;8,7
+162;WiFi gratis;8,9
+163;Personal;9,3
+163;Instalaciones y servicios;8,7
+163;Limpieza;9,1
+163;Confort;9,1
+163;Relación calidad-precio;8,6
+163;Ubicación;9,6
+163;WiFi gratis;8,5
+164;Personal;8,8
+164;Instalaciones y servicios;8,6
+164;Limpieza;9,0
+164;Confort;9,0
+164;Relación calidad-precio;8,5
+164;Ubicación;8,4
+164;WiFi gratis;8,4
+165;Personal;8,4
+165;Instalaciones y servicios;6,9
+165;Limpieza;7,5
+165;Confort;7,3
+165;Relación calidad-precio;7,4
+165;Ubicación;8,9
+165;WiFi gratis;7,2
+166;Personal;8,8
+166;Instalaciones y servicios;7,7
+166;Limpieza;8,0
+166;Confort;8,1
+166;Relación calidad-precio;8,3
+166;Ubicación;9,6
+166;WiFi gratis;9,2
+167;Personal;9,2
+167;Instalaciones y servicios;7,9
+167;Limpieza;8,6
+167;Confort;8,3
+167;Relación calidad-precio;8,0
+167;Ubicación;9,1
+167;WiFi gratis;8,1
+168;Personal;9,4
+168;Instalaciones y servicios;7,8
+168;Limpieza;8,5
+168;Confort;8,3
+168;Relación calidad-precio;8,0
+168;Ubicación;9,1
+168;WiFi gratis;8,0
+169;Personal;9,2
+169;Instalaciones y servicios;8,7
+169;Limpieza;9,2
+169;Confort;9,1
+169;Relación calidad-precio;8,7
+169;Ubicación;9,6
+169;WiFi gratis;8,6
+170;Personal;8,9
+170;Instalaciones y servicios;9,0
+170;Limpieza;9,2
+170;Confort;9,2
+170;Relación calidad-precio;9,1
+170;Ubicación;9,5
+170;WiFi gratis;8,6
+171;Personal;9,1
+171;Instalaciones y servicios;8,3
+171;Limpieza;8,7
+171;Confort;8,4
+171;Relación calidad-precio;8,4
+171;Ubicación;7,8
+171;WiFi gratis;8,6
+172;Personal;8,0
+172;Instalaciones y servicios;8,1
+172;Limpieza;8,6
+172;Confort;8,5
+172;Relación calidad-precio;8,3
+172;Ubicación;9,2
+173;Personal;8,7
+173;Instalaciones y servicios;7,7
+173;Limpieza;8,3
+173;Confort;8,1
+173;Relación calidad-precio;8,1
+173;Ubicación;9,3
+173;WiFi gratis;8,2
+174;Personal;9,4
+174;Instalaciones y servicios;8,1
+174;Limpieza;8,7
+174;Confort;8,4
+174;Relación calidad-precio;8,6
+174;Ubicación;9,6
+174;WiFi gratis;8,7
+175;Personal;8,5
+175;Instalaciones y servicios;7,7
+175;Limpieza;8,1
+175;Confort;8,0
+175;Relación calidad-precio;8,2
+175;Ubicación;9,5
+175;WiFi gratis;8,1
+176;Personal;9,4
+176;Instalaciones y servicios;8,4
+176;Limpieza;9,0
+176;Confort;8,8
+176;Relación calidad-precio;8,8
+176;Ubicación;9,6
+176;WiFi gratis;8,4
+177;Personal;9,4
+177;Instalaciones y servicios;8,4
+177;Limpieza;8,8
+177;Confort;8,7
+177;Relación calidad-precio;8,9
+177;Ubicación;9,5
+177;WiFi gratis;8,2
+178;Personal;9,9
+178;Instalaciones y servicios;9,6
+178;Limpieza;9,9
+178;Confort;9,8
+178;Relación calidad-precio;9,8
+178;Ubicación;9,9
+178;WiFi gratis;9,5
+179;Personal;9,1
+179;Instalaciones y servicios;9,1
+179;Limpieza;9,2
+179;Confort;9,1
+179;Relación calidad-precio;8,9
+179;Ubicación;9,7
+179;WiFi gratis;9,0
+180;Personal;9,8
+180;Instalaciones y servicios;8,9
+180;Limpieza;9,4
+180;Confort;9,2
+180;Relación calidad-precio;9,2
+180;Ubicación;9,7
+180;WiFi gratis;8,9
+181;Personal;9,7
+181;Instalaciones y servicios;8,8
+181;Limpieza;9,3
+181;Confort;9,1
+181;Relación calidad-precio;9,3
+181;Ubicación;9,5
+181;WiFi gratis;8,7
+182;Personal;9,1
+182;Instalaciones y servicios;8,1
+182;Limpieza;8,8
+182;Confort;8,5
+182;Relación calidad-precio;8,6
+182;Ubicación;9,5
+182;WiFi gratis;8,7
+183;Personal;9,5
+183;Instalaciones y servicios;8,3
+183;Limpieza;8,8
+183;Confort;8,7
+183;Relación calidad-precio;8,8
+183;Ubicación;9,8
+183;WiFi gratis;8,7
+184;Personal;9,2
+184;Instalaciones y servicios;7,5
+184;Limpieza;8,3
+184;Confort;8,0
+184;Relación calidad-precio;8,1
+184;Ubicación;9,3
+184;WiFi gratis;7,7
+185;Personal;9,8
+185;Instalaciones y servicios;8,5
+185;Limpieza;9,2
+185;Confort;8,8
+185;Relación calidad-precio;9,0
+185;Ubicación;9,6
+185;WiFi gratis;9,0
+186;Personal;8,0
+186;Instalaciones y servicios;6,9
+186;Limpieza;7,6
+186;Confort;7,3
+186;Relación calidad-precio;8,1
+186;Ubicación;9,2
+186;WiFi gratis;7,9
+187;Personal;9,1
+187;Instalaciones y servicios;8,0
+187;Limpieza;8,5
+187;Confort;8,3
+187;Relación calidad-precio;8,5
+187;Ubicación;9,6
+187;WiFi gratis;8,1
+188;Personal;8,7
+188;Instalaciones y servicios;6,9
+188;Limpieza;7,7
+188;Confort;7,3
+188;Relación calidad-precio;7,6
+188;Ubicación;8,4
+188;WiFi gratis;8,1
+189;Personal;9,3
+189;Instalaciones y servicios;7,6
+189;Limpieza;8,1
+189;Confort;7,9
+189;Relación calidad-precio;8,5
+189;Ubicación;9,7
+189;WiFi gratis;8,8
+190;Personal;9,1
+190;Instalaciones y servicios;8,6
+190;Limpieza;9,2
+190;Confort;9,1
+190;Relación calidad-precio;8,8
+190;Ubicación;9,8
+190;WiFi gratis;9,6
+191;Personal;9,8
+191;Instalaciones y servicios;8,8
+191;Limpieza;9,2
+191;Confort;9,0
+191;Relación calidad-precio;9,0
+191;Ubicación;9,4
+191;WiFi gratis;8,9
+192;Personal;9,4
+192;Instalaciones y servicios;7,9
+192;Limpieza;8,7
+192;Confort;8,6
+192;Relación calidad-precio;9,0
+192;Ubicación;9,8
+192;WiFi gratis;2,5
+193;Personal;9,3
+193;Instalaciones y servicios;8,1
+193;Limpieza;8,7
+193;Confort;8,1
+193;Relación calidad-precio;8,7
+193;Ubicación;9,1
+193;WiFi gratis;8,2
+194;Personal;8,3
+194;Instalaciones y servicios;6,9
+194;Limpieza;7,6
+194;Confort;7,5
+194;Relación calidad-precio;7,4
+194;Ubicación;8,9
+194;WiFi gratis;8,3
+195;Personal;9,9
+195;Instalaciones y servicios;8,0
+195;Limpieza;8,9
+195;Confort;8,5
+195;Relación calidad-precio;7,9
+195;Ubicación;9,9
+196;Personal;9,7
+196;Instalaciones y servicios;8,8
+196;Limpieza;9,4
+196;Confort;9,0
+196;Relación calidad-precio;9,2
+196;Ubicación;9,3
+196;WiFi gratis;8,9
+197;Personal;9,0
+197;Instalaciones y servicios;8,7
+197;Limpieza;9,2
+197;Confort;8,6
+197;Relación calidad-precio;9,0
+197;Ubicación;7,7
+197;WiFi gratis;5,8
+198;Personal;9,4
+198;Instalaciones y servicios;9,3
+198;Limpieza;9,3
+198;Confort;9,3
+198;Relación calidad-precio;9,2
+198;Ubicación;9,7
+198;WiFi gratis;8,5
+199;Personal;8,6
+199;Instalaciones y servicios;8,2
+199;Limpieza;8,6
+199;Confort;8,4
+199;Relación calidad-precio;8,7
+199;Ubicación;9,2
+199;WiFi gratis;8,6
+200;Personal;8,2
+200;Instalaciones y servicios;7,9
+200;Limpieza;8,2
+200;Confort;8,1
+200;Relación calidad-precio;8,0
+200;Ubicación;9,2
+200;WiFi gratis;10
+201;Personal;9,4
+201;Instalaciones y servicios;8,9
+201;Limpieza;8,8
+201;Confort;8,6
+201;Relación calidad-precio;8,7
+201;Ubicación;9,5
+201;WiFi gratis;8,8
+202;Personal;8,4
+202;Instalaciones y servicios;7,9
+202;Limpieza;8,2
+202;Confort;8,1
+202;Relación calidad-precio;8,5
+202;Ubicación;9,1
+202;WiFi gratis;9,0
+203;Personal;9,7
+203;Instalaciones y servicios;8,9
+203;Limpieza;9,3
+203;Confort;9,1
+203;Relación calidad-precio;9,3
+203;Ubicación;9,7
+203;WiFi gratis;9,1
+204;Personal;9,8
+204;Instalaciones y servicios;9,3
+204;Limpieza;9,3
+204;Confort;9,2
+204;Relación calidad-precio;9,5
+204;Ubicación;9,4
+204;WiFi gratis;9,4
+205;Personal;9,0
+205;Instalaciones y servicios;8,3
+205;Limpieza;8,5
+205;Confort;8,3
+205;Relación calidad-precio;8,6
+205;Ubicación;9,2
+205;WiFi gratis;8,1
+206;Personal;9,5
+206;Instalaciones y servicios;8,9
+206;Limpieza;9,0
+206;Confort;8,9
+206;Relación calidad-precio;9,2
+206;Ubicación;9,4
+206;WiFi gratis;8,8
+207;Personal;9,3
+207;Instalaciones y servicios;8,0
+207;Limpieza;8,6
+207;Confort;8,2
+207;Relación calidad-precio;8,1
+207;Ubicación;8,0
+207;WiFi gratis;10
+208;Personal;9,1
+208;Instalaciones y servicios;8,2
+208;Limpieza;8,3
+208;Confort;8,1
+208;Relación calidad-precio;8,7
+208;Ubicación;9,4
+208;WiFi gratis;8,5
+209;Personal;9,5
+209;Instalaciones y servicios;9,0
+209;Limpieza;9,3
+209;Confort;9,0
+209;Relación calidad-precio;9,1
+209;Ubicación;9,2
+209;WiFi gratis;8,3
+210;Personal;9,2
+210;Instalaciones y servicios;8,9
+210;Limpieza;9,1
+210;Confort;8,9
+210;Relación calidad-precio;9,0
+210;Ubicación;8,9
+210;WiFi gratis;8,6
+211;Personal;9,3
+211;Instalaciones y servicios;9,0
+211;Limpieza;9,1
+211;Confort;9,3
+211;Relación calidad-precio;9,2
+211;Ubicación;9,5
+211;WiFi gratis;8,5
+212;Personal;7,9
+212;Instalaciones y servicios;8,2
+212;Limpieza;8,3
+212;Confort;8,1
+212;Relación calidad-precio;8,3
+212;Ubicación;8,3
+212;WiFi gratis;7,8
+213;Personal;9,5
+213;Instalaciones y servicios;8,9
+213;Limpieza;9,2
+213;Confort;9,2
+213;Relación calidad-precio;9,2
+213;Ubicación;8,5
+213;WiFi gratis;8,8
+214;Personal;9,3
+214;Instalaciones y servicios;8,7
+214;Limpieza;9,0
+214;Confort;9,1
+214;Relación calidad-precio;8,3
+214;Ubicación;9,7
+214;WiFi gratis;8,6
+215;Personal;9,4
+215;Instalaciones y servicios;9,3
+215;Limpieza;9,5
+215;Confort;9,5
+215;Relación calidad-precio;8,9
+215;Ubicación;9,7
+215;WiFi gratis;9,1
+216;Personal;9,2
+216;Instalaciones y servicios;8,6
+216;Limpieza;9,0
+216;Confort;9,0
+216;Relación calidad-precio;8,6
+216;Ubicación;9,8
+216;WiFi gratis;8,5
+217;Personal;9,4
+217;Instalaciones y servicios;9,0
+217;Limpieza;9,2
+217;Confort;9,2
+217;Relación calidad-precio;8,7
+217;Ubicación;9,6
+217;WiFi gratis;8,2
+218;Personal;9,0
+218;Instalaciones y servicios;7,5
+218;Limpieza;8,6
+218;Confort;8,0
+218;Relación calidad-precio;7,9
+218;Ubicación;9,3
+218;WiFi gratis;8,5
+219;Personal;9,2
+219;Instalaciones y servicios;8,7
+219;Limpieza;9,1
+219;Confort;9,1
+219;Relación calidad-precio;8,5
+219;Ubicación;9,2
+219;WiFi gratis;8,5
+220;Personal;9,3
+220;Instalaciones y servicios;8,5
+220;Limpieza;9,0
+220;Confort;8,9
+220;Relación calidad-precio;8,4
+220;Ubicación;9,4
+220;WiFi gratis;8,8
+221;Personal;9,1
+221;Instalaciones y servicios;8,6
+221;Limpieza;9,1
+221;Confort;9,1
+221;Relación calidad-precio;8,4
+221;Ubicación;9,5
+221;WiFi gratis;8,6
+222;Personal;9,6
+222;Instalaciones y servicios;9,1
+222;Limpieza;9,4
+222;Confort;9,5
+222;Relación calidad-precio;8,8
+222;Ubicación;9,9
+222;WiFi gratis;8,6
+223;Personal;9,3
+223;Instalaciones y servicios;9,0
+223;Limpieza;9,3
+223;Confort;9,1
+223;Relación calidad-precio;8,9
+223;Ubicación;9,5
+223;WiFi gratis;8,8
+224;Personal;9,2
+224;Instalaciones y servicios;8,5
+224;Limpieza;8,9
+224;Confort;8,8
+224;Relación calidad-precio;8,3
+224;Ubicación;9,2
+224;WiFi gratis;8,1
+225;Personal;9,1
+225;Instalaciones y servicios;8,9
+225;Limpieza;9,3
+225;Confort;9,2
+225;Relación calidad-precio;8,6
+225;Ubicación;8,9
+225;WiFi gratis;8,3
+226;Personal;9,5
+226;Instalaciones y servicios;9,1
+226;Limpieza;9,5
+226;Confort;9,4
+226;Relación calidad-precio;8,9
+226;Ubicación;9,5
+226;WiFi gratis;9,0
+227;Personal;9,0
+227;Instalaciones y servicios;8,6
+227;Limpieza;9,0
+227;Confort;8,9
+227;Relación calidad-precio;8,5
+227;Ubicación;9,1
+227;WiFi gratis;8,4
+228;Personal;9,8
+228;Instalaciones y servicios;9,4
+228;Limpieza;9,6
+228;Confort;9,7
+228;Relación calidad-precio;9,2
+228;Ubicación;9,9
+228;WiFi gratis;9,3
+229;Personal;9,4
+229;Instalaciones y servicios;9,2
+229;Limpieza;9,5
+229;Confort;9,5
+229;Relación calidad-precio;8,6
+229;Ubicación;9,3
+229;WiFi gratis;9,0
+230;Personal;9,0
+230;Instalaciones y servicios;8,8
+230;Limpieza;9,1
+230;Confort;9,1
+230;Relación calidad-precio;8,6
+230;Ubicación;9,0
+230;WiFi gratis;8,1
+231;Personal;9,4
+231;Instalaciones y servicios;8,6
+231;Limpieza;9,1
+231;Confort;9,0
+231;Relación calidad-precio;8,8
+231;Ubicación;9,8
+231;WiFi gratis;7,9
+232;Personal;9,3
+232;Instalaciones y servicios;8,3
+232;Limpieza;8,8
+232;Confort;8,8
+232;Relación calidad-precio;8,7
+232;Ubicación;9,8
+232;WiFi gratis;8,5
+233;Personal;9,7
+233;Instalaciones y servicios;8,8
+233;Limpieza;9,2
+233;Confort;9,1
+233;Relación calidad-precio;8,5
+233;Ubicación;9,3
+233;WiFi gratis;9,6
+234;Personal;9,2
+234;Instalaciones y servicios;8,3
+234;Limpieza;8,8
+234;Confort;8,7
+234;Relación calidad-precio;8,5
+234;Ubicación;8,0
+234;WiFi gratis;8,3
+235;Personal;9,7
+235;Instalaciones y servicios;9,7
+235;Limpieza;9,7
+235;Confort;9,8
+235;Relación calidad-precio;9,3
+235;Ubicación;9,8
+235;WiFi gratis;9,8
+236;Personal;9,5
+236;Instalaciones y servicios;8,1
+236;Limpieza;8,8
+236;Confort;8,5
+236;Relación calidad-precio;8,6
+236;Ubicación;9,8
+236;WiFi gratis;8,5
+237;Personal;9,3
+237;Instalaciones y servicios;9,2
+237;Limpieza;9,3
+237;Confort;9,3
+237;Relación calidad-precio;9,1
+237;Ubicación;8,8
+237;WiFi gratis;9,7
+238;Personal;9,2
+238;Instalaciones y servicios;9,3
+238;Limpieza;9,3
+238;Confort;9,3
+238;Relación calidad-precio;9,0
+238;Ubicación;9,6
+238;WiFi gratis;8,8
+239;Personal;9,5
+239;Instalaciones y servicios;8,8
+239;Limpieza;9,1
+239;Confort;9,0
+239;Relación calidad-precio;8,9
+239;Ubicación;9,5
+239;WiFi gratis;8,4
+240;Personal;9,0
+240;Instalaciones y servicios;8,1
+240;Limpieza;8,7
+240;Confort;8,6
+240;Relación calidad-precio;8,2
+240;Ubicación;9,5
+240;WiFi gratis;8,7
+241;Personal;9,4
+241;Instalaciones y servicios;9,1
+241;Limpieza;9,5
+241;Confort;9,4
+241;Relación calidad-precio;9,2
+241;Ubicación;9,7
+241;WiFi gratis;8,9
+242;Personal;9,2
+242;Instalaciones y servicios;8,2
+242;Limpieza;8,7
+242;Confort;8,5
+242;Relación calidad-precio;8,7
+242;Ubicación;9,5
+242;WiFi gratis;7,9
+243;Personal;9,0
+243;Instalaciones y servicios;7,3
+243;Limpieza;7,6
+243;Confort;7,4
+243;Relación calidad-precio;8,0
+243;Ubicación;9,3
+243;WiFi gratis;8,0
+244;Personal;8,7
+244;Instalaciones y servicios;7,9
+244;Limpieza;8,1
+244;Confort;8,1
+244;Relación calidad-precio;8,5
+244;Ubicación;9,3
+244;WiFi gratis;7,4
+245;Personal;9,2
+245;Instalaciones y servicios;8,9
+245;Limpieza;9,3
+245;Confort;9,3
+245;Relación calidad-precio;8,8
+245;Ubicación;9,5
+245;WiFi gratis;8,5
+246;Personal;9,7
+246;Instalaciones y servicios;9,1
+246;Limpieza;9,6
+246;Confort;9,3
+246;Relación calidad-precio;8,9
+246;Ubicación;9,3
+246;WiFi gratis;7,5
+247;Personal;9,1
+247;Instalaciones y servicios;8,3
+247;Limpieza;9,0
+247;Confort;8,6
+247;Relación calidad-precio;8,8
+247;Ubicación;9,6
+247;WiFi gratis;8,5
+248;Personal;8,9
+248;Instalaciones y servicios;8,0
+248;Limpieza;8,6
+248;Confort;8,3
+248;Relación calidad-precio;8,8
+248;Ubicación;9,6
+248;WiFi gratis;7,5
+249;Personal;9,0
+249;Instalaciones y servicios;8,4
+249;Limpieza;9,1
+249;Confort;8,7
+249;Relación calidad-precio;8,8
+249;Ubicación;9,3
+249;WiFi gratis;8,3
+250;Personal;9,5
+250;Instalaciones y servicios;8,3
+250;Limpieza;9,0
+250;Confort;8,4
+250;Relación calidad-precio;8,6
+250;Ubicación;9,8
+250;WiFi gratis;8,0
+251;Personal;7,3
+251;Instalaciones y servicios;6,8
+251;Limpieza;7,2
+251;Confort;7,3
+251;Relación calidad-precio;7,4
+251;Ubicación;9,2
+251;WiFi gratis;8,3
+252;Personal;9,4
+252;Instalaciones y servicios;8,6
+252;Limpieza;9,3
+252;Confort;9,0
+252;Relación calidad-precio;9,4
+252;Ubicación;9,7
+252;WiFi gratis;9,5
+253;Personal;8,7
+253;Instalaciones y servicios;8,0
+253;Limpieza;8,5
+253;Confort;8,2
+253;Relación calidad-precio;8,7
+253;Ubicación;9,5
+253;WiFi gratis;8,6
+254;Personal;8,5
+254;Instalaciones y servicios;8,1
+254;Limpieza;8,5
+254;Confort;8,3
+254;Relación calidad-precio;8,3
+254;Ubicación;9,5
+254;WiFi gratis;8,6
+255;Personal;9,7
+255;Instalaciones y servicios;9,5
+255;Limpieza;9,7
+255;Confort;9,6
+255;Relación calidad-precio;9,4
+255;Ubicación;9,9
+255;WiFi gratis;10
+256;Personal;8,8
+256;Instalaciones y servicios;6,8
+256;Limpieza;7,8
+256;Confort;7,5
+256;Relación calidad-precio;7,7
+256;Ubicación;7,9
+256;WiFi gratis;8,4
+257;Personal;9,4
+257;Instalaciones y servicios;7,3
+257;Limpieza;7,5
+257;Confort;7,3
+257;Relación calidad-precio;8,1
+257;Ubicación;9,7
+257;WiFi gratis;10
+258;Personal;9,4
+258;Instalaciones y servicios;8,3
+258;Limpieza;8,9
+258;Confort;8,6
+258;Relación calidad-precio;8,6
+258;Ubicación;9,9
+258;WiFi gratis;8,3
+259;Personal;8,8
+259;Instalaciones y servicios;7,3
+259;Limpieza;7,9
+259;Confort;7,6
+259;Relación calidad-precio;7,9
+259;Ubicación;9,1
+259;WiFi gratis;7,8
+260;Personal;9,1
+260;Instalaciones y servicios;7,9
+260;Limpieza;8,5
+260;Confort;8,1
+260;Relación calidad-precio;8,7
+260;Ubicación;9,5
+260;WiFi gratis;9,5
+261;Personal;9,0
+261;Instalaciones y servicios;8,1
+261;Limpieza;8,9
+261;Confort;8,3
+261;Relación calidad-precio;8,6
+261;Ubicación;9,6
+261;WiFi gratis;8,3
+262;Personal;8,2
+262;Instalaciones y servicios;6,9
+262;Limpieza;7,5
+262;Confort;7,3
+262;Relación calidad-precio;7,4
+262;Ubicación;9,2
+262;WiFi gratis;8,7
+263;Personal;6,8
+263;Instalaciones y servicios;5,4
+263;Limpieza;6,2
+263;Confort;6,0
+263;Relación calidad-precio;6,3
+263;Ubicación;8,7
+263;WiFi gratis;5,5
+264;Personal;9,5
+264;Instalaciones y servicios;9,1
+264;Limpieza;9,4
+264;Confort;9,3
+264;Relación calidad-precio;9,0
+264;Ubicación;9,7
+264;WiFi gratis;8,9
+265;Personal;9,0
+265;Instalaciones y servicios;8,7
+265;Limpieza;9,1
+265;Confort;8,9
+265;Relación calidad-precio;8,8
+265;Ubicación;8,9
+265;WiFi gratis;8,2
+266;Personal;7,6
+266;Instalaciones y servicios;7,3
+266;Limpieza;7,7
+266;Confort;7,9
+266;Relación calidad-precio;7,8
+266;Ubicación;9,4
+267;Personal;8,6
+267;Instalaciones y servicios;7,2
+267;Limpieza;7,9
+267;Confort;7,4
+267;Relación calidad-precio;7,5
+267;Ubicación;9,5
+267;WiFi gratis;8,0
+268;Personal;9,3
+268;Instalaciones y servicios;8,6
+268;Limpieza;9,2
+268;Confort;8,4
+268;Relación calidad-precio;9,0
+268;Ubicación;8,3
+268;WiFi gratis;7,5
+269;Personal;9,6
+269;Instalaciones y servicios;9,4
+269;Limpieza;9,7
+269;Confort;9,7
+269;Relación calidad-precio;8,7
+269;Ubicación;9,6
+269;WiFi gratis;9,0
+270;Personal;9,3
+270;Instalaciones y servicios;8,6
+270;Limpieza;9,1
+270;Confort;9,1
+270;Relación calidad-precio;8,2
+270;Ubicación;9,4
+270;WiFi gratis;8,9
+272;Personal;9,2
+272;Instalaciones y servicios;8,9
+272;Limpieza;9,3
+272;Confort;9,4
+272;Relación calidad-precio;8,5
+272;Ubicación;9,9
+272;WiFi gratis;9,1
+273;Personal;9,5
+273;Instalaciones y servicios;8,8
+273;Limpieza;9,2
+273;Confort;9,3
+273;Relación calidad-precio;8,4
+273;Ubicación;9,8
+273;WiFi gratis;8,6
+274;Personal;9,2
+274;Instalaciones y servicios;8,5
+274;Limpieza;9,0
+274;Confort;9,0
+274;Relación calidad-precio;8,2
+274;Ubicación;9,1
+274;WiFi gratis;8,6
+275;Personal;8,7
+275;Instalaciones y servicios;8,2
+275;Limpieza;8,9
+275;Confort;8,8
+275;Relación calidad-precio;8,3
+275;Ubicación;9,8
+275;WiFi gratis;8,7
+276;Personal;9,3
+276;Instalaciones y servicios;8,9
+276;Limpieza;9,2
+276;Confort;9,3
+276;Relación calidad-precio;8,2
+276;Ubicación;9,8
+276;WiFi gratis;8,1
+277;Personal;9,3
+277;Instalaciones y servicios;8,9
+277;Limpieza;9,1
+277;Confort;9,1
+277;Relación calidad-precio;8,2
+277;Ubicación;9,4
+277;WiFi gratis;8,7
+278;Personal;8,9
+278;Instalaciones y servicios;8,3
+278;Limpieza;8,8
+278;Confort;8,8
+278;Relación calidad-precio;8,0
+278;Ubicación;9,5
+278;WiFi gratis;8,4
+279;Personal;8,8
+279;Instalaciones y servicios;7,7
+279;Limpieza;8,2
+279;Confort;8,2
+279;Relación calidad-precio;7,5
+279;Ubicación;9,4
+279;WiFi gratis;7,9
+280;Personal;9,2
+280;Instalaciones y servicios;8,5
+280;Limpieza;8,9
+280;Confort;8,9
+280;Relación calidad-precio;8,0
+280;Ubicación;9,5
+280;WiFi gratis;8,7
+281;Personal;9,6
+281;Instalaciones y servicios;9,2
+281;Limpieza;9,4
+281;Confort;9,5
+281;Relación calidad-precio;8,6
+281;Ubicación;9,6
+281;WiFi gratis;8,8
+282;Personal;9,3
+282;Instalaciones y servicios;8,9
+282;Limpieza;9,3
+282;Confort;9,4
+282;Relación calidad-precio;8,2
+282;Ubicación;9,8
+282;WiFi gratis;8,5
+283;Personal;9,2
+283;Instalaciones y servicios;8,5
+283;Limpieza;9,1
+283;Confort;9,0
+283;Relación calidad-precio;8,2
+283;Ubicación;9,3
+283;WiFi gratis;8,1
+284;Personal;9,0
+284;Instalaciones y servicios;8,4
+284;Limpieza;8,8
+284;Confort;8,8
+284;Relación calidad-precio;7,8
+284;Ubicación;9,1
+284;WiFi gratis;8,5
+285;Personal;9,2
+285;Instalaciones y servicios;8,7
+285;Limpieza;9,1
+285;Confort;9,1
+285;Relación calidad-precio;8,2
+285;Ubicación;8,3
+285;WiFi gratis;8,4
+286;Personal;9,5
+286;Instalaciones y servicios;9,0
+286;Limpieza;9,4
+286;Confort;9,5
+286;Relación calidad-precio;8,4
+286;Ubicación;9,8
+286;WiFi gratis;8,9
+287;Personal;8,8
+287;Instalaciones y servicios;7,8
+287;Limpieza;8,3
+287;Confort;8,3
+287;Relación calidad-precio;7,5
+287;Ubicación;9,1
+287;WiFi gratis;7,2
+288;Personal;9,7
+288;Instalaciones y servicios;9,0
+288;Limpieza;9,4
+288;Confort;9,4
+288;Relación calidad-precio;8,9
+288;Ubicación;9,6
+288;WiFi gratis;9,2
+289;Personal;8,9
+289;Instalaciones y servicios;8,3
+289;Limpieza;8,8
+289;Confort;8,8
+289;Relación calidad-precio;7,9
+289;Ubicación;9,1
+289;WiFi gratis;8,5
+290;Personal;9,6
+290;Instalaciones y servicios;9,2
+290;Limpieza;9,5
+290;Confort;9,6
+290;Relación calidad-precio;8,6
+290;Ubicación;9,8
+290;WiFi gratis;9,1
+291;Personal;9,4
+291;Instalaciones y servicios;8,9
+291;Limpieza;9,3
+291;Confort;9,3
+291;Relación calidad-precio;8,5
+291;Ubicación;9,6
+291;WiFi gratis;8,5
+292;Personal;8,7
+292;Instalaciones y servicios;8,2
+292;Limpieza;8,6
+292;Confort;8,7
+292;Relación calidad-precio;7,9
+292;Ubicación;8,8
+292;WiFi gratis;7,7
+293;Personal;9,1
+293;Instalaciones y servicios;8,2
+293;Limpieza;8,6
+293;Confort;8,6
+293;Relación calidad-precio;7,9
+293;Ubicación;9,6
+293;WiFi gratis;8,9
+294;Personal;9,0
+294;Instalaciones y servicios;8,8
+294;Limpieza;9,1
+294;Confort;9,1
+294;Relación calidad-precio;8,8
+294;Ubicación;9,6
+294;WiFi gratis;9,3
+295;Personal;9,1
+295;Instalaciones y servicios;9,1
+295;Limpieza;9,4
+295;Confort;9,3
+295;Relación calidad-precio;8,9
+295;Ubicación;9,0
+295;WiFi gratis;7,5
+296;Personal;9,1
+296;Instalaciones y servicios;8,7
+296;Limpieza;9,1
+296;Confort;9,0
+296;Relación calidad-precio;8,7
+296;Ubicación;9,5
+296;WiFi gratis;8,1
+297;Personal;8,5
+297;Instalaciones y servicios;7,3
+297;Limpieza;8,2
+297;Confort;7,7
+297;Relación calidad-precio;7,4
+297;Ubicación;8,5
+297;WiFi gratis;7,8
+298;Personal;8,7
+298;Instalaciones y servicios;8,4
+298;Limpieza;8,7
+298;Confort;8,4
+298;Relación calidad-precio;8,7
+298;Ubicación;8,0
+298;WiFi gratis;8,0
+299;Personal;7,7
+299;Instalaciones y servicios;7,4
+299;Limpieza;8,1
+299;Confort;7,9
+299;Relación calidad-precio;7,4
+299;Ubicación;7,9
+299;WiFi gratis;9,0
+300;Personal;7,4
+300;Instalaciones y servicios;7,3
+300;Limpieza;7,9
+300;Confort;8,0
+300;Relación calidad-precio;7,3
+300;Ubicación;8,9
+300;WiFi gratis;9,5
+301;Personal;9,1
+301;Instalaciones y servicios;8,8
+301;Limpieza;9,2
+301;Confort;9,3
+301;Relación calidad-precio;8,7
+301;Ubicación;9,5
+301;WiFi gratis;8,0
+302;Personal;8,1
+302;Instalaciones y servicios;7,0
+302;Limpieza;7,6
+302;Confort;7,3
+302;Relación calidad-precio;7,5
+302;Ubicación;9,0
+302;WiFi gratis;8,3
+303;Personal;9,3
+303;Instalaciones y servicios;7,8
+303;Limpieza;8,7
+303;Confort;8,3
+303;Relación calidad-precio;7,9
+303;Ubicación;8,9
+303;WiFi gratis;8,8
+304;Personal;7,9
+304;Instalaciones y servicios;7,6
+304;Limpieza;8,4
+304;Confort;8,2
+304;Relación calidad-precio;7,8
+304;Ubicación;8,1
+304;WiFi gratis;8,3
+305;Personal;9,0
+305;Instalaciones y servicios;8,5
+305;Limpieza;8,9
+305;Confort;8,7
+305;Relación calidad-precio;8,4
+305;Ubicación;7,6
+305;WiFi gratis;8,3
+306;Personal;9,0
+306;Instalaciones y servicios;8,2
+306;Limpieza;8,6
+306;Confort;8,5
+306;Relación calidad-precio;7,9
+306;Ubicación;7,5
+306;WiFi gratis;7,5
+307;Personal;9,2
+307;Instalaciones y servicios;8,6
+307;Limpieza;9,0
+307;Confort;8,8
+307;Relación calidad-precio;8,4
+307;Ubicación;7,8
+307;WiFi gratis;9,1
+308;Personal;8,4
+308;Instalaciones y servicios;8,2
+308;Limpieza;8,7
+308;Confort;8,3
+308;Relación calidad-precio;8,4
+308;Ubicación;8,3
+308;WiFi gratis;9,5
+309;Personal;8,4
+309;Instalaciones y servicios;7,5
+309;Limpieza;8,4
+309;Confort;8,3
+309;Relación calidad-precio;8,1
+309;Ubicación;9,5
+309;WiFi gratis;8,5
+310;Personal;8,7
+310;Instalaciones y servicios;8,4
+310;Limpieza;8,6
+310;Confort;8,2
+310;Relación calidad-precio;8,2
+310;Ubicación;7,3
+310;WiFi gratis;8,0
+311;Personal;7,8
+311;Instalaciones y servicios;7,8
+311;Limpieza;8,4
+311;Confort;8,4
+311;Relación calidad-precio;8,0
+311;Ubicación;9,5
+311;WiFi gratis;8,7
+312;Personal;9,0
+312;Instalaciones y servicios;8,6
+312;Limpieza;9,0
+312;Confort;8,9
+312;Relación calidad-precio;8,8
+312;Ubicación;8,9
+312;WiFi gratis;8,5
+313;Personal;9,0
+313;Instalaciones y servicios;7,9
+313;Limpieza;8,3
+313;Confort;8,1
+313;Relación calidad-precio;8,4
+313;Ubicación;8,5
+313;WiFi gratis;8,9
+314;Personal;7,9
+314;Instalaciones y servicios;7,8
+314;Limpieza;8,2
+314;Confort;8,3
+314;Relación calidad-precio;8,0
+314;Ubicación;7,1
+314;WiFi gratis;6,7
+315;Personal;8,7
+315;Instalaciones y servicios;8,5
+315;Limpieza;9,1
+315;Confort;8,6
+315;Relación calidad-precio;8,6
+315;Ubicación;8,1
+315;WiFi gratis;8,8
+316;Personal;8,1
+316;Instalaciones y servicios;8,1
+316;Limpieza;8,5
+316;Confort;8,3
+316;Relación calidad-precio;8,2
+316;Ubicación;7,3
+316;WiFi gratis;8,6
+317;Personal;9,1
+317;Instalaciones y servicios;8,1
+317;Limpieza;8,6
+317;Confort;8,4
+317;Relación calidad-precio;8,4
+317;Ubicación;9,6
+317;WiFi gratis;8,6
+318;Personal;9,3
+318;Instalaciones y servicios;7,8
+318;Limpieza;8,5
+318;Confort;8,2
+318;Relación calidad-precio;8,3
+318;Ubicación;9,7
+318;WiFi gratis;8,1
+319;Personal;8,1
+319;Instalaciones y servicios;8,3
+319;Limpieza;8,6
+319;Confort;8,2
+319;Relación calidad-precio;8,2
+319;Ubicación;8,4
+319;WiFi gratis;8,5
+320;Personal;8,9
+320;Instalaciones y servicios;8,7
+320;Limpieza;8,8
+320;Confort;8,7
+320;Relación calidad-precio;8,5
+320;Ubicación;7,9
+320;WiFi gratis;8,5
+321;Personal;8,4
+321;Instalaciones y servicios;7,9
+321;Limpieza;8,6
+321;Confort;8,5
+321;Relación calidad-precio;8,3
+321;Ubicación;9,5
+321;WiFi gratis;7,9
+322;Personal;8,6
+322;Instalaciones y servicios;7,8
+322;Limpieza;7,9
+322;Confort;7,7
+322;Relación calidad-precio;7,7
+322;Ubicación;7,8
+322;WiFi gratis;8,0
+323;Personal;7,7
+323;Instalaciones y servicios;8,3
+323;Limpieza;8,2
+323;Confort;8,1
+323;Relación calidad-precio;8,0
+323;Ubicación;9,2
+323;WiFi gratis;8,4
+324;Personal;8,8
+324;Instalaciones y servicios;8,3
+324;Limpieza;8,5
+324;Confort;8,4
+324;Relación calidad-precio;8,3
+324;Ubicación;9,2
+324;WiFi gratis;9,0
+325;Personal;7,9
+325;Instalaciones y servicios;8,6
+325;Limpieza;8,6
+325;Confort;8,8
+325;Relación calidad-precio;8,4
+325;Ubicación;9,4
+325;WiFi gratis;5,0
+326;Personal;8,5
+326;Instalaciones y servicios;7,7
+326;Limpieza;8,4
+326;Confort;7,9
+326;Relación calidad-precio;8,0
+326;Ubicación;7,6
+326;WiFi gratis;7,8
+327;Personal;7,8
+327;Instalaciones y servicios;8,3
+327;Limpieza;8,6
+327;Confort;8,8
+327;Relación calidad-precio;8,2
+327;Ubicación;8,5
+327;WiFi gratis;8,3
+328;Personal;7,6
+328;Instalaciones y servicios;6,4
+328;Limpieza;6,6
+328;Confort;6,5
+328;Relación calidad-precio;6,6
+328;Ubicación;7,8
+328;WiFi gratis;7,1
+329;Personal;7,0
+329;Instalaciones y servicios;7,6
+329;Limpieza;7,2
+329;Confort;7,6
+329;Relación calidad-precio;7,1
+329;Ubicación;7,2
+329;WiFi gratis;8,0
+330;Personal;8,1
+330;Instalaciones y servicios;6,4
+330;Limpieza;6,7
+330;Confort;6,4
+330;Relación calidad-precio;7,1
+330;Ubicación;9,2
+330;WiFi gratis;7,3
+331;Personal;8,2
+331;Instalaciones y servicios;7,5
+331;Limpieza;7,9
+331;Confort;7,5
+331;Relación calidad-precio;8,1
+331;Ubicación;9,1
+331;WiFi gratis;8,5
+332;Personal;9,6
+332;Instalaciones y servicios;8,8
+332;Limpieza;8,8
+332;Confort;8,7
+332;Relación calidad-precio;8,6
+332;Ubicación;9,6
+332;WiFi gratis;9,1
+333;Personal;7,9
+333;Instalaciones y servicios;6,2
+333;Limpieza;6,4
+333;Confort;6,3
+333;Relación calidad-precio;6,6
+333;Ubicación;8,6
+333;WiFi gratis;7,3
+334;Personal;9,1
+334;Instalaciones y servicios;8,6
+334;Limpieza;8,9
+334;Confort;8,7
+334;Relación calidad-precio;8,8
+334;Ubicación;8,6
+334;WiFi gratis;8,2
+335;Personal;9,5
+335;Instalaciones y servicios;9,2
+335;Limpieza;9,4
+335;Confort;9,3
+335;Relación calidad-precio;9,1
+335;Ubicación;9,6
+335;WiFi gratis;8,2
+336;Personal;9,1
+336;Instalaciones y servicios;8,3
+336;Limpieza;8,7
+336;Confort;8,4
+336;Relación calidad-precio;8,2
+336;Ubicación;8,2
+336;WiFi gratis;8,9
+337;Personal;9,1
+337;Instalaciones y servicios;8,4
+337;Limpieza;8,4
+337;Confort;8,2
+337;Relación calidad-precio;8,4
+337;Ubicación;9,5
+337;WiFi gratis;8,5
+338;Personal;9,0
+338;Instalaciones y servicios;8,2
+338;Limpieza;8,4
+338;Confort;8,4
+338;Relación calidad-precio;8,5
+338;Ubicación;8,7
+338;WiFi gratis;7,2
+339;Personal;9,5
+339;Instalaciones y servicios;8,9
+339;Limpieza;9,0
+339;Confort;8,8
+339;Relación calidad-precio;8,5
+339;Ubicación;9,6
+339;WiFi gratis;8,1
+340;Personal;7,4
+340;Instalaciones y servicios;6,5
+340;Limpieza;6,6
+340;Confort;6,5
+340;Relación calidad-precio;7,0
+340;Ubicación;7,7
+340;WiFi gratis;7,6
+341;Personal;9,1
+341;Instalaciones y servicios;8,0
+341;Limpieza;8,1
+341;Confort;8,0
+341;Relación calidad-precio;8,4
+341;Ubicación;8,6
+341;WiFi gratis;8,5
+342;Personal;8,0
+342;Instalaciones y servicios;6,5
+342;Limpieza;7,1
+342;Confort;7,0
+342;Relación calidad-precio;7,7
+342;Ubicación;9,5
+342;WiFi gratis;8,1
+343;Personal;9,1
+343;Instalaciones y servicios;8,4
+343;Limpieza;8,7
+343;Confort;8,5
+343;Relación calidad-precio;8,2
+343;Ubicación;8,6
+343;WiFi gratis;9,1
+344;Personal;8,8
+344;Instalaciones y servicios;8,7
+344;Limpieza;9,1
+344;Confort;9,2
+344;Relación calidad-precio;8,5
+344;Ubicación;9,7
+344;WiFi gratis;9,2
+345;Personal;8,6
+345;Instalaciones y servicios;7,4
+345;Limpieza;8,1
+345;Confort;7,9
+345;Relación calidad-precio;7,4
+345;Ubicación;8,5
+345;WiFi gratis;8,0
+346;Personal;9,1
+346;Instalaciones y servicios;8,4
+346;Limpieza;8,7
+346;Confort;8,8
+346;Relación calidad-precio;8,2
+346;Ubicación;9,6
+346;WiFi gratis;7,8
+347;Personal;9,3
+347;Instalaciones y servicios;8,6
+347;Limpieza;9,0
+347;Confort;9,2
+347;Relación calidad-precio;8,5
+347;Ubicación;9,5
+347;WiFi gratis;9,2
+348;Personal;9,1
+348;Instalaciones y servicios;8,8
+348;Limpieza;9,3
+348;Confort;9,3
+348;Relación calidad-precio;8,5
+348;Ubicación;9,3
+348;WiFi gratis;9,1
+349;Personal;8,9
+349;Instalaciones y servicios;8,5
+349;Limpieza;8,9
+349;Confort;8,9
+349;Relación calidad-precio;7,9
+349;Ubicación;9,4
+349;WiFi gratis;8,2
+350;Personal;9,2
+350;Instalaciones y servicios;8,7
+350;Limpieza;9,1
+350;Confort;9,0
+350;Relación calidad-precio;8,4
+350;Ubicación;8,9
+350;WiFi gratis;8,2
+351;Personal;9,1
+351;Instalaciones y servicios;8,5
+351;Limpieza;9,0
+351;Confort;8,9
+351;Relación calidad-precio;8,3
+351;Ubicación;9,5
+351;WiFi gratis;8,0
+352;Personal;8,4
+352;Instalaciones y servicios;7,5
+352;Limpieza;8,2
+352;Confort;8,0
+352;Relación calidad-precio;7,4
+352;Ubicación;8,4
+353;Personal;8,8
+353;Instalaciones y servicios;8,4
+353;Limpieza;8,8
+353;Confort;8,7
+353;Relación calidad-precio;8,5
+353;Ubicación;8,1
+353;WiFi gratis;8,8
+354;Personal;8,3
+354;Instalaciones y servicios;6,3
+354;Limpieza;7,0
+354;Confort;6,7
+354;Relación calidad-precio;7,1
+354;Ubicación;9,1
+354;WiFi gratis;7,7
+355;Personal;9,3
+355;Instalaciones y servicios;8,1
+355;Limpieza;8,6
+355;Confort;8,5
+355;Relación calidad-precio;7,8
+355;Ubicación;7,6
+355;WiFi gratis;8,8
+356;Personal;8,6
+356;Instalaciones y servicios;8,4
+356;Limpieza;8,7
+356;Confort;8,7
+356;Relación calidad-precio;8,0
+356;Ubicación;8,4
+356;WiFi gratis;8,3
+357;Personal;8,8
+357;Instalaciones y servicios;8,0
+357;Limpieza;8,3
+357;Confort;8,4
+357;Relación calidad-precio;7,7
+357;Ubicación;8,9
+357;WiFi gratis;8,0
+358;Personal;9,1
+358;Instalaciones y servicios;8,3
+358;Limpieza;8,7
+358;Confort;8,6
+358;Relación calidad-precio;8,1
+358;Ubicación;8,6
+358;WiFi gratis;8,6
+359;Personal;8,3
+359;Instalaciones y servicios;7,7
+359;Limpieza;8,1
+359;Confort;8,0
+359;Relación calidad-precio;7,5
+359;Ubicación;8,7
+359;WiFi gratis;8,2
+360;Personal;8,7
+360;Instalaciones y servicios;8,5
+360;Limpieza;8,8
+360;Confort;8,7
+360;Relación calidad-precio;8,1
+360;Ubicación;8,7
+360;WiFi gratis;8,8
+361;Personal;8,9
+361;Instalaciones y servicios;8,0
+361;Limpieza;8,4
+361;Confort;8,3
+361;Relación calidad-precio;7,5
+361;Ubicación;8,6
+361;WiFi gratis;8,1
+362;Personal;8,9
+362;Instalaciones y servicios;8,4
+362;Limpieza;8,7
+362;Confort;8,6
+362;Relación calidad-precio;8,0
+362;Ubicación;8,8
+362;WiFi gratis;8,4
+363;Personal;9,1
+363;Instalaciones y servicios;7,8
+363;Limpieza;8,3
+363;Confort;8,0
+363;Relación calidad-precio;7,5
+363;Ubicación;8,1
+363;WiFi gratis;7,9
+364;Personal;9,0
+364;Instalaciones y servicios;8,3
+364;Limpieza;8,7
+364;Confort;8,7
+364;Relación calidad-precio;7,9
+364;Ubicación;8,8
+364;WiFi gratis;8,3
+365;Personal;9,0
+365;Instalaciones y servicios;7,7
+365;Limpieza;8,4
+365;Confort;8,1
+365;Relación calidad-precio;7,7
+365;Ubicación;9,1
+365;WiFi gratis;8,4
+366;Personal;9,0
+366;Instalaciones y servicios;8,4
+366;Limpieza;8,6
+366;Confort;8,6
+366;Relación calidad-precio;8,1
+366;Ubicación;9,0
+366;WiFi gratis;8,4
+367;Personal;9,3
+367;Instalaciones y servicios;8,6
+367;Limpieza;9,1
+367;Confort;8,9
+367;Relación calidad-precio;8,8
+367;Ubicación;9,6
+367;WiFi gratis;8,9
+368;Personal;8,9
+368;Instalaciones y servicios;8,1
+368;Limpieza;8,7
+368;Confort;8,6
+368;Relación calidad-precio;7,8
+368;Ubicación;8,9
+368;WiFi gratis;7,4
+369;Personal;7,8
+369;Instalaciones y servicios;6,6
+369;Limpieza;6,9
+369;Confort;6,8
+369;Relación calidad-precio;6,7
+369;Ubicación;8,5
+369;WiFi gratis;7,4
+370;Personal;9,1
+370;Instalaciones y servicios;8,4
+370;Limpieza;8,7
+370;Confort;8,5
+370;Relación calidad-precio;8,4
+370;Ubicación;8,5
+370;WiFi gratis;8,0
+371;Personal;9,2
+371;Instalaciones y servicios;7,4
+371;Limpieza;8,0
+371;Confort;7,7
+371;Relación calidad-precio;8,1
+371;Ubicación;9,4
+371;WiFi gratis;8,1
+372;Personal;9,4
+372;Instalaciones y servicios;8,2
+372;Limpieza;8,7
+372;Confort;8,7
+372;Relación calidad-precio;8,0
+372;Ubicación;9,1
+372;WiFi gratis;9,0
+373;Personal;8,2
+373;Instalaciones y servicios;7,2
+373;Limpieza;7,5
+373;Confort;7,5
+373;Relación calidad-precio;7,1
+373;Ubicación;8,7
+373;WiFi gratis;7,6
+374;Personal;8,6
+374;Instalaciones y servicios;7,6
+374;Limpieza;8,1
+374;Confort;8,1
+374;Relación calidad-precio;7,8
+374;Ubicación;9,1
+374;WiFi gratis;8,4
+375;Personal;9,1
+375;Instalaciones y servicios;8,4
+375;Limpieza;8,5
+375;Confort;8,4
+375;Relación calidad-precio;8,2
+375;Ubicación;9,7
+375;WiFi gratis;8,6
+376;Personal;8,8
+376;Instalaciones y servicios;8,0
+376;Limpieza;8,4
+376;Confort;8,3
+376;Relación calidad-precio;8,0
+376;Ubicación;9,5
+376;WiFi gratis;8,3
+377;Personal;8,0
+377;Instalaciones y servicios;7,2
+377;Limpieza;7,5
+377;Confort;7,5
+377;Relación calidad-precio;7,3
+377;Ubicación;9,4
+378;Personal;8,7
+378;Instalaciones y servicios;7,3
+378;Limpieza;8,2
+378;Confort;7,9
+378;Relación calidad-precio;7,6
+378;Ubicación;8,8
+378;WiFi gratis;8,4
+379;Personal;9,3
+379;Instalaciones y servicios;8,0
+379;Limpieza;8,5
+379;Confort;8,2
+379;Relación calidad-precio;7,8
+379;Ubicación;8,9
+379;WiFi gratis;7,5
+380;Personal;9,4
+380;Instalaciones y servicios;8,4
+380;Limpieza;8,7
+380;Confort;8,7
+380;Relación calidad-precio;8,5
+380;Ubicación;9,5
+380;WiFi gratis;7,6
+381;Personal;8,2
+381;Instalaciones y servicios;7,3
+381;Limpieza;8,0
+381;Confort;8,0
+381;Relación calidad-precio;7,5
+381;Ubicación;9,2
+381;WiFi gratis;8,8
+382;Personal;8,8
+382;Instalaciones y servicios;7,9
+382;Limpieza;8,6
+382;Confort;8,6
+382;Relación calidad-precio;8,0
+382;Ubicación;9,7
+382;WiFi gratis;8,7
+383;Personal;9,4
+383;Instalaciones y servicios;8,7
+383;Limpieza;9,2
+383;Confort;9,0
+383;Relación calidad-precio;8,4
+383;Ubicación;9,1
+383;WiFi gratis;8,9
+384;Personal;8,8
+384;Instalaciones y servicios;7,5
+384;Limpieza;7,8
+384;Confort;7,8
+384;Relación calidad-precio;7,4
+384;Ubicación;8,5
+384;WiFi gratis;7,9
+385;Personal;8,3
+385;Instalaciones y servicios;7,7
+385;Limpieza;8,1
+385;Confort;8,1
+385;Relación calidad-precio;7,5
+385;Ubicación;8,9
+385;WiFi gratis;7,7
+386;Personal;8,7
+386;Instalaciones y servicios;7,5
+386;Limpieza;7,9
+386;Confort;7,7
+386;Relación calidad-precio;7,4
+386;Ubicación;9,3
+386;WiFi gratis;7,3
+387;Personal;9,6
+387;Instalaciones y servicios;8,7
+387;Limpieza;9,2
+387;Confort;8,9
+387;Relación calidad-precio;8,8
+387;Ubicación;9,5
+387;WiFi gratis;8,8
+388;Personal;8,2
+388;Instalaciones y servicios;6,8
+388;Limpieza;7,0
+388;Confort;7,0
+388;Relación calidad-precio;7,1
+388;Ubicación;9,4
+388;WiFi gratis;8,1
+389;Personal;8,7
+389;Instalaciones y servicios;7,2
+389;Limpieza;7,7
+389;Confort;7,6
+389;Relación calidad-precio;7,2
+389;Ubicación;8,8
+389;WiFi gratis;7,4
+390;Personal;7,8
+390;Instalaciones y servicios;7,0
+390;Limpieza;7,1
+390;Confort;7,3
+390;Relación calidad-precio;7,2
+390;Ubicación;8,9
+390;WiFi gratis;8,6
+391;Personal;8,8
+391;Instalaciones y servicios;7,7
+391;Limpieza;7,9
+391;Confort;7,8
+391;Relación calidad-precio;8,0
+391;Ubicación;9,4
+391;WiFi gratis;8,4
+392;Personal;9,3
+392;Instalaciones y servicios;8,8
+392;Limpieza;8,8
+392;Confort;8,6
+392;Relación calidad-precio;8,6
+392;Ubicación;8,5
+392;WiFi gratis;8,9
+393;Personal;8,6
+393;Instalaciones y servicios;7,3
+393;Limpieza;7,6
+393;Confort;7,6
+393;Relación calidad-precio;7,4
+393;Ubicación;8,6
+393;WiFi gratis;8,3
+394;Personal;9,1
+394;Instalaciones y servicios;7,8
+394;Limpieza;8,5
+394;Confort;8,3
+394;Relación calidad-precio;7,8
+394;Ubicación;8,7
+394;WiFi gratis;8,5
+395;Personal;8,5
+395;Instalaciones y servicios;8,9
+395;Limpieza;9,1
+395;Confort;9,1
+395;Relación calidad-precio;8,5
+395;Ubicación;9,5
+395;WiFi gratis;10
+396;Personal;8,9
+396;Instalaciones y servicios;8,1
+396;Limpieza;8,7
+396;Confort;8,4
+396;Relación calidad-precio;8,2
+396;Ubicación;8,7
+396;WiFi gratis;8,8
+397;Personal;8,7
+397;Instalaciones y servicios;8,3
+397;Limpieza;8,5
+397;Confort;8,5
+397;Relación calidad-precio;8,3
+397;Ubicación;9,5
+397;WiFi gratis;7,8
+398;Personal;8,3
+398;Instalaciones y servicios;7,7
+398;Limpieza;7,7
+398;Confort;7,6
+398;Relación calidad-precio;7,9
+398;Ubicación;8,2
+398;WiFi gratis;8,3
+399;Personal;7,6
+399;Instalaciones y servicios;7,1
+399;Limpieza;7,4
+399;Confort;7,2
+399;Relación calidad-precio;7,4
+399;Ubicación;9,1
+399;WiFi gratis;9,3
+400;Personal;7,5
+400;Instalaciones y servicios;6,2
+400;Limpieza;6,3
+400;Confort;6,3
+400;Relación calidad-precio;6,6
+400;Ubicación;8,1
+400;WiFi gratis;7,1
+401;Personal;6,9
+401;Instalaciones y servicios;5,7
+401;Limpieza;6,0
+401;Confort;5,9
+401;Relación calidad-precio;6,4
+401;Ubicación;9,1
+401;WiFi gratis;7,8
+402;Personal;9,0
+402;Instalaciones y servicios;7,7
+402;Limpieza;8,0
+402;Confort;7,4
+402;Relación calidad-precio;8,2
+402;Ubicación;8,3
+402;WiFi gratis;8,5
+403;Personal;8,6
+403;Instalaciones y servicios;7,1
+403;Limpieza;7,9
+403;Confort;7,6
+403;Relación calidad-precio;6,9
+403;Ubicación;8,9
+403;WiFi gratis;8,0
+404;Personal;7,8
+404;Instalaciones y servicios;7,2
+404;Limpieza;7,4
+404;Confort;7,1
+404;Relación calidad-precio;7,4
+404;Ubicación;8,7
+404;WiFi gratis;7,8
+405;Personal;8,8
+405;Instalaciones y servicios;7,9
+405;Limpieza;7,9
+405;Confort;7,8
+405;Relación calidad-precio;7,8
+405;Ubicación;8,0
+405;WiFi gratis;8,9
+406;Personal;8,2
+406;Instalaciones y servicios;6,5
+406;Limpieza;6,9
+406;Confort;6,7
+406;Relación calidad-precio;6,8
+406;Ubicación;8,8
+406;WiFi gratis;7,0
+407;Personal;9,5
+407;Instalaciones y servicios;8,0
+407;Limpieza;8,2
+407;Confort;8,0
+407;Relación calidad-precio;8,3
+407;Ubicación;9,5
+407;WiFi gratis;9,0
+408;Personal;7,6
+408;Instalaciones y servicios;6,7
+408;Limpieza;6,8
+408;Confort;6,6
+408;Relación calidad-precio;6,9
+408;Ubicación;8,1
+408;WiFi gratis;7,0
+409;Personal;9,4
+409;Instalaciones y servicios;8,3
+409;Limpieza;8,8
+409;Confort;8,7
+409;Relación calidad-precio;8,5
+409;Ubicación;9,2
+409;WiFi gratis;8,9
+410;Personal;8,5
+410;Instalaciones y servicios;7,9
+410;Limpieza;7,9
+410;Confort;7,8
+410;Relación calidad-precio;7,7
+410;Ubicación;9,0
+410;WiFi gratis;8,1
+411;Personal;9,5
+411;Instalaciones y servicios;9,2
+411;Limpieza;9,3
+411;Confort;9,2
+411;Relación calidad-precio;8,8
+411;Ubicación;9,6
+411;WiFi gratis;9,1
+412;Personal;7,8
+412;Instalaciones y servicios;7,3
+412;Limpieza;7,3
+412;Confort;7,4
+412;Relación calidad-precio;7,3
+412;Ubicación;8,9
+412;WiFi gratis;8,4
+413;Personal;8,7
+413;Instalaciones y servicios;7,4
+413;Limpieza;7,8
+413;Confort;7,5
+413;Relación calidad-precio;7,6
+413;Ubicación;8,5
+413;WiFi gratis;8,4
+414;Personal;7,7
+414;Instalaciones y servicios;6,3
+414;Limpieza;6,6
+414;Confort;6,6
+414;Relación calidad-precio;6,6
+414;Ubicación;9,0
+414;WiFi gratis;7,4
+415;Personal;9,5
+415;Instalaciones y servicios;7,7
+415;Limpieza;8,2
+415;Confort;7,8
+415;Relación calidad-precio;7,9
+415;Ubicación;8,5
+415;WiFi gratis;9,0
+416;Personal;9,0
+416;Instalaciones y servicios;7,6
+416;Limpieza;7,8
+416;Confort;7,7
+416;Relación calidad-precio;7,6
+416;Ubicación;9,0
+416;WiFi gratis;7,5
+417;Personal;8,9
+417;Instalaciones y servicios;7,8
+417;Limpieza;8,4
+417;Confort;8,2
+417;Relación calidad-precio;8,4
+417;Ubicación;8,4
+417;WiFi gratis;8,4
+418;Personal;9,2
+418;Instalaciones y servicios;7,7
+418;Limpieza;8,3
+418;Confort;8,1
+418;Relación calidad-precio;7,9
+418;Ubicación;9,7
+418;WiFi gratis;8,4
+419;Personal;8,8
+419;Instalaciones y servicios;7,9
+419;Limpieza;8,5
+419;Confort;8,4
+419;Relación calidad-precio;7,9
+419;Ubicación;8,2
+419;WiFi gratis;8,9
+420;Personal;9,5
+420;Instalaciones y servicios;8,7
+420;Limpieza;9,1
+420;Confort;9,0
+420;Relación calidad-precio;8,7
+420;Ubicación;9,7
+420;WiFi gratis;8,8
+421;Personal;8,5
+421;Instalaciones y servicios;7,6
+421;Limpieza;8,2
+421;Confort;8,0
+421;Relación calidad-precio;7,3
+421;Ubicación;8,8
+421;WiFi gratis;8,0
+422;Personal;8,8
+422;Instalaciones y servicios;8,0
+422;Limpieza;8,5
+422;Confort;8,4
+422;Relación calidad-precio;7,8
+422;Ubicación;8,1
+422;WiFi gratis;8,1
+423;Personal;9,2
+423;Instalaciones y servicios;8,6
+423;Limpieza;8,6
+423;Confort;8,5
+423;Relación calidad-precio;8,3
+423;Ubicación;8,7
+423;WiFi gratis;9,0
+424;Personal;8,7
+424;Instalaciones y servicios;8,5
+424;Limpieza;8,4
+424;Confort;8,4
+424;Relación calidad-precio;8,3
+424;Ubicación;8,8
+424;WiFi gratis;8,3
+425;Personal;9,4
+425;Instalaciones y servicios;8,0
+425;Limpieza;8,4
+425;Confort;8,3
+425;Relación calidad-precio;8,3
+425;Ubicación;9,1
+425;WiFi gratis;8,6
+426;Personal;9,3
+426;Instalaciones y servicios;8,8
+426;Limpieza;9,2
+426;Confort;9,2
+426;Relación calidad-precio;8,4
+426;Ubicación;9,7
+426;WiFi gratis;8,5
+427;Personal;9,3
+427;Instalaciones y servicios;8,1
+427;Limpieza;8,6
+427;Confort;8,5
+427;Relación calidad-precio;8,3
+427;Ubicación;9,8
+427;WiFi gratis;8,2
+428;Personal;8,9
+428;Instalaciones y servicios;8,0
+428;Limpieza;8,1
+428;Confort;8,1
+428;Relación calidad-precio;7,7
+428;Ubicación;7,9
+428;WiFi gratis;8,0
+429;Personal;8,7
+429;Instalaciones y servicios;7,8
+429;Limpieza;8,2
+429;Confort;7,9
+429;Relación calidad-precio;7,6
+429;Ubicación;8,5
+429;WiFi gratis;8,0
+430;Personal;9,0
+430;Instalaciones y servicios;8,1
+430;Limpieza;8,7
+430;Confort;8,5
+430;Relación calidad-precio;8,1
+430;Ubicación;7,2
+430;WiFi gratis;8,0
+431;Personal;9,3
+431;Instalaciones y servicios;8,9
+431;Limpieza;9,3
+431;Confort;9,3
+431;Relación calidad-precio;8,9
+431;Ubicación;9,9
+431;WiFi gratis;8,8
+432;Personal;9,0
+432;Instalaciones y servicios;8,4
+432;Limpieza;8,9
+432;Confort;8,8
+432;Relación calidad-precio;8,3
+432;Ubicación;8,4
+432;WiFi gratis;7,3
+433;Personal;8,8
+433;Instalaciones y servicios;8,1
+433;Limpieza;8,6
+433;Confort;8,5
+433;Relación calidad-precio;8,0
+433;Ubicación;8,7
+433;WiFi gratis;8,0
+434;Personal;8,5
+434;Instalaciones y servicios;7,6
+434;Limpieza;8,2
+434;Confort;8,0
+434;Relación calidad-precio;8,0
+434;Ubicación;9,1
+434;WiFi gratis;8,3
+435;Personal;9,2
+435;Instalaciones y servicios;8,6
+435;Limpieza;9,0
+435;Confort;9,0
+435;Relación calidad-precio;8,2
+435;Ubicación;9,6
+435;WiFi gratis;9,0
+436;Personal;9,2
+436;Instalaciones y servicios;9,1
+436;Limpieza;9,5
+436;Confort;9,1
+436;Relación calidad-precio;9,2
+436;Ubicación;8,4
+436;WiFi gratis;9,3
+437;Personal;9,5
+437;Instalaciones y servicios;8,9
+437;Limpieza;9,3
+437;Confort;9,2
+437;Relación calidad-precio;8,7
+437;Ubicación;9,7
+437;WiFi gratis;9,0
+438;Personal;8,4
+438;Instalaciones y servicios;8,7
+438;Limpieza;9,2
+438;Confort;8,9
+438;Relación calidad-precio;8,3
+438;Ubicación;8,2
+438;WiFi gratis;10
+439;Personal;8,0
+439;Instalaciones y servicios;6,5
+439;Limpieza;7,5
+439;Confort;7,0
+439;Relación calidad-precio;7,1
+439;Ubicación;9,4
+439;WiFi gratis;6,8
+440;Personal;9,1
+440;Instalaciones y servicios;8,1
+440;Limpieza;8,5
+440;Confort;8,3
+440;Relación calidad-precio;8,0
+440;Ubicación;9,0
+440;WiFi gratis;8,4
+441;Personal;8,9
+441;Instalaciones y servicios;8,8
+441;Limpieza;9,2
+441;Confort;9,1
+441;Relación calidad-precio;8,5
+441;Ubicación;9,4
+441;WiFi gratis;8,2
+442;Personal;8,3
+442;Instalaciones y servicios;6,8
+442;Limpieza;7,6
+442;Confort;7,2
+442;Relación calidad-precio;8,0
+442;Ubicación;7,8
+442;WiFi gratis;8,1
+443;Personal;8,8
+443;Instalaciones y servicios;8,4
+443;Limpieza;8,8
+443;Confort;8,6
+443;Relación calidad-precio;8,6
+443;Ubicación;9,7
+443;WiFi gratis;8,5
+444;Personal;7,7
+444;Instalaciones y servicios;7,9
+444;Limpieza;8,5
+444;Confort;8,4
+444;Relación calidad-precio;8,4
+444;Ubicación;8,7
+444;WiFi gratis;7,6
+445;Personal;7,9
+445;Instalaciones y servicios;7,6
+445;Limpieza;8,1
+445;Confort;8,0
+445;Relación calidad-precio;7,9
+445;Ubicación;9,2
+445;WiFi gratis;8,1
+446;Personal;9,1
+446;Instalaciones y servicios;8,1
+446;Limpieza;8,6
+446;Confort;8,4
+446;Relación calidad-precio;8,4
+446;Ubicación;9,6
+446;WiFi gratis;9,2
+447;Personal;8,5
+447;Instalaciones y servicios;7,5
+447;Limpieza;8,2
+447;Confort;7,9
+447;Relación calidad-precio;8,0
+447;Ubicación;9,6
+447;WiFi gratis;8,1
+448;Personal;7,7
+448;Instalaciones y servicios;7,9
+448;Limpieza;8,6
+448;Confort;8,4
+448;Relación calidad-precio;8,4
+448;Ubicación;8,4
+448;WiFi gratis;7,7
+449;Personal;7,7
+449;Instalaciones y servicios;7,8
+449;Limpieza;8,5
+449;Confort;8,2
+449;Relación calidad-precio;8,2
+449;Ubicación;7,9
+449;WiFi gratis;7,5
+450;Personal;8,8
+450;Instalaciones y servicios;9,0
+450;Limpieza;9,1
+450;Confort;9,0
+450;Relación calidad-precio;8,4
+450;Ubicación;8,3
+450;WiFi gratis;9,4
+451;Personal;8,8
+451;Instalaciones y servicios;8,9
+451;Limpieza;9,2
+451;Confort;9,2
+451;Relación calidad-precio;8,9
+451;Ubicación;9,7
+451;WiFi gratis;8,7
+452;Personal;7,9
+452;Instalaciones y servicios;7,5
+452;Limpieza;8,1
+452;Confort;8,2
+452;Relación calidad-precio;8,1
+452;Ubicación;9,6
+452;WiFi gratis;8,0
+453;Personal;8,9
+453;Instalaciones y servicios;8,3
+453;Limpieza;8,7
+453;Confort;8,4
+453;Relación calidad-precio;8,1
+453;Ubicación;9,5
+453;WiFi gratis;8,5
+454;Personal;8,3
+454;Instalaciones y servicios;7,3
+454;Limpieza;7,6
+454;Confort;7,4
+454;Relación calidad-precio;7,3
+454;Ubicación;7,4
+454;WiFi gratis;8,4
+455;Personal;10
+455;Instalaciones y servicios;10
+455;Limpieza;10
+455;Confort;10
+455;Relación calidad-precio;10
+455;Ubicación;10
+456;Personal;9,3
+456;Instalaciones y servicios;8,2
+456;Limpieza;8,4
+456;Confort;8,4
+456;Relación calidad-precio;8,7
+456;Ubicación;9,9
+456;WiFi gratis;8,3
+457;Personal;8,7
+457;Instalaciones y servicios;7,9
+457;Limpieza;8,3
+457;Confort;8,2
+457;Relación calidad-precio;8,2
+457;Ubicación;8,1
+457;WiFi gratis;7,7
+458;Personal;8,6
+458;Instalaciones y servicios;7,5
+458;Limpieza;8,2
+458;Confort;7,8
+458;Relación calidad-precio;8,1
+458;Ubicación;8,2
+458;WiFi gratis;8,2
+459;Personal;9,4
+459;Instalaciones y servicios;9,1
+459;Limpieza;9,5
+459;Confort;9,3
+459;Relación calidad-precio;9,2
+459;Ubicación;8,9
+459;WiFi gratis;9,2
+460;Personal;8,7
+460;Instalaciones y servicios;9,3
+460;Limpieza;9,5
+460;Confort;9,5
+460;Relación calidad-precio;9,1
+460;Ubicación;8,6
+461;Personal;9,5
+461;Instalaciones y servicios;8,6
+461;Limpieza;9,0
+461;Confort;8,9
+461;Relación calidad-precio;8,5
+461;Ubicación;8,5
+461;WiFi gratis;8,9
+462;Personal;9,3
+462;Instalaciones y servicios;8,7
+462;Limpieza;9,3
+462;Confort;8,7
+462;Relación calidad-precio;8,8
+462;Ubicación;8,1
+462;WiFi gratis;7,5
+463;Personal;9,9
+463;Instalaciones y servicios;9,0
+463;Limpieza;9,5
+463;Confort;9,3
+463;Relación calidad-precio;9,3
+463;Ubicación;9,9
+463;WiFi gratis;9,0
+464;Personal;8,0
+464;Instalaciones y servicios;8,3
+464;Limpieza;8,9
+464;Confort;8,9
+464;Relación calidad-precio;8,3
+464;Ubicación;9,7
+464;WiFi gratis;7,7
+465;Personal;7,9
+465;Instalaciones y servicios;7,0
+465;Limpieza;7,4
+465;Confort;7,3
+465;Relación calidad-precio;7,2
+465;Ubicación;8,2
+465;WiFi gratis;8,0
+466;Personal;7,8
+466;Instalaciones y servicios;7,1
+466;Limpieza;7,4
+466;Confort;7,1
+466;Relación calidad-precio;7,2
+466;Ubicación;9,0
+466;WiFi gratis;8,5
+467;Personal;7,7
+467;Instalaciones y servicios;7,2
+467;Limpieza;7,4
+467;Confort;7,5
+467;Relación calidad-precio;7,5
+467;Ubicación;8,7
+467;WiFi gratis;7,0
+468;Personal;9,1
+468;Instalaciones y servicios;8,4
+468;Limpieza;8,4
+468;Confort;8,4
+468;Relación calidad-precio;8,4
+468;Ubicación;8,9
+468;WiFi gratis;8,1
+469;Personal;8,8
+469;Instalaciones y servicios;7,8
+469;Limpieza;8,2
+469;Confort;7,9
+469;Relación calidad-precio;8,4
+469;Ubicación;8,9
+469;WiFi gratis;7,7
+470;Personal;8,8
+470;Instalaciones y servicios;8,3
+470;Limpieza;8,5
+470;Confort;8,4
+470;Relación calidad-precio;8,7
+470;Ubicación;9,2
+470;WiFi gratis;8,5
+471;Personal;9,3
+471;Instalaciones y servicios;7,7
+471;Limpieza;8,0
+471;Confort;8,0
+471;Relación calidad-precio;8,1
+471;Ubicación;9,3
+472;Personal;8,8
+472;Instalaciones y servicios;8,0
+472;Limpieza;8,4
+472;Confort;8,2
+472;Relación calidad-precio;8,2
+472;Ubicación;8,0
+472;WiFi gratis;7,8
+473;Personal;8,6
+473;Instalaciones y servicios;9,0
+473;Limpieza;9,2
+473;Confort;9,1
+473;Relación calidad-precio;9,1
+473;Ubicación;8,8
+473;WiFi gratis;8,3
+474;Personal;8,7
+474;Instalaciones y servicios;8,4
+474;Limpieza;8,4
+474;Confort;8,3
+474;Relación calidad-precio;8,5
+474;Ubicación;8,6
+474;WiFi gratis;8,6
+475;Personal;9,1
+475;Instalaciones y servicios;8,2
+475;Limpieza;8,3
+475;Confort;8,2
+475;Relación calidad-precio;8,4
+475;Ubicación;9,3
+475;WiFi gratis;8,5
+476;Personal;6,2
+476;Instalaciones y servicios;5,8
+476;Limpieza;6,8
+476;Confort;6,5
+476;Relación calidad-precio;6,5
+476;Ubicación;8,8
+476;WiFi gratis;7,6
+477;Personal;8,9
+477;Instalaciones y servicios;8,1
+477;Limpieza;8,3
+477;Confort;8,1
+477;Relación calidad-precio;8,4
+477;Ubicación;8,9
+477;WiFi gratis;8,1
+478;Personal;9,3
+478;Instalaciones y servicios;8,5
+478;Limpieza;8,7
+478;Confort;8,6
+478;Relación calidad-precio;8,9
+478;Ubicación;9,6
+478;WiFi gratis;8,6
+479;Personal;8,6
+479;Instalaciones y servicios;7,9
+479;Limpieza;8,1
+479;Confort;7,9
+479;Relación calidad-precio;8,2
+479;Ubicación;8,4
+479;WiFi gratis;8,3
+480;Personal;9,6
+480;Instalaciones y servicios;8,6
+480;Limpieza;8,7
+480;Confort;8,7
+480;Relación calidad-precio;8,7
+480;Ubicación;9,7
+480;WiFi gratis;8,9
+481;Personal;7,8
+481;Instalaciones y servicios;7,2
+481;Limpieza;7,7
+481;Confort;7,6
+481;Relación calidad-precio;7,6
+481;Ubicación;8,0
+481;WiFi gratis;6,6
+482;Personal;9,3
+482;Instalaciones y servicios;8,9
+482;Limpieza;8,6
+482;Confort;8,7
+482;Relación calidad-precio;9,0
+482;Ubicación;9,1
+482;WiFi gratis;8,5
+483;Personal;8,4
+483;Instalaciones y servicios;6,6
+483;Limpieza;7,0
+483;Confort;6,8
+483;Relación calidad-precio;7,1
+483;Ubicación;9,0
+483;WiFi gratis;8,6
+484;Personal;8,9
+484;Instalaciones y servicios;9,2
+484;Limpieza;9,4
+484;Confort;9,3
+484;Relación calidad-precio;9,2
+484;Ubicación;8,4
+484;WiFi gratis;8,9
+485;Personal;8,7
+485;Instalaciones y servicios;7,6
+485;Limpieza;7,7
+485;Confort;7,6
+485;Relación calidad-precio;7,9
+485;Ubicación;9,2
+485;WiFi gratis;8,1
+487;Personal;6,2
+487;Instalaciones y servicios;4,8
+487;Limpieza;4,9
+487;Confort;4,8
+487;Relación calidad-precio;5,6
+487;Ubicación;7,0
+487;WiFi gratis;6,4
+488;Personal;7,7
+488;Instalaciones y servicios;7,1
+488;Limpieza;8,0
+488;Confort;7,3
+488;Relación calidad-precio;7,6
+488;Ubicación;7,9
+488;WiFi gratis;7,1
+489;Personal;9,6
+489;Instalaciones y servicios;9,0
+489;Limpieza;9,0
+489;Confort;8,8
+489;Relación calidad-precio;8,9
+489;Ubicación;8,7
+489;WiFi gratis;9,7
+490;Personal;9,5
+490;Instalaciones y servicios;9,5
+490;Limpieza;9,8
+490;Confort;9,5
+490;Relación calidad-precio;8,5
+490;Ubicación;8,8
+490;WiFi gratis;5,0
+491;Personal;9,4
+491;Instalaciones y servicios;8,8
+491;Limpieza;9,3
+491;Confort;9,0
+491;Relación calidad-precio;9,1
+491;Ubicación;9,6
+491;WiFi gratis;8,4
+492;Personal;9,4
+492;Instalaciones y servicios;8,6
+492;Limpieza;9,0
+492;Confort;8,9
+492;Relación calidad-precio;8,6
+492;Ubicación;9,5
+492;WiFi gratis;8,5
+493;Personal;8,8
+493;Instalaciones y servicios;8,4
+493;Limpieza;8,9
+493;Confort;8,8
+493;Relación calidad-precio;8,5
+493;Ubicación;9,5
+493;WiFi gratis;8,3
+494;Personal;9,4
+494;Instalaciones y servicios;9,0
+494;Limpieza;9,3
+494;Confort;9,3
+494;Relación calidad-precio;9,1
+494;Ubicación;8,7
+494;WiFi gratis;8,6
+495;Personal;9,5
+495;Instalaciones y servicios;8,3
+495;Limpieza;9,1
+495;Confort;8,7
+495;Relación calidad-precio;8,5
+495;Ubicación;8,9
+495;WiFi gratis;8,7
+496;Personal;8,5
+496;Instalaciones y servicios;7,9
+496;Limpieza;8,3
+496;Confort;8,2
+496;Relación calidad-precio;7,6
+496;Ubicación;7,7
+496;WiFi gratis;7,9
+497;Personal;8,9
+497;Instalaciones y servicios;7,8
+497;Limpieza;8,7
+497;Confort;8,4
+497;Relación calidad-precio;8,1
+497;Ubicación;8,5
+497;WiFi gratis;8,5
+498;Personal;9,3
+498;Instalaciones y servicios;8,9
+498;Limpieza;9,2
+498;Confort;9,1
+498;Relación calidad-precio;8,7
+498;Ubicación;8,9
+498;WiFi gratis;9,1
+499;Personal;9,4
+499;Instalaciones y servicios;8,9
+499;Limpieza;9,2
+499;Confort;9,1
+499;Relación calidad-precio;8,7
+499;Ubicación;9,6
+499;WiFi gratis;8,6
+500;Personal;9,0
+500;Instalaciones y servicios;8,0
+500;Limpieza;8,6
+500;Confort;8,5
+500;Relación calidad-precio;8,2
+500;Ubicación;9,6
+500;WiFi gratis;8,1
+501;Personal;8,9
+501;Instalaciones y servicios;8,3
+501;Limpieza;8,8
+501;Confort;8,6
+501;Relación calidad-precio;8,2
+501;Ubicación;8,3
+501;WiFi gratis;8,9
+502;Personal;8,6
+502;Instalaciones y servicios;8,5
+502;Limpieza;8,9
+502;Confort;8,8
+502;Relación calidad-precio;8,6
+502;Ubicación;8,8
+502;WiFi gratis;8,6
+503;Personal;9,0
+503;Instalaciones y servicios;8,5
+503;Limpieza;8,9
+503;Confort;8,9
+503;Relación calidad-precio;8,5
+503;Ubicación;8,8
+503;WiFi gratis;8,6
+504;Personal;8,9
+504;Instalaciones y servicios;8,9
+504;Limpieza;9,3
+504;Confort;9,2
+504;Relación calidad-precio;8,5
+504;Ubicación;9,0
+504;WiFi gratis;8,8
+505;Personal;8,3
+505;Instalaciones y servicios;8,7
+505;Limpieza;9,2
+505;Confort;9,1
+505;Relación calidad-precio;8,8
+505;Ubicación;9,5
+505;WiFi gratis;9,2
+506;Personal;9,4
+506;Instalaciones y servicios;8,6
+506;Limpieza;9,1
+506;Confort;8,9
+506;Relación calidad-precio;8,8
+506;Ubicación;9,7
+506;WiFi gratis;8,9
+507;Personal;9,3
+507;Instalaciones y servicios;9,1
+507;Limpieza;9,4
+507;Confort;9,3
+507;Relación calidad-precio;8,9
+507;Ubicación;9,4
+507;WiFi gratis;8,9
+508;Personal;9,2
+508;Instalaciones y servicios;8,7
+508;Limpieza;9,1
+508;Confort;9,0
+508;Relación calidad-precio;8,3
+508;Ubicación;7,9
+508;WiFi gratis;8,3
+509;Personal;7,6
+509;Instalaciones y servicios;8,4
+509;Limpieza;8,8
+509;Confort;8,7
+509;Relación calidad-precio;8,2
+509;Ubicación;8,5
+509;WiFi gratis;8,1
+510;Personal;8,9
+510;Instalaciones y servicios;7,5
+510;Limpieza;8,3
+510;Confort;8,1
+510;Relación calidad-precio;8,0
+510;Ubicación;9,5
+510;WiFi gratis;8,1
+511;Personal;8,2
+511;Instalaciones y servicios;7,9
+511;Limpieza;8,5
+511;Confort;8,3
+511;Relación calidad-precio;8,0
+511;Ubicación;8,8
+511;WiFi gratis;7,2
+512;Personal;8,0
+512;Instalaciones y servicios;7,5
+512;Limpieza;8,0
+512;Confort;7,8
+512;Relación calidad-precio;7,7
+512;Ubicación;9,4
+512;WiFi gratis;7,7
+513;Personal;8,7
+513;Instalaciones y servicios;7,5
+513;Limpieza;8,1
+513;Confort;7,9
+513;Relación calidad-precio;7,7
+513;Ubicación;9,3
+513;WiFi gratis;8,0
+514;Personal;9,1
+514;Instalaciones y servicios;9,0
+514;Limpieza;9,4
+514;Confort;9,4
+514;Relación calidad-precio;8,5
+514;Ubicación;9,3
+514;WiFi gratis;8,1
+515;Personal;9,2
+515;Instalaciones y servicios;8,1
+515;Limpieza;8,5
+515;Confort;8,2
+515;Relación calidad-precio;8,1
+515;Ubicación;9,1
+515;WiFi gratis;8,3
+516;Personal;8,5
+516;Instalaciones y servicios;8,7
+516;Limpieza;9,1
+516;Confort;9,1
+516;Relación calidad-precio;8,7
+516;Ubicación;9,0
+516;WiFi gratis;8,5
+517;Personal;9,5
+517;Instalaciones y servicios;8,8
+517;Limpieza;9,4
+517;Confort;9,1
+517;Relación calidad-precio;9,1
+517;Ubicación;9,0
+517;WiFi gratis;8,8
+518;Personal;8,6
+518;Instalaciones y servicios;8,2
+518;Limpieza;8,9
+518;Confort;8,6
+518;Relación calidad-precio;8,7
+518;Ubicación;8,7
+518;WiFi gratis;7,8
+519;Personal;9,6
+519;Instalaciones y servicios;8,9
+519;Limpieza;9,3
+519;Confort;9,2
+519;Relación calidad-precio;9,2
+519;Ubicación;9,6
+519;WiFi gratis;9,3
+520;Personal;9,9
+520;Instalaciones y servicios;9,5
+520;Limpieza;9,8
+520;Confort;9,7
+520;Relación calidad-precio;9,4
+520;Ubicación;9,9
+520;WiFi gratis;8,2
+521;Personal;9,4
+521;Instalaciones y servicios;9,0
+521;Limpieza;9,4
+521;Confort;9,3
+521;Relación calidad-precio;9,2
+521;Ubicación;9,7
+521;WiFi gratis;9,0
+522;Personal;8,3
+522;Instalaciones y servicios;7,6
+522;Limpieza;8,3
+522;Confort;7,7
+522;Relación calidad-precio;7,7
+522;Ubicación;9,1
+522;WiFi gratis;7,2
+523;Personal;9,7
+523;Instalaciones y servicios;9,0
+523;Limpieza;9,5
+523;Confort;9,3
+523;Relación calidad-precio;9,2
+523;Ubicación;9,8
+523;WiFi gratis;8,9
+524;Personal;9,4
+524;Instalaciones y servicios;8,5
+524;Limpieza;9,1
+524;Confort;8,8
+524;Relación calidad-precio;8,6
+524;Ubicación;8,2
+524;WiFi gratis;8,8
+525;Personal;9,5
+525;Instalaciones y servicios;8,8
+525;Limpieza;9,2
+525;Confort;9,2
+525;Relación calidad-precio;8,7
+525;Ubicación;9,8
+525;WiFi gratis;8,3
+526;Personal;9,7
+526;Instalaciones y servicios;9,3
+526;Limpieza;9,6
+526;Confort;9,4
+526;Relación calidad-precio;9,3
+526;Ubicación;9,8
+526;WiFi gratis;8,9
+527;Personal;9,1
+527;Instalaciones y servicios;8,3
+527;Limpieza;8,9
+527;Confort;8,8
+527;Relación calidad-precio;8,5
+527;Ubicación;8,7
+527;WiFi gratis;8,2
+528;Personal;8,6
+528;Instalaciones y servicios;8,3
+528;Limpieza;8,6
+528;Confort;8,5
+528;Relación calidad-precio;8,3
+528;Ubicación;8,7
+528;WiFi gratis;8,1
+529;Personal;9,2
+529;Instalaciones y servicios;8,5
+529;Limpieza;8,9
+529;Confort;8,8
+529;Relación calidad-precio;8,5
+529;Ubicación;8,6
+529;WiFi gratis;8,3
+530;Personal;8,7
+530;Instalaciones y servicios;7,0
+530;Limpieza;7,9
+530;Confort;7,5
+530;Relación calidad-precio;7,2
+530;Ubicación;8,8
+530;WiFi gratis;7,5
+531;Personal;9,9
+531;Instalaciones y servicios;9,6
+531;Limpieza;9,9
+531;Confort;9,8
+531;Relación calidad-precio;9,7
+531;Ubicación;10,0
+531;WiFi gratis;9,3
+532;Personal;9,1
+532;Instalaciones y servicios;7,5
+532;Limpieza;8,2
+532;Confort;8,0
+532;Relación calidad-precio;7,9
+532;Ubicación;9,7
+532;WiFi gratis;7,6
+533;Personal;9,2
+533;Instalaciones y servicios;8,4
+533;Limpieza;8,8
+533;Confort;8,7
+533;Relación calidad-precio;8,7
+533;Ubicación;9,0
+533;WiFi gratis;8,5
+534;Personal;9,6
+534;Instalaciones y servicios;9,1
+534;Limpieza;9,5
+534;Confort;9,3
+534;Relación calidad-precio;9,4
+534;Ubicación;9,6
+534;WiFi gratis;8,6
+535;Personal;8,3
+535;Instalaciones y servicios;8,2
+535;Limpieza;8,7
+535;Confort;8,5
+535;Relación calidad-precio;8,3
+535;Ubicación;9,5
+535;WiFi gratis;7,2
+536;Personal;8,2
+536;Instalaciones y servicios;8,2
+536;Limpieza;8,6
+536;Confort;8,5
+536;Relación calidad-precio;8,5
+536;Ubicación;9,5
+536;WiFi gratis;8,2
+537;Personal;9,3
+537;Instalaciones y servicios;8,3
+537;Limpieza;8,7
+537;Confort;8,5
+537;Relación calidad-precio;8,5
+537;Ubicación;9,4
+537;WiFi gratis;8,8
+538;Personal;8,4
+538;Instalaciones y servicios;8,1
+538;Limpieza;8,8
+538;Confort;8,4
+538;Relación calidad-precio;7,9
+538;Ubicación;9,0
+538;WiFi gratis;8,6
+539;Personal;8,6
+539;Instalaciones y servicios;8,6
+539;Limpieza;9,1
+539;Confort;9,0
+539;Relación calidad-precio;8,5
+539;Ubicación;9,6
+539;WiFi gratis;8,9
+540;Personal;9,6
+540;Instalaciones y servicios;9,5
+540;Limpieza;9,5
+540;Confort;9,4
+540;Relación calidad-precio;9,2
+540;Ubicación;9,3
+540;WiFi gratis;8,6
+541;Personal;8,7
+541;Instalaciones y servicios;7,5
+541;Limpieza;7,9
+541;Confort;7,6
+541;Relación calidad-precio;7,7
+541;Ubicación;9,4
+541;WiFi gratis;7,7
+542;Personal;10
+542;Instalaciones y servicios;9,5
+542;Limpieza;9,8
+542;Confort;9,7
+542;Relación calidad-precio;9,3
+542;Ubicación;9,4
+543;Personal;8,5
+543;Instalaciones y servicios;8,3
+543;Limpieza;8,7
+543;Confort;8,6
+543;Relación calidad-precio;8,6
+543;Ubicación;9,0
+543;WiFi gratis;8,3
+544;Personal;8,3
+544;Instalaciones y servicios;8,2
+544;Limpieza;8,8
+544;Confort;8,7
+544;Relación calidad-precio;8,6
+544;Ubicación;9,4
+544;WiFi gratis;8,7
+545;Personal;8,3
+545;Instalaciones y servicios;7,8
+545;Limpieza;8,2
+545;Confort;8,1
+545;Relación calidad-precio;8,3
+545;Ubicación;9,5
+545;WiFi gratis;8,4
+546;Personal;9,1
+546;Instalaciones y servicios;8,3
+546;Limpieza;8,8
+546;Confort;8,6
+546;Relación calidad-precio;8,5
+546;Ubicación;9,0
+546;WiFi gratis;8,5
+547;Personal;9,3
+547;Instalaciones y servicios;8,1
+547;Limpieza;8,7
+547;Confort;8,5
+547;Relación calidad-precio;8,6
+547;Ubicación;9,8
+547;WiFi gratis;8,8
+548;Personal;9,0
+548;Instalaciones y servicios;8,3
+548;Limpieza;8,7
+548;Confort;8,5
+548;Relación calidad-precio;8,4
+548;Ubicación;9,4
+548;WiFi gratis;8,0
+549;Personal;9,0
+549;Instalaciones y servicios;8,2
+549;Limpieza;8,8
+549;Confort;8,6
+549;Relación calidad-precio;8,9
+549;Ubicación;9,8
+549;WiFi gratis;8,9
+550;Personal;9,1
+550;Instalaciones y servicios;8,6
+550;Limpieza;9,1
+550;Confort;9,0
+550;Relación calidad-precio;9,0
+550;Ubicación;9,4
+550;WiFi gratis;8,1
+551;Personal;9,0
+551;Instalaciones y servicios;9,4
+551;Limpieza;9,6
+551;Confort;9,5
+551;Relación calidad-precio;9,2
+551;Ubicación;9,8
+551;WiFi gratis;8,6
+552;Personal;9,6
+552;Instalaciones y servicios;8,8
+552;Limpieza;9,2
+552;Confort;8,8
+552;Relación calidad-precio;8,9
+552;Ubicación;9,7
+552;WiFi gratis;8,3
+553;Personal;8,8
+553;Instalaciones y servicios;7,4
+553;Limpieza;8,3
+553;Confort;7,9
+553;Relación calidad-precio;8,3
+553;Ubicación;9,6
+553;WiFi gratis;8,1
+555;Personal;9,0
+555;Instalaciones y servicios;9,1
+555;Limpieza;9,4
+555;Confort;9,4
+555;Relación calidad-precio;9,1
+555;Ubicación;9,9
+555;WiFi gratis;9,3
+556;Personal;9,7
+556;Instalaciones y servicios;9,4
+556;Limpieza;9,5
+556;Confort;9,5
+556;Relación calidad-precio;9,3
+556;Ubicación;9,9
+556;WiFi gratis;8,8
+557;Personal;9,2
+557;Instalaciones y servicios;8,6
+557;Limpieza;8,9
+557;Confort;8,8
+557;Relación calidad-precio;8,7
+557;Ubicación;8,2
+557;WiFi gratis;8,5
+558;Personal;9,1
+558;Instalaciones y servicios;7,5
+558;Limpieza;8,4
+558;Confort;7,9
+558;Relación calidad-precio;8,3
+558;Ubicación;8,9
+558;WiFi gratis;9,0
+559;Personal;7,3
+559;Instalaciones y servicios;7,9
+559;Limpieza;8,5
+559;Confort;8,4
+559;Relación calidad-precio;8,3
+559;Ubicación;9,6
+559;WiFi gratis;7,5
+560;Personal;9,2
+560;Instalaciones y servicios;8,9
+560;Limpieza;9,3
+560;Confort;9,3
+560;Relación calidad-precio;8,9
+560;Ubicación;9,9
+560;WiFi gratis;8,9
+561;Personal;9,4
+561;Instalaciones y servicios;8,6
+561;Limpieza;9,1
+561;Confort;9,0
+561;Relación calidad-precio;8,5
+561;Ubicación;8,8
+561;WiFi gratis;8,3
+562;Personal;8,1
+562;Instalaciones y servicios;7,9
+562;Limpieza;8,5
+562;Confort;8,4
+562;Relación calidad-precio;8,0
+562;Ubicación;9,5
+562;WiFi gratis;8,9
+563;Personal;8,9
+563;Instalaciones y servicios;7,8
+563;Limpieza;8,3
+563;Confort;8,1
+563;Relación calidad-precio;8,0
+563;Ubicación;8,8
+563;WiFi gratis;8,4
+564;Personal;9,4
+564;Instalaciones y servicios;8,5
+564;Limpieza;8,9
+564;Confort;8,9
+564;Relación calidad-precio;8,6
+564;Ubicación;9,7
+564;WiFi gratis;8,3
+565;Personal;9,0
+565;Instalaciones y servicios;8,7
+565;Limpieza;9,2
+565;Confort;9,2
+565;Relación calidad-precio;8,6
+565;Ubicación;9,7
+565;WiFi gratis;8,6
+566;Personal;8,0
+566;Instalaciones y servicios;6,9
+566;Limpieza;7,8
+566;Confort;7,4
+566;Relación calidad-precio;7,6
+566;Ubicación;9,3
+566;WiFi gratis;8,4
+567;Personal;9,3
+567;Instalaciones y servicios;8,0
+567;Limpieza;8,8
+567;Confort;8,4
+567;Relación calidad-precio;8,7
+567;Ubicación;8,9
+567;WiFi gratis;8,5
+568;Personal;9,0
+568;Instalaciones y servicios;7,6
+568;Limpieza;8,5
+568;Confort;8,1
+568;Relación calidad-precio;8,2
+568;Ubicación;9,7
+568;WiFi gratis;9,0
+569;Personal;8,7
+569;Instalaciones y servicios;8,2
+569;Limpieza;8,7
+569;Confort;8,2
+569;Relación calidad-precio;8,5
+569;Ubicación;9,2
+569;WiFi gratis;8,7
+570;Personal;8,8
+570;Instalaciones y servicios;8,2
+570;Limpieza;8,8
+570;Confort;8,6
+570;Relación calidad-precio;8,8
+570;Ubicación;9,4
+570;WiFi gratis;8,5
+571;Personal;9,1
+571;Instalaciones y servicios;8,0
+571;Limpieza;8,6
+571;Confort;8,3
+571;Relación calidad-precio;8,6
+571;Ubicación;9,8
+571;WiFi gratis;8,4
+572;Personal;9,6
+572;Instalaciones y servicios;9,3
+572;Limpieza;9,6
+572;Confort;9,6
+572;Relación calidad-precio;8,8
+572;Ubicación;9,8
+572;WiFi gratis;8,8
+573;Personal;9,5
+573;Instalaciones y servicios;9,6
+573;Limpieza;9,8
+573;Confort;9,7
+573;Relación calidad-precio;9,1
+573;Ubicación;9,9
+573;WiFi gratis;9,5
+574;Personal;8,6
+574;Instalaciones y servicios;7,9
+574;Limpieza;8,3
+574;Confort;8,2
+574;Relación calidad-precio;8,2
+574;Ubicación;9,6
+574;WiFi gratis;8,4
+575;Personal;8,2
+575;Instalaciones y servicios;8,2
+575;Limpieza;8,8
+575;Confort;8,5
+575;Relación calidad-precio;8,6
+575;Ubicación;9,1
+575;WiFi gratis;8,1
+576;Personal;8,7
+576;Instalaciones y servicios;7,8
+576;Limpieza;8,3
+576;Confort;8,0
+576;Relación calidad-precio;8,6
+576;Ubicación;9,7
+576;WiFi gratis;8,4
+577;Personal;7,3
+577;Instalaciones y servicios;7,3
+577;Limpieza;8,2
+577;Confort;7,8
+577;Relación calidad-precio;7,9
+577;Ubicación;9,5
+577;WiFi gratis;8,2
+578;Personal;7,8
+578;Instalaciones y servicios;7,3
+578;Limpieza;8,2
+578;Confort;7,8
+578;Relación calidad-precio;7,9
+578;Ubicación;8,9
+578;WiFi gratis;7,3
+579;Personal;9,2
+579;Instalaciones y servicios;8,3
+579;Limpieza;9,0
+579;Confort;8,5
+579;Relación calidad-precio;8,8
+579;Ubicación;9,9
+579;WiFi gratis;9,1
+580;Personal;9,2
+580;Instalaciones y servicios;8,0
+580;Limpieza;8,8
+580;Confort;8,4
+580;Relación calidad-precio;8,7
+580;Ubicación;9,3
+580;WiFi gratis;8,1
+581;Personal;9,4
+581;Instalaciones y servicios;8,0
+581;Limpieza;9,0
+581;Confort;8,5
+581;Relación calidad-precio;8,6
+581;Ubicación;9,2
+581;WiFi gratis;8,7
+582;Personal;9,7
+582;Instalaciones y servicios;8,7
+582;Limpieza;9,3
+582;Confort;8,9
+582;Relación calidad-precio;9,2
+582;Ubicación;9,5
+582;WiFi gratis;8,7
+583;Personal;7,9
+583;Instalaciones y servicios;6,7
+583;Limpieza;6,9
+583;Confort;6,9
+583;Relación calidad-precio;7,3
+583;Ubicación;9,0
+583;WiFi gratis;6,6
+584;Personal;7,3
+584;Instalaciones y servicios;7,0
+584;Limpieza;7,7
+584;Confort;7,3
+584;Relación calidad-precio;7,6
+584;Ubicación;9,0
+584;WiFi gratis;8,3
+585;Personal;6,9
+585;Instalaciones y servicios;5,7
+585;Limpieza;7,1
+585;Confort;6,1
+585;Relación calidad-precio;6,0
+585;Ubicación;7,3
+585;WiFi gratis;2,5
+586;Personal;6,8
+586;Instalaciones y servicios;6,1
+586;Limpieza;7,0
+586;Confort;6,6
+586;Relación calidad-precio;7,0
+586;Ubicación;8,6
+586;WiFi gratis;8,4
+587;Personal;8,0
+587;Instalaciones y servicios;7,3
+587;Limpieza;7,8
+587;Confort;7,7
+587;Relación calidad-precio;8,1
+587;Ubicación;9,7
+587;WiFi gratis;9,5
+588;Personal;8,9
+588;Instalaciones y servicios;7,2
+588;Limpieza;8,1
+588;Confort;7,6
+588;Relación calidad-precio;8,0
+588;Ubicación;9,7
+588;WiFi gratis;8,4
+589;Personal;6,8
+589;Instalaciones y servicios;6,4
+589;Limpieza;7,2
+589;Confort;6,9
+589;Relación calidad-precio;7,0
+589;Ubicación;8,5
+589;WiFi gratis;7,0
+590;Personal;7,1
+590;Instalaciones y servicios;7,4
+590;Limpieza;8,0
+590;Confort;8,0
+590;Relación calidad-precio;7,9
+590;Ubicación;9,2
+590;WiFi gratis;7,9
+591;Personal;8,8
+591;Instalaciones y servicios;8,0
+591;Limpieza;8,6
+591;Confort;8,2
+591;Relación calidad-precio;8,5
+591;Ubicación;8,2
+591;WiFi gratis;7,9
+592;Personal;7,1
+592;Instalaciones y servicios;7,3
+592;Limpieza;8,2
+592;Confort;7,9
+592;Relación calidad-precio;8,0
+592;Ubicación;9,4
+592;WiFi gratis;8,1
+593;Personal;7,2
+593;Instalaciones y servicios;7,2
+593;Limpieza;8,0
+593;Confort;7,7
+593;Relación calidad-precio;8,0
+593;Ubicación;9,4
+593;WiFi gratis;8,6
+594;Personal;9,1
+594;Instalaciones y servicios;8,3
+594;Limpieza;8,7
+594;Confort;8,5
+594;Relación calidad-precio;8,1
+594;Ubicación;9,0
+594;WiFi gratis;8,6
+595;Personal;8,7
+595;Instalaciones y servicios;8,5
+595;Limpieza;8,9
+595;Confort;8,9
+595;Relación calidad-precio;8,2
+595;Ubicación;9,0
+595;WiFi gratis;8,0
+596;Personal;9,0
+596;Instalaciones y servicios;8,0
+596;Limpieza;8,7
+596;Confort;8,2
+596;Relación calidad-precio;7,8
+596;Ubicación;8,5
+596;WiFi gratis;8,8
+597;Personal;9,4
+597;Instalaciones y servicios;9,2
+597;Limpieza;9,4
+597;Confort;9,4
+597;Relación calidad-precio;8,8
+597;Ubicación;8,2
+597;WiFi gratis;8,2
+598;Personal;9,3
+598;Instalaciones y servicios;8,9
+598;Limpieza;9,3
+598;Confort;9,4
+598;Relación calidad-precio;8,7
+598;Ubicación;9,8
+598;WiFi gratis;8,9
+599;Personal;8,9
+599;Instalaciones y servicios;8,3
+599;Limpieza;8,8
+599;Confort;8,7
+599;Relación calidad-precio;8,2
+599;Ubicación;7,9
+599;WiFi gratis;8,8
+600;Personal;8,5
+600;Instalaciones y servicios;8,5
+600;Limpieza;8,8
+600;Confort;8,8
+600;Relación calidad-precio;8,2
+600;Ubicación;9,0
+600;WiFi gratis;8,0
+601;Personal;9,3
+601;Instalaciones y servicios;8,5
+601;Limpieza;8,9
+601;Confort;8,9
+601;Relación calidad-precio;8,5
+601;Ubicación;9,6
+601;WiFi gratis;8,5
+602;Personal;9,2
+602;Instalaciones y servicios;8,9
+602;Limpieza;9,3
+602;Confort;9,1
+602;Relación calidad-precio;8,5
+602;Ubicación;7,3
+602;WiFi gratis;8,3
+603;Personal;8,8
+603;Instalaciones y servicios;8,5
+603;Limpieza;8,9
+603;Confort;8,9
+603;Relación calidad-precio;8,3
+603;Ubicación;9,7
+603;WiFi gratis;8,6
+604;Personal;9,4
+604;Instalaciones y servicios;8,5
+604;Limpieza;9,0
+604;Confort;8,8
+604;Relación calidad-precio;8,4
+604;Ubicación;9,6
+604;WiFi gratis;8,7
+605;Personal;9,5
+605;Instalaciones y servicios;9,2
+605;Limpieza;9,5
+605;Confort;9,5
+605;Relación calidad-precio;9,0
+605;Ubicación;9,3
+605;WiFi gratis;9,4
+606;Personal;9,1
+606;Instalaciones y servicios;8,7
+606;Limpieza;9,2
+606;Confort;9,2
+606;Relación calidad-precio;8,5
+606;Ubicación;9,5
+606;WiFi gratis;8,7
+607;Personal;8,8
+607;Instalaciones y servicios;8,4
+607;Limpieza;8,9
+607;Confort;8,9
+607;Relación calidad-precio;7,9
+607;Ubicación;9,4
+607;WiFi gratis;8,0
+608;Personal;9,1
+608;Instalaciones y servicios;8,2
+608;Limpieza;8,6
+608;Confort;8,6
+608;Relación calidad-precio;7,7
+608;Ubicación;8,7
+609;Personal;9,6
+609;Instalaciones y servicios;9,2
+609;Limpieza;9,4
+609;Confort;9,5
+609;Relación calidad-precio;9,3
+609;Ubicación;9,8
+609;WiFi gratis;8,9
+610;Personal;9,2
+610;Instalaciones y servicios;8,6
+610;Limpieza;8,9
+610;Confort;9,0
+610;Relación calidad-precio;8,2
+610;Ubicación;9,5
+610;WiFi gratis;8,3
+611;Personal;9,5
+611;Instalaciones y servicios;8,9
+611;Limpieza;9,3
+611;Confort;9,2
+611;Relación calidad-precio;8,9
+611;Ubicación;9,7
+611;WiFi gratis;9,2
+612;Personal;9,0
+612;Instalaciones y servicios;9,1
+612;Limpieza;9,4
+612;Confort;9,4
+612;Relación calidad-precio;8,6
+612;Ubicación;9,0
+612;WiFi gratis;8,7
+613;Personal;8,8
+613;Instalaciones y servicios;8,6
+613;Limpieza;9,0
+613;Confort;9,0
+613;Relación calidad-precio;7,9
+613;Ubicación;8,1
+613;WiFi gratis;7,8
+614;Personal;9,2
+614;Instalaciones y servicios;8,7
+614;Limpieza;9,0
+614;Confort;9,0
+614;Relación calidad-precio;8,2
+614;Ubicación;9,1
+614;WiFi gratis;8,7
+615;Personal;8,9
+615;Instalaciones y servicios;7,7
+615;Limpieza;8,2
+615;Confort;8,0
+615;Relación calidad-precio;7,9
+615;Ubicación;8,1
+615;WiFi gratis;8,4
+616;Personal;9,0
+616;Instalaciones y servicios;8,6
+616;Limpieza;9,0
+616;Confort;9,0
+616;Relación calidad-precio;8,0
+616;Ubicación;9,5
+616;WiFi gratis;7,5
+617;Personal;9,5
+617;Instalaciones y servicios;9,0
+617;Limpieza;9,4
+617;Confort;9,5
+617;Relación calidad-precio;8,8
+617;Ubicación;9,8
+617;WiFi gratis;9,1
+618;Personal;9,4
+618;Instalaciones y servicios;8,9
+618;Limpieza;9,3
+618;Confort;9,3
+618;Relación calidad-precio;8,6
+618;Ubicación;9,6
+618;WiFi gratis;8,8
+619;Personal;9,1
+619;Instalaciones y servicios;8,6
+619;Limpieza;9,0
+619;Confort;8,9
+619;Relación calidad-precio;8,5
+619;Ubicación;9,5
+619;WiFi gratis;8,6
+620;Personal;9,2
+620;Instalaciones y servicios;8,8
+620;Limpieza;9,0
+620;Confort;9,0
+620;Relación calidad-precio;8,8
+620;Ubicación;9,7
+620;WiFi gratis;8,6
+621;Personal;9,0
+621;Instalaciones y servicios;9,1
+621;Limpieza;9,3
+621;Confort;9,3
+621;Relación calidad-precio;9,0
+621;Ubicación;9,7
+621;WiFi gratis;8,5
+622;Personal;9,2
+622;Instalaciones y servicios;8,3
+622;Limpieza;8,7
+622;Confort;8,6
+622;Relación calidad-precio;8,3
+622;Ubicación;9,6
+622;WiFi gratis;8,7
+623;Personal;8,7
+623;Instalaciones y servicios;8,3
+623;Limpieza;8,7
+623;Confort;8,6
+623;Relación calidad-precio;8,6
+623;Ubicación;9,7
+623;WiFi gratis;9,0
+624;Personal;9,2
+624;Instalaciones y servicios;8,6
+624;Limpieza;9,0
+624;Confort;8,8
+624;Relación calidad-precio;8,4
+624;Ubicación;9,2
+624;WiFi gratis;8,9
+625;Personal;9,1
+625;Instalaciones y servicios;8,0
+625;Limpieza;8,7
+625;Confort;8,6
+625;Relación calidad-precio;8,2
+625;Ubicación;9,5
+625;WiFi gratis;7,7
+626;Personal;9,3
+626;Instalaciones y servicios;9,2
+626;Limpieza;9,5
+626;Confort;9,4
+626;Relación calidad-precio;9,1
+626;Ubicación;9,5
+626;WiFi gratis;9,1
+627;Personal;9,2
+627;Instalaciones y servicios;8,2
+627;Limpieza;8,8
+627;Confort;8,7
+627;Relación calidad-precio;8,5
+627;Ubicación;9,7
+627;WiFi gratis;9,0
+628;Personal;7,7
+628;Instalaciones y servicios;8,0
+628;Limpieza;8,3
+628;Confort;8,4
+628;Relación calidad-precio;8,2
+628;Ubicación;9,2
+628;WiFi gratis;8,3
+629;Personal;8,4
+629;Instalaciones y servicios;8,4
+629;Limpieza;9,0
+629;Confort;8,8
+629;Relación calidad-precio;8,4
+629;Ubicación;9,5
+629;WiFi gratis;8,9
+630;Personal;8,8
+630;Instalaciones y servicios;8,8
+630;Limpieza;9,2
+630;Confort;9,1
+630;Relación calidad-precio;8,7
+630;Ubicación;9,7
+630;WiFi gratis;8,3
+631;Personal;7,4
+631;Instalaciones y servicios;7,8
+631;Limpieza;8,1
+631;Confort;8,1
+631;Relación calidad-precio;8,0
+631;Ubicación;8,7
+631;WiFi gratis;8,5
+632;Personal;8,3
+632;Instalaciones y servicios;8,1
+632;Limpieza;8,6
+632;Confort;8,4
+632;Relación calidad-precio;8,2
+632;Ubicación;9,4
+632;WiFi gratis;8,5
+633;Personal;8,9
+633;Instalaciones y servicios;8,1
+633;Limpieza;8,5
+633;Confort;8,3
+633;Relación calidad-precio;8,1
+633;Ubicación;8,5
+633;WiFi gratis;8,3
+634;Personal;9,3
+634;Instalaciones y servicios;8,0
+634;Limpieza;8,6
+634;Confort;8,4
+634;Relación calidad-precio;9,0
+634;Ubicación;9,6
+634;WiFi gratis;7,9
+635;Personal;6,9
+635;Instalaciones y servicios;8,1
+635;Limpieza;8,3
+635;Confort;8,0
+635;Relación calidad-precio;7,8
+635;Ubicación;9,4
+635;WiFi gratis;10
+636;Personal;8,9
+636;Instalaciones y servicios;7,7
+636;Limpieza;8,4
+636;Confort;8,1
+636;Relación calidad-precio;7,9
+636;Ubicación;8,2
+636;WiFi gratis;7,5
+637;Personal;8,8
+637;Instalaciones y servicios;8,2
+637;Limpieza;8,9
+637;Confort;8,7
+637;Relación calidad-precio;8,4
+637;Ubicación;9,7
+637;WiFi gratis;8,6
+638;Personal;8,1
+638;Instalaciones y servicios;8,3
+638;Limpieza;8,8
+638;Confort;8,8
+638;Relación calidad-precio;8,0
+638;Ubicación;8,7
+638;WiFi gratis;8,3
+639;Personal;8,2
+639;Instalaciones y servicios;7,9
+639;Limpieza;8,6
+639;Confort;8,4
+639;Relación calidad-precio;8,1
+639;Ubicación;8,9
+639;WiFi gratis;9,5
+640;Personal;7,7
+640;Instalaciones y servicios;7,9
+640;Limpieza;8,3
+640;Confort;8,1
+640;Relación calidad-precio;8,0
+640;Ubicación;7,9
+640;WiFi gratis;7,7
+641;Personal;8,5
+641;Instalaciones y servicios;7,3
+641;Limpieza;7,9
+641;Confort;7,7
+641;Relación calidad-precio;8,0
+641;Ubicación;9,4
+641;WiFi gratis;7,6
+642;Personal;7,4
+642;Instalaciones y servicios;7,9
+642;Limpieza;8,3
+642;Confort;8,2
+642;Relación calidad-precio;8,1
+642;Ubicación;7,2
+642;WiFi gratis;9,4
+643;Personal;8,8
+643;Instalaciones y servicios;7,2
+643;Limpieza;7,7
+643;Confort;7,5
+643;Relación calidad-precio;7,5
+643;Ubicación;7,3
+644;Personal;9,4
+644;Instalaciones y servicios;9,0
+644;Limpieza;9,1
+644;Confort;9,1
+644;Relación calidad-precio;8,7
+644;Ubicación;9,7
+644;WiFi gratis;8,9
+645;Personal;8,8
+645;Instalaciones y servicios;8,0
+645;Limpieza;7,9
+645;Confort;7,7
+645;Relación calidad-precio;8,5
+645;Ubicación;7,7
+645;WiFi gratis;8,7
+646;Personal;9,1
+646;Instalaciones y servicios;7,8
+646;Limpieza;7,8
+646;Confort;7,7
+646;Relación calidad-precio;8,1
+646;Ubicación;8,9
+646;WiFi gratis;8,5
+647;Personal;8,7
+647;Instalaciones y servicios;7,5
+647;Limpieza;8,0
+647;Confort;7,6
+647;Relación calidad-precio;7,7
+647;Ubicación;7,5
+647;WiFi gratis;8,5
+648;Personal;8,6
+648;Instalaciones y servicios;8,1
+648;Limpieza;8,3
+648;Confort;8,1
+648;Relación calidad-precio;7,8
+648;Ubicación;9,3
+648;WiFi gratis;7,8
+649;Personal;7,2
+649;Instalaciones y servicios;7,5
+649;Limpieza;7,9
+649;Confort;7,8
+649;Relación calidad-precio;8,0
+649;Ubicación;8,8
+649;WiFi gratis;8,7
+650;Personal;8,7
+650;Instalaciones y servicios;8,0
+650;Limpieza;8,2
+650;Confort;8,0
+650;Relación calidad-precio;7,9
+650;Ubicación;7,1
+650;WiFi gratis;8,4
+651;Personal;8,2
+651;Instalaciones y servicios;7,4
+651;Limpieza;7,7
+651;Confort;7,6
+651;Relación calidad-precio;8,1
+651;Ubicación;8,9
+651;WiFi gratis;9,1
+652;Personal;9,1
+652;Instalaciones y servicios;7,6
+652;Limpieza;7,5
+652;Confort;7,5
+652;Relación calidad-precio;8,2
+652;Ubicación;9,3
+652;WiFi gratis;7,9
+653;Personal;8,7
+653;Instalaciones y servicios;8,3
+653;Limpieza;8,4
+653;Confort;8,2
+653;Relación calidad-precio;8,5
+653;Ubicación;8,1
+653;WiFi gratis;8,9
+654;Personal;7,6
+654;Instalaciones y servicios;6,5
+654;Limpieza;6,7
+654;Confort;6,4
+654;Relación calidad-precio;7,1
+654;Ubicación;7,9
+654;WiFi gratis;8,0
+655;Personal;7,9
+655;Instalaciones y servicios;7,3
+655;Limpieza;7,4
+655;Confort;7,2
+655;Relación calidad-precio;7,3
+655;Ubicación;7,8
+655;WiFi gratis;7,9
+656;Personal;9,3
+656;Instalaciones y servicios;9,1
+656;Limpieza;9,2
+656;Confort;9,1
+656;Relación calidad-precio;8,9
+656;Ubicación;8,0
+656;WiFi gratis;10
+657;Personal;8,8
+657;Instalaciones y servicios;8,2
+657;Limpieza;8,4
+657;Confort;8,1
+657;Relación calidad-precio;8,2
+657;Ubicación;8,4
+657;WiFi gratis;8,2
+658;Personal;9,3
+658;Instalaciones y servicios;9,0
+658;Limpieza;9,0
+658;Confort;8,7
+658;Relación calidad-precio;8,8
+658;Ubicación;9,1
+658;WiFi gratis;9,1
+659;Personal;9,9
+659;Instalaciones y servicios;9,3
+659;Limpieza;9,6
+659;Confort;9,5
+659;Relación calidad-precio;9,6
+659;Ubicación;9,2
+659;WiFi gratis;9,5
+660;Personal;9,2
+660;Instalaciones y servicios;8,6
+660;Limpieza;9,0
+660;Confort;9,0
+660;Relación calidad-precio;8,9
+660;Ubicación;8,6
+660;WiFi gratis;6,5
+661;Personal;8,9
+661;Instalaciones y servicios;8,6
+661;Limpieza;9,1
+661;Confort;9,1
+661;Relación calidad-precio;8,9
+661;Ubicación;9,7
+661;WiFi gratis;8,8
+662;Personal;8,8
+662;Instalaciones y servicios;7,8
+662;Limpieza;8,5
+662;Confort;8,3
+662;Relación calidad-precio;8,2
+662;Ubicación;9,7
+662;WiFi gratis;8,2
+663;Personal;9,3
+663;Instalaciones y servicios;8,3
+663;Limpieza;8,8
+663;Confort;8,6
+663;Relación calidad-precio;8,4
+663;Ubicación;8,5
+663;WiFi gratis;8,0
+664;Personal;8,8
+664;Instalaciones y servicios;8,0
+664;Limpieza;8,7
+664;Confort;8,6
+664;Relación calidad-precio;8,1
+664;Ubicación;8,6
+664;WiFi gratis;7,7
+665;Personal;9,6
+665;Instalaciones y servicios;8,8
+665;Limpieza;9,3
+665;Confort;9,2
+665;Relación calidad-precio;9,0
+665;Ubicación;9,8
+665;WiFi gratis;9,0
+666;Personal;8,9
+666;Instalaciones y servicios;8,2
+666;Limpieza;8,6
+666;Confort;8,6
+666;Relación calidad-precio;8,4
+666;Ubicación;9,0
+666;WiFi gratis;8,4
+667;Personal;8,9
+667;Instalaciones y servicios;7,6
+667;Limpieza;8,3
+667;Confort;8,0
+667;Relación calidad-precio;8,0
+667;Ubicación;7,9
+667;WiFi gratis;8,0
+668;Personal;9,1
+668;Instalaciones y servicios;8,1
+668;Limpieza;8,7
+668;Confort;8,2
+668;Relación calidad-precio;8,3
+668;Ubicación;8,1
+668;WiFi gratis;8,3
+669;Personal;8,8
+669;Instalaciones y servicios;7,6
+669;Limpieza;8,5
+669;Confort;8,4
+669;Relación calidad-precio;8,2
+669;Ubicación;9,8
+669;WiFi gratis;8,3
+670;Personal;8,8
+670;Instalaciones y servicios;7,8
+670;Limpieza;8,5
+670;Confort;8,3
+670;Relación calidad-precio;8,3
+670;Ubicación;9,5
+670;WiFi gratis;8,2
+671;Personal;8,7
+671;Instalaciones y servicios;8,1
+671;Limpieza;8,7
+671;Confort;8,5
+671;Relación calidad-precio;8,3
+671;Ubicación;9,0
+671;WiFi gratis;8,1
+672;Personal;9,0
+672;Instalaciones y servicios;8,1
+672;Limpieza;8,6
+672;Confort;8,5
+672;Relación calidad-precio;8,5
+672;Ubicación;9,7
+672;WiFi gratis;8,8
+673;Personal;9,3
+673;Instalaciones y servicios;9,0
+673;Limpieza;9,3
+673;Confort;9,3
+673;Relación calidad-precio;8,8
+673;Ubicación;9,7
+673;WiFi gratis;9,1
+674;Personal;9,3
+674;Instalaciones y servicios;8,4
+674;Limpieza;9,0
+674;Confort;8,8
+674;Relación calidad-precio;8,6
+674;Ubicación;9,8
+674;WiFi gratis;8,9
+675;Personal;8,4
+675;Instalaciones y servicios;7,8
+675;Limpieza;8,3
+675;Confort;8,1
+675;Relación calidad-precio;7,8
+675;Ubicación;7,4
+675;WiFi gratis;7,9
+676;Personal;9,1
+676;Instalaciones y servicios;8,4
+676;Limpieza;8,8
+676;Confort;8,6
+676;Relación calidad-precio;8,6
+676;Ubicación;9,6
+676;WiFi gratis;8,8
+677;Personal;9,4
+677;Instalaciones y servicios;8,5
+677;Limpieza;8,9
+677;Confort;8,8
+677;Relación calidad-precio;8,5
+677;Ubicación;9,7
+677;WiFi gratis;9,1
+678;Personal;9,1
+678;Instalaciones y servicios;8,6
+678;Limpieza;9,0
+678;Confort;9,0
+678;Relación calidad-precio;8,3
+678;Ubicación;9,7
+678;WiFi gratis;8,8
+679;Personal;9,1
+679;Instalaciones y servicios;8,7
+679;Limpieza;9,1
+679;Confort;9,1
+679;Relación calidad-precio;8,5
+679;Ubicación;9,6
+679;WiFi gratis;8,4
+680;Personal;8,9
+680;Instalaciones y servicios;8,2
+680;Limpieza;8,8
+680;Confort;8,4
+680;Relación calidad-precio;8,4
+680;Ubicación;8,1
+680;WiFi gratis;8,1
+681;Personal;8,7
+681;Instalaciones y servicios;8,4
+681;Limpieza;8,9
+681;Confort;8,8
+681;Relación calidad-precio;8,3
+681;Ubicación;8,2
+681;WiFi gratis;8,1
+682;Personal;8,7
+682;Instalaciones y servicios;7,9
+682;Limpieza;8,5
+682;Confort;8,3
+682;Relación calidad-precio;7,9
+682;Ubicación;9,3
+682;WiFi gratis;8,1
+683;Personal;9,2
+683;Instalaciones y servicios;8,8
+683;Limpieza;9,1
+683;Confort;9,0
+683;Relación calidad-precio;8,6
+683;Ubicación;8,8
+683;WiFi gratis;8,5
+684;Personal;9,2
+684;Instalaciones y servicios;8,6
+684;Limpieza;9,0
+684;Confort;8,9
+684;Relación calidad-precio;8,5
+684;Ubicación;8,4
+684;WiFi gratis;8,0
+685;Personal;8,8
+685;Instalaciones y servicios;7,8
+685;Limpieza;8,5
+685;Confort;8,2
+685;Relación calidad-precio;8,1
+685;Ubicación;8,2
+685;WiFi gratis;7,9
+686;Personal;9,4
+686;Instalaciones y servicios;8,0
+686;Limpieza;8,7
+686;Confort;8,2
+686;Relación calidad-precio;8,8
+686;Ubicación;9,5
+686;WiFi gratis;8,9
+687;Personal;7,4
+687;Instalaciones y servicios;7,1
+687;Limpieza;8,0
+687;Confort;7,6
+687;Relación calidad-precio;7,7
+687;Ubicación;8,2
+688;Personal;9,2
+688;Instalaciones y servicios;7,7
+688;Limpieza;8,5
+688;Confort;8,2
+688;Relación calidad-precio;8,8
+688;Ubicación;9,6
+688;WiFi gratis;8,4
+689;Personal;9,3
+689;Instalaciones y servicios;8,7
+689;Limpieza;9,3
+689;Confort;9,1
+689;Relación calidad-precio;9,0
+689;Ubicación;9,8
+689;WiFi gratis;8,8
+690;Personal;8,8
+690;Instalaciones y servicios;8,2
+690;Limpieza;8,6
+690;Confort;8,2
+690;Relación calidad-precio;8,5
+690;Ubicación;8,5
+690;WiFi gratis;8,6
+691;Personal;8,9
+691;Instalaciones y servicios;7,6
+691;Limpieza;8,1
+691;Confort;7,7
+691;Relación calidad-precio;7,8
+691;Ubicación;9,1
+691;WiFi gratis;8,0
+692;Personal;8,8
+692;Instalaciones y servicios;7,7
+692;Limpieza;8,3
+692;Confort;8,0
+692;Relación calidad-precio;8,2
+692;Ubicación;9,2
+692;WiFi gratis;8,6
+693;Personal;8,6
+693;Instalaciones y servicios;7,1
+693;Limpieza;7,9
+693;Confort;7,3
+693;Relación calidad-precio;7,7
+693;Ubicación;8,3
+693;WiFi gratis;8,1
+694;Personal;8,6
+694;Instalaciones y servicios;7,5
+694;Limpieza;8,1
+694;Confort;7,5
+694;Relación calidad-precio;8,0
+694;Ubicación;8,3
+694;WiFi gratis;8,0
+695;Personal;9,6
+695;Instalaciones y servicios;8,7
+695;Limpieza;9,3
+695;Confort;9,2
+695;Relación calidad-precio;9,3
+695;Ubicación;8,8
+695;WiFi gratis;8,7
+696;Personal;8,7
+696;Instalaciones y servicios;6,7
+696;Limpieza;7,3
+696;Confort;7,2
+696;Relación calidad-precio;7,2
+696;Ubicación;9,2
+696;WiFi gratis;7,9
+697;Personal;7,9
+697;Instalaciones y servicios;7,7
+697;Limpieza;8,5
+697;Confort;8,1
+697;Relación calidad-precio;8,5
+697;Ubicación;8,5
+697;WiFi gratis;7,0
+698;Personal;7,6
+698;Instalaciones y servicios;6,4
+698;Limpieza;6,3
+698;Confort;6,6
+698;Relación calidad-precio;7,6
+698;Ubicación;9,0
+698;WiFi gratis;10
+699;Personal;7,9
+699;Instalaciones y servicios;6,5
+699;Limpieza;7,1
+699;Confort;6,6
+699;Relación calidad-precio;7,0
+699;Ubicación;7,9
+699;WiFi gratis;9,0
+701;Personal;7,0
+701;Instalaciones y servicios;6,5
+701;Limpieza;7,3
+701;Confort;7,1
+701;Relación calidad-precio;7,1
+701;Ubicación;7,9
+701;WiFi gratis;7,5
+702;Personal;8,5
+702;Instalaciones y servicios;8,5
+702;Limpieza;8,0
+702;Confort;8,5
+702;Relación calidad-precio;7,5
+702;Ubicación;9,5
+703;Personal;6,6
+703;Instalaciones y servicios;6,7
+703;Limpieza;7,4
+703;Confort;6,8
+703;Relación calidad-precio;7,2
+703;Ubicación;8,2
+703;WiFi gratis;5,0
+704;Personal;9,5
+704;Instalaciones y servicios;8,7
+704;Limpieza;9,1
+704;Confort;8,8
+704;Relación calidad-precio;9,0
+704;Ubicación;8,9
+704;WiFi gratis;6,7
+705;Personal;8,3
+705;Instalaciones y servicios;7,1
+705;Limpieza;7,4
+705;Confort;7,6
+705;Relación calidad-precio;7,5
+705;Ubicación;8,0
+706;Personal;9,8
+706;Instalaciones y servicios;9,5
+706;Limpieza;9,7
+706;Confort;9,7
+706;Relación calidad-precio;9,3
+706;Ubicación;9,0
+706;WiFi gratis;10
+707;Personal;8,2
+707;Instalaciones y servicios;7,4
+707;Limpieza;8,0
+707;Confort;7,8
+707;Relación calidad-precio;8,2
+707;Ubicación;7,9
+707;WiFi gratis;6,9
+708;Personal;7,9
+708;Instalaciones y servicios;6,0
+708;Limpieza;7,5
+708;Confort;6,9
+708;Relación calidad-precio;7,3
+708;Ubicación;7,5
+709;Personal;9,3
+709;Instalaciones y servicios;7,9
+709;Limpieza;8,7
+709;Confort;8,1
+709;Relación calidad-precio;8,7
+709;Ubicación;9,3
+709;WiFi gratis;8,3
+710;Personal;7,6
+710;Instalaciones y servicios;8,0
+710;Limpieza;8,3
+710;Confort;7,9
+710;Relación calidad-precio;8,0
+710;Ubicación;7,4
+710;WiFi gratis;8,9
+711;Personal;8,2
+711;Instalaciones y servicios;7,2
+711;Limpieza;7,1
+711;Confort;7,3
+711;Relación calidad-precio;7,6
+711;Ubicación;7,2
+711;WiFi gratis;6,8
+712;Personal;8,2
+712;Instalaciones y servicios;7,6
+712;Limpieza;8,4
+712;Confort;7,9
+712;Relación calidad-precio;8,1
+712;Ubicación;8,6
+712;WiFi gratis;7,6
+713;Personal;8,0
+713;Instalaciones y servicios;6,3
+713;Limpieza;6,5
+713;Confort;6,4
+713;Relación calidad-precio;6,9
+713;Ubicación;8,3
+713;WiFi gratis;6,2
+714;Personal;9,1
+714;Instalaciones y servicios;8,1
+714;Limpieza;8,5
+714;Confort;8,5
+714;Relación calidad-precio;8,9
+714;Ubicación;9,6
+714;WiFi gratis;8,3
+715;Personal;8,4
+715;Instalaciones y servicios;7,9
+715;Limpieza;8,4
+715;Confort;8,3
+715;Relación calidad-precio;8,3
+715;Ubicación;9,4
+715;WiFi gratis;8,4
+716;Personal;8,6
+716;Instalaciones y servicios;7,8
+716;Limpieza;8,1
+716;Confort;8,1
+716;Relación calidad-precio;8,4
+716;Ubicación;8,7
+716;WiFi gratis;8,9
+717;Personal;8,9
+717;Instalaciones y servicios;8,7
+717;Limpieza;9,0
+717;Confort;9,0
+717;Relación calidad-precio;8,6
+717;Ubicación;9,1
+717;WiFi gratis;7,8
+718;Personal;9,7
+718;Instalaciones y servicios;9,6
+718;Limpieza;9,7
+718;Confort;9,6
+718;Relación calidad-precio;9,7
+718;Ubicación;9,7
+718;WiFi gratis;9,0
+719;Personal;8,9
+719;Instalaciones y servicios;8,3
+719;Limpieza;8,6
+719;Confort;8,5
+719;Relación calidad-precio;8,6
+719;Ubicación;7,9
+719;WiFi gratis;8,4
+720;Personal;9,9
+720;Instalaciones y servicios;9,4
+720;Limpieza;9,7
+720;Confort;9,6
+720;Relación calidad-precio;9,6
+720;Ubicación;9,7
+720;WiFi gratis;8,8
+721;Personal;9,1
+721;Instalaciones y servicios;8,5
+721;Limpieza;8,9
+721;Confort;8,9
+721;Relación calidad-precio;8,6
+721;Ubicación;9,1
+721;WiFi gratis;8,0
+722;Personal;8,6
+722;Instalaciones y servicios;8,0
+722;Limpieza;8,5
+722;Confort;8,3
+722;Relación calidad-precio;8,2
+722;Ubicación;8,9
+722;WiFi gratis;7,5
+723;Personal;9,2
+723;Instalaciones y servicios;7,5
+723;Limpieza;8,8
+723;Confort;8,1
+723;Relación calidad-precio;8,7
+723;Ubicación;9,4
+723;WiFi gratis;10
+724;Personal;8,8
+724;Instalaciones y servicios;7,9
+724;Limpieza;8,3
+724;Confort;8,3
+724;Relación calidad-precio;8,4
+724;Ubicación;9,6
+724;WiFi gratis;8,6
+725;Personal;8,9
+725;Instalaciones y servicios;8,7
+725;Limpieza;8,9
+725;Confort;9,0
+725;Relación calidad-precio;8,5
+725;Ubicación;8,3
+725;WiFi gratis;8,4
+726;Personal;9,1
+726;Instalaciones y servicios;8,4
+726;Limpieza;8,9
+726;Confort;8,9
+726;Relación calidad-precio;8,9
+726;Ubicación;9,4
+726;WiFi gratis;8,9
+727;Personal;9,2
+727;Instalaciones y servicios;9,0
+727;Limpieza;9,2
+727;Confort;9,2
+727;Relación calidad-precio;8,7
+727;Ubicación;9,0
+727;WiFi gratis;8,7
+728;Personal;9,1
+728;Instalaciones y servicios;8,4
+728;Limpieza;8,8
+728;Confort;8,8
+728;Relación calidad-precio;8,6
+728;Ubicación;9,5
+728;WiFi gratis;8,9
+729;Personal;8,8
+729;Instalaciones y servicios;7,7
+729;Limpieza;8,2
+729;Confort;8,1
+729;Relación calidad-precio;8,4
+729;Ubicación;8,8
+729;WiFi gratis;7,9
+730;Personal;8,6
+730;Instalaciones y servicios;7,9
+730;Limpieza;8,5
+730;Confort;8,3
+730;Relación calidad-precio;8,6
+730;Ubicación;8,7
+730;WiFi gratis;8,7
+731;Personal;8,6
+731;Instalaciones y servicios;7,7
+731;Limpieza;8,2
+731;Confort;7,9
+731;Relación calidad-precio;8,1
+731;Ubicación;8,2
+731;WiFi gratis;7,6
+732;Personal;8,8
+732;Instalaciones y servicios;8,3
+732;Limpieza;8,4
+732;Confort;8,3
+732;Relación calidad-precio;8,1
+732;Ubicación;8,4
+732;WiFi gratis;8,3
+733;Personal;9,6
+733;Instalaciones y servicios;8,6
+733;Limpieza;9,1
+733;Confort;9,0
+733;Relación calidad-precio;8,9
+733;Ubicación;9,8
+733;WiFi gratis;8,7
+734;Personal;7,8
+734;Instalaciones y servicios;7,6
+734;Limpieza;7,8
+734;Confort;7,8
+734;Relación calidad-precio;7,3
+734;Ubicación;7,9
+734;WiFi gratis;6,7
+735;Personal;9,0
+735;Instalaciones y servicios;8,3
+735;Limpieza;8,9
+735;Confort;8,7
+735;Relación calidad-precio;8,6
+735;Ubicación;9,6
+735;WiFi gratis;8,1
+736;Personal;9,3
+736;Instalaciones y servicios;9,1
+736;Limpieza;9,3
+736;Confort;9,3
+736;Relación calidad-precio;8,7
+736;Ubicación;9,7
+736;WiFi gratis;8,7
+737;Personal;9,2
+737;Instalaciones y servicios;8,3
+737;Limpieza;9,0
+737;Confort;8,8
+737;Relación calidad-precio;9,1
+737;Ubicación;9,5
+737;WiFi gratis;8,7
+738;Personal;8,9
+738;Instalaciones y servicios;7,5
+738;Limpieza;8,4
+738;Confort;7,9
+738;Relación calidad-precio;8,5
+738;Ubicación;9,3
+738;WiFi gratis;7,1
+739;Personal;9,1
+739;Instalaciones y servicios;7,5
+739;Limpieza;8,1
+739;Confort;7,9
+739;Relación calidad-precio;8,3
+739;Ubicación;8,7
+739;WiFi gratis;8,8
+740;Personal;9,5
+740;Instalaciones y servicios;8,6
+740;Limpieza;9,1
+740;Confort;8,9
+740;Relación calidad-precio;9,1
+740;Ubicación;9,4
+740;WiFi gratis;8,7
+741;Personal;8,5
+741;Instalaciones y servicios;7,9
+741;Limpieza;8,4
+741;Confort;8,4
+741;Relación calidad-precio;8,5
+741;Ubicación;9,0
+741;WiFi gratis;7,1
+742;Personal;8,8
+742;Instalaciones y servicios;6,6
+742;Limpieza;8,1
+742;Confort;7,5
+742;Relación calidad-precio;7,4
+742;Ubicación;9,4
+742;WiFi gratis;5,0
+743;Personal;7,7
+743;Instalaciones y servicios;6,5
+743;Limpieza;7,1
+743;Confort;6,8
+743;Relación calidad-precio;7,4
+743;Ubicación;8,5
+743;WiFi gratis;5,0
+744;Personal;9,3
+744;Instalaciones y servicios;9,1
+744;Limpieza;9,4
+744;Confort;9,4
+744;Relación calidad-precio;9,0
+744;Ubicación;9,1
+745;Personal;8,0
+745;Instalaciones y servicios;7,4
+745;Limpieza;8,2
+745;Confort;8,1
+745;Relación calidad-precio;7,9
+745;Ubicación;8,7
+745;WiFi gratis;8,1
+746;Personal;9,1
+746;Instalaciones y servicios;8,9
+746;Limpieza;9,2
+746;Confort;9,2
+746;Relación calidad-precio;8,6
+746;Ubicación;9,3
+746;WiFi gratis;9,2
+747;Personal;9,1
+747;Instalaciones y servicios;8,5
+747;Limpieza;9,1
+747;Confort;8,9
+747;Relación calidad-precio;9,0
+747;Ubicación;9,6
+747;WiFi gratis;8,8
+748;Personal;9,3
+748;Instalaciones y servicios;8,4
+748;Limpieza;8,6
+748;Confort;8,6
+748;Relación calidad-precio;8,9
+748;Ubicación;8,9
+748;WiFi gratis;9,0
+749;Personal;8,9
+749;Instalaciones y servicios;7,8
+749;Limpieza;8,2
+749;Confort;8,0
+749;Relación calidad-precio;8,6
+749;Ubicación;8,8
+749;WiFi gratis;8,8
+750;Personal;9,8
+750;Instalaciones y servicios;9,7
+750;Limpieza;9,9
+750;Confort;9,7
+750;Relación calidad-precio;9,4
+750;Ubicación;9,8
+750;WiFi gratis;9,5
+751;Personal;9,6
+751;Instalaciones y servicios;9,1
+751;Limpieza;9,6
+751;Confort;9,5
+751;Relación calidad-precio;9,0
+751;Ubicación;9,5
+751;WiFi gratis;9,0
+752;Personal;9,3
+752;Instalaciones y servicios;9,3
+752;Limpieza;9,6
+752;Confort;9,5
+752;Relación calidad-precio;8,9
+752;Ubicación;9,8
+752;WiFi gratis;9,2
+753;Personal;9,5
+753;Instalaciones y servicios;9,0
+753;Limpieza;9,3
+753;Confort;9,3
+753;Relación calidad-precio;8,8
+753;Ubicación;9,7
+753;WiFi gratis;9,5
+754;Personal;9,5
+754;Instalaciones y servicios;8,9
+754;Limpieza;9,7
+754;Confort;8,7
+754;Relación calidad-precio;8,4
+754;Ubicación;8,9
+754;WiFi gratis;2,5
+755;Personal;9,2
+755;Instalaciones y servicios;8,6
+755;Limpieza;9,0
+755;Confort;8,8
+755;Relación calidad-precio;8,5
+755;Ubicación;8,0
+755;WiFi gratis;8,8
+756;Personal;8,6
+756;Instalaciones y servicios;9,3
+756;Limpieza;9,5
+756;Confort;9,4
+756;Relación calidad-precio;9,0
+756;Ubicación;9,1
+756;WiFi gratis;7,5
+757;Personal;8,9
+757;Instalaciones y servicios;7,2
+757;Limpieza;7,6
+757;Confort;7,4
+757;Relación calidad-precio;7,2
+757;Ubicación;8,6
+757;WiFi gratis;6,6
+758;Personal;9,6
+758;Instalaciones y servicios;9,7
+758;Limpieza;9,7
+758;Confort;9,6
+758;Relación calidad-precio;9,5
+758;Ubicación;9,6
+758;WiFi gratis;9,1
+759;Personal;9,6
+759;Instalaciones y servicios;9,3
+759;Limpieza;9,5
+759;Confort;9,6
+759;Relación calidad-precio;9,2
+759;Ubicación;9,3
+759;WiFi gratis;9,1
+760;Personal;9,2
+760;Instalaciones y servicios;8,5
+760;Limpieza;9,1
+760;Confort;9,0
+760;Relación calidad-precio;8,7
+760;Ubicación;8,8
+760;WiFi gratis;8,3
+761;Personal;9,8
+761;Instalaciones y servicios;9,3
+761;Limpieza;9,5
+761;Confort;9,4
+761;Relación calidad-precio;8,9
+761;Ubicación;9,8
+761;WiFi gratis;9,2
+762;Personal;9,4
+762;Instalaciones y servicios;8,1
+762;Limpieza;8,8
+762;Confort;8,4
+762;Relación calidad-precio;9,0
+762;Ubicación;9,1
+762;WiFi gratis;10
+763;Personal;9,3
+763;Instalaciones y servicios;9,0
+763;Limpieza;9,2
+763;Confort;9,0
+763;Relación calidad-precio;8,9
+763;Ubicación;9,4
+763;WiFi gratis;8,2
+764;Personal;7,2
+764;Instalaciones y servicios;6,4
+764;Limpieza;6,8
+764;Confort;6,7
+764;Relación calidad-precio;7,3
+764;Ubicación;7,5
+764;WiFi gratis;7,5
+765;Personal;8,0
+765;Instalaciones y servicios;8,3
+765;Limpieza;8,5
+765;Confort;8,3
+765;Relación calidad-precio;8,4
+765;Ubicación;8,7
+765;WiFi gratis;10
+766;Personal;9,5
+766;Instalaciones y servicios;8,3
+766;Limpieza;9,0
+766;Confort;8,6
+766;Relación calidad-precio;8,9
+766;Ubicación;9,1
+767;Personal;2,5
+767;Instalaciones y servicios;2,5
+767;Limpieza;2,5
+767;Confort;2,5
+767;Relación calidad-precio;2,5
+767;Ubicación;2,5

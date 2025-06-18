@@ -1,0 +1,8 @@
+1º Crear una cuenta de google
+2º Activar verificación en dos pasos
+3º Acceder a la dirección web: "myaccount.google.com/u/apppasswords"
+4º Poner nombre a la aplicación.
+5º Guarda la contraseña de la aplicación.
+6º Abre el documento ".env" y añade las credenciales a las variables de entorno.
+7º Abre el script y añade la dirección del correo destinatario.
+8º Ejecuta el script.

@@ -1,0 +1,110 @@
+--------------------------------------------------------------------------------------------------------------------------------
+                                                    PROYECTO FIN DE MASTER
+--------------------------------------------------------------------------------------------------------------------------------
+
+AUTOR DEL PROYECTO
+Aarón Martínez Dumont
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+DESCRIPCIÓN DEL PROYECTO
+Este proyecto tiene como objetivo extraer, procesar y visualizar datos de alojamientos turísticos en diferentes 
+ciudades de España. Los datos se obtienen de la web de Booking.com, se procesan y almacenan en una base de datos 
+SQL de XAMPP para enlazar los datos con una página web de Wordpress. Se puede procesar la información con PowerBI y 
+los comentarios se resumirán por una IA.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+ESTRUCTURA DEL PROYECTO
+1. Extracción de Datos:
+    -Se utiliza Selenium para navegar y extraer información de Booking.com.
+    -Los datos extraídos incluyen: nombre del alojamiento, tipo, valoración, 
+        las opciones de hospedaje, precio, calendario, localización, ciudad, 
+	los negocios cercanos y comentarios de usuarios.
+
+2. Procesamiento de Datos:
+    -Los datos se guardan en varios archivos CSV cuyos campos están separados por punto y coma 
+	(camas.csv, categoria_notas.csv, comentarios.csv, hoteles.csv, pois.csv y precios.csv).
+    -Los documentos ya tienen el formato necesario para ser procesados en excel, PowerBI, etc... 
+	o ser importados en una base de datos relacional.
+
+3. Almacenamiento:
+    -Los datos se importan en una base de datos SQL (MariaDB) en PHPmyAdmin, el servicio de XAMPP.
+    -El script de la base de datos forma las tablas necesarias con sus restricciones para la importación directa.
+
+4. Visualización:
+    -Los datos se visualizan en el frontend, en PowerBI o donde se precise.
+
+--------------------------------------------------------------------------------------------------------------------------------
+    
+REQUISITOS
+    -Python 3.8+
+    -Librerías necesarias:
+        -selenium
+        -re
+        -time
+	-csv
+	-python-dotenv
+	-ssl
+	-smtplib
+	-random
+    -Herramientas adicionales:
+	-Visual Studio Code
+        -Chromedriver
+	-Navegador Web (Google Chrome)
+	-XAMPP (Compatible en Windows y Linux)
+	-WordPress (Hay que hacerse una cuenta)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+EJECUCIÓN DEL PROYECTO
+1. Configuración inicial:
+    -Asegúrate de que el archivo chromedriver.exe esté en la ubicación correcta.
+    -Instala las dependencias necesarias: "pip install selenium".
+    -Instala XAMPP con los servicios de Apache y SQL.
+    -Instala WordPress e introduce la página web creada en el htdocs de XAMPP.
+
+2. Extracción de datos:
+    -Ejecuta el script principal python: "proyecto_fin_de_master_v1.0.0"
+
+3. Procesamiento del CSV:
+    Los archivos .csv se generan automáticamente.
+    Se importan en la base de datos del PHPmyAdmin mediante importación (ver vídeo tutorial).
+
+4. Carga en la base de datos:
+    -De no estar creada la base de datos en el PHPmyAdmin, créala con el nombre "espanyola",  
+	copia y pega el contenido del script SQL "BBDD.sql" en su hoja de trabajo, finalmente 
+	ejecútalo dándole a continuar (ver vídeo tutorial).
+    -Los datos se importan en las tablas individualmente. Primero en la tabla hoteles y 
+	después replica el procedimiento con el resto (ver vídeo tutorial).
+
+5. Visualización:
+    -Se pueden visualizar en la base de datos ya sea por consulta o por entorno gráfico.
+    -Abre el archivo Power BI (visualizacion.pbix) para explorar los datos.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+ESTRUCTURA DE ARCHIVOS
+    -proyecto_fin_de_master_v1.0.0: Script principal para la extracción y procesamiento de datos.
+    -Funciones_Proyecto.py: Contiene funciones auxiliares como la configuración de Selenium y el tratamiento del CSV.
+    -BBDD.sql: Script SQL para crear la estructura de la base de datos.
+    -camas.csv: Archivo CSV con los datos extraídos.
+    -categorias_notas.csv: Archivo CSV con los datos extraídos.
+    -comentarios.csv: Archivo CSV con los datos extraídos.
+    -hoteles.csv: Archivo CSV con los datos extraídos.
+    -pois.csv: Archivo CSV con los datos extraídos.
+    -precios.csv: Archivo CSV con los datos extraídos.
+    -visualizacion.pbix: Archivo de Power BI para la visualización de los datos.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+CONTRIBUCIONES
+Si deseas contribuir a este proyecto, puedes enviar un pull request o reportar problemas en el repositorio de GitHub.
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+LICENCIA
+Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
+
+--------------------------------------------------------------------------------------------------------------------------------
